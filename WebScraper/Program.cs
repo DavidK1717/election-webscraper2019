@@ -114,6 +114,7 @@ namespace WebScraper
                     var json = GetHeadlineData(constituencyHeads, docInner1);
 
 #if JSON
+                    // save json file - we also save as csv later
                     File.WriteAllText(csvDir + "election_results2019.json", json);
 #endif
                 }

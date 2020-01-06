@@ -1,0 +1,651 @@
+﻿conID,conName,ons
+1,Aberavon,W07000049
+2,Aberconwy,W07000058
+3,Aberdeen North,S14000001
+4,Aberdeen South,S14000002
+5,Aberdeenshire West & Kincardine,S14000058
+6,Airdrie & Shotts,S14000003
+7,Aldershot,E14000530
+8,Aldridge-Brownhills,E14000531
+9,Altrincham & Sale West,E14000532
+10,Alyn & Deeside,W07000043
+11,Amber Valley,E14000533
+12,Angus,S14000004
+13,Arfon,W07000057
+14,Argyll & Bute,S14000005
+15,Arundel & South Downs,E14000534
+16,Ashfield,E14000535
+17,Ashford,E14000536
+18,Ashton-under-Lyne,E14000537
+19,Aylesbury,E14000538
+20,"Ayr, Carrick & Cumnock",S14000006
+21,Ayrshire Central,S14000010
+22,Ayrshire North & Arran,S14000048
+23,Banbury,E14000539
+24,Banff & Buchan,S14000007
+25,Barking,E14000540
+26,Barnsley Central,E14000541
+27,Barnsley East,E14000542
+28,Barrow & Furness,E14000543
+29,Basildon & Billericay,E14000544
+30,Basildon South & Thurrock East,E14000933
+31,Basingstoke,E14000545
+32,Bassetlaw,E14000546
+33,Bath,E14000547
+34,Batley & Spen,E14000548
+35,Battersea,E14000549
+36,Beaconsfield,E14000550
+37,Beckenham,E14000551
+38,Bedford,E14000552
+39,Bedfordshire Mid,E14000813
+40,Bedfordshire North East,E14000841
+41,Bedfordshire South West,E14000949
+42,Belfast East,N06000001
+43,Belfast North,N06000002
+44,Belfast South,N06000003
+45,Belfast West,N06000004
+46,Bermondsey & Old Southwark,E14000553
+47,Berwick-upon-Tweed,E14000554
+48,"Berwickshire, Roxburgh & Selkirk",S14000008
+49,Bethnal Green & Bow,E14000555
+50,Beverley & Holderness,E14000556
+51,Bexhill & Battle,E14000557
+52,Bexleyheath & Crayford,E14000558
+53,Birkenhead,E14000559
+54,Birmingham Edgbaston,E14000560
+55,Birmingham Erdington,E14000561
+56,Birmingham Hall Green,E14000562
+57,Birmingham Hodge Hill,E14000563
+58,Birmingham Ladywood,E14000564
+59,Birmingham Northfield,E14000565
+60,Birmingham Perry Barr,E14000566
+61,Birmingham Selly Oak,E14000567
+62,Birmingham Yardley,E14000568
+63,Bishop Auckland,E14000569
+64,Blackburn,E14000570
+65,Blackley & Broughton,E14000571
+66,Blackpool North & Cleveleys,E14000572
+67,Blackpool South,E14000573
+68,Blaenau Gwent,W07000072
+69,Blaydon,E14000574
+70,Blyth Valley,E14000575
+71,Bognor Regis & Littlehampton,E14000576
+72,Bolsover,E14000577
+73,Bolton North East,E14000578
+74,Bolton South East,E14000579
+75,Bolton West,E14000580
+76,Bootle,E14000581
+77,Boston & Skegness,E14000582
+78,Bosworth,E14000583
+79,Bournemouth East,E14000584
+80,Bournemouth West,E14000585
+81,Bracknell,E14000586
+82,Bradford East,E14000587
+83,Bradford South,E14000588
+84,Bradford West,E14000589
+85,Braintree,E14000590
+86,Brecon & Radnorshire,W07000068
+87,Brent Central,E14000591
+88,Brent North,E14000592
+89,Brentford & Isleworth,E14000593
+90,Brentwood & Ongar,E14000594
+91,Bridgend,W07000073
+92,Bridgwater & Somerset West,E14000595
+93,Brigg & Goole,E14000596
+94,Brighton Kemptown,E14000597
+95,Brighton Pavilion,E14000598
+96,Bristol East,E14000599
+97,Bristol North West,E14000600
+98,Bristol South,E14000601
+99,Bristol West,E14000602
+100,Broadland,E14000603
+101,Bromley & Chislehurst,E14000604
+102,Bromsgrove,E14000605
+103,Broxbourne,E14000606
+104,Broxtowe,E14000607
+105,Buckingham,E14000608
+106,Burnley,E14000609
+107,Burton,E14000610
+108,Bury North,E14000611
+109,Bury South,E14000612
+110,Bury St Edmunds,E14000613
+111,Caerphilly,W07000076
+112,"Caithness, Sutherland & Easter Ross",S14000009
+113,Calder Valley,E14000614
+114,Camberwell & Peckham,E14000615
+115,Camborne & Redruth,E14000616
+116,Cambridge,E14000617
+117,Cambridgeshire North East,E14000842
+118,Cambridgeshire North West,E14000855
+119,Cambridgeshire South,E14000934
+120,Cambridgeshire South East,E14000937
+121,Cannock Chase,E14000618
+122,Canterbury,E14000619
+123,Cardiff Central,W07000050
+124,Cardiff North,W07000051
+125,Cardiff South & Penarth,W07000080
+126,Cardiff West,W07000079
+127,Carlisle,E14000620
+128,Carmarthen East & Dinefwr,W07000067
+129,Carmarthen West & Pembrokeshire South,W07000066
+130,Carshalton & Wallington,E14000621
+131,Castle Point,E14000622
+132,Ceredigion,W07000064
+133,Charnwood,E14000625
+134,Chatham & Aylesford,E14000626
+135,Cheadle,E14000627
+136,Chelmsford,E14000628
+137,Chelsea & Fulham,E14000629
+138,Cheltenham,E14000630
+139,Chesham & Amersham,E14000631
+140,"Chester, City of",E14000640
+141,Chesterfield,E14000632
+142,Chichester,E14000633
+143,Chingford & Woodford Green,E14000634
+144,Chippenham,E14000635
+145,Chipping Barnet,E14000636
+146,Chorley,E14000637
+147,Christchurch,E14000638
+148,Cities of London & Westminster,E14000639
+149,Clacton,E14000642
+150,Cleethorpes,E14000643
+151,Clwyd South,W07000062
+152,Clwyd West,W07000059
+153,"Coatbridge, Chryston & Bellshill",S14000011
+154,Colchester,E14000644
+155,Colne Valley,E14000645
+156,Congleton,E14000646
+157,Copeland,E14000647
+158,Corby,E14000648
+159,Cornwall North,E14000837
+160,Cornwall South East,E14000938
+161,"Cotswolds, The",E14000991
+162,Coventry North East,E14000649
+163,Coventry North West,E14000650
+164,Coventry South,E14000651
+165,Crawley,E14000652
+166,Crewe & Nantwich,E14000653
+167,Croydon Central,E14000654
+168,Croydon North,E14000655
+169,Croydon South,E14000656
+170,"Cumbernauld, Kilsyth & Kirkintilloch East",S14000012
+171,Cynon Valley,W07000070
+172,Dagenham & Rainham,E14000657
+173,Darlington,E14000658
+174,Dartford,E14000659
+175,Daventry,E14000660
+176,Delyn,W07000042
+177,Denton & Reddish,E14000661
+178,Derby North,E14000662
+179,Derby South,E14000663
+180,Derbyshire Dales,E14000664
+181,Derbyshire Mid,E14000814
+182,Derbyshire North East,E14000843
+183,Derbyshire South,E14000935
+184,Devizes,E14000665
+185,Devon Central,E14000623
+186,Devon East,E14000678
+187,Devon North,E14000838
+188,Devon South West,E14000950
+189,Devon West & Torridge,E14001000
+190,Dewsbury,E14000666
+191,Don Valley,E14000667
+192,Doncaster Central,E14000668
+193,Doncaster North,E14000669
+194,Dorset Mid & Poole North,E14000815
+195,Dorset North,E14000839
+196,Dorset South,E14000936
+197,Dorset West,E14001031
+198,Dover,E14000670
+199,Dudley North,E14000671
+200,Dudley South,E14000672
+201,Dulwich & West Norwood,E14000673
+202,Dumfries & Galloway,S14000013
+203,"Dumfriesshire, Clydesdale & Tweeddale",S14000014
+204,Dunbartonshire East,S14000018
+205,Dunbartonshire West,S14000059
+206,Dundee East,S14000015
+207,Dundee West,S14000016
+208,Dunfermline & West Fife,S14000017
+209,Durham North,E14000840
+210,Durham North West,E14000856
+211,"Durham, City of",E14000641
+212,Dwyfor Meirionnydd,W07000061
+213,Ealing Central & Acton,E14000674
+214,Ealing North,E14000675
+215,Ealing Southall,E14000676
+216,Easington,E14000677
+217,East Antrim,N06000005
+218,East Ham,E14000679
+219,"East Kilbride, Strathaven & Lesmahagow",S14000019
+220,East Londonderry,N06000006
+221,East Lothian,S14000020
+222,Eastbourne,E14000684
+223,Eastleigh,E14000685
+224,Eddisbury,E14000686
+225,Edinburgh East,S14000022
+226,Edinburgh North & Leith,S14000023
+227,Edinburgh South,S14000024
+228,Edinburgh South West,S14000025
+229,Edinburgh West,S14000026
+230,Edmonton,E14000687
+231,Ellesmere Port & Neston,E14000688
+232,Elmet & Rothwell,E14000689
+233,Eltham,E14000690
+234,Enfield North,E14000691
+235,Enfield Southgate,E14000692
+236,Epping Forest,E14000693
+237,Epsom & Ewell,E14000694
+238,Erewash,E14000695
+239,Erith & Thamesmead,E14000696
+240,Esher & Walton,E14000697
+241,Exeter,E14000698
+242,Falkirk,S14000028
+243,Fareham,E14000699
+244,Faversham & Mid Kent,E14000700
+245,Feltham & Heston,E14000701
+246,Fermanagh & South Tyrone,N06000007
+247,Fife North East,S14000049
+248,Filton & Bradley Stoke,E14000702
+249,Finchley & Golders Green,E14000703
+250,Folkestone & Hythe,E14000704
+251,Forest of Dean,E14000705
+252,Foyle,N06000008
+253,Fylde,E14000706
+254,Gainsborough,E14000707
+255,Garston & Halewood,E14000708
+256,Gateshead,E14000709
+257,Gedling,E14000710
+258,Gillingham & Rainham,E14000711
+259,Glasgow Central,S14000029
+260,Glasgow East,S14000030
+261,Glasgow North,S14000031
+262,Glasgow North East,S14000032
+263,Glasgow North West,S14000033
+264,Glasgow South,S14000034
+265,Glasgow South West,S14000035
+266,Glenrothes,S14000036
+267,Gloucester,E14000712
+268,Gordon,S14000037
+269,Gosport,E14000713
+270,Gower,W07000046
+271,Grantham & Stamford,E14000714
+272,Gravesham,E14000715
+273,Great Grimsby,E14000716
+274,Great Yarmouth,E14000717
+275,Greenwich & Woolwich,E14000718
+276,Guildford,E14000719
+277,Hackney North & Stoke Newington,E14000720
+278,Hackney South & Shoreditch,E14000721
+279,Halesowen & Rowley Regis,E14000722
+280,Halifax,E14000723
+281,Haltemprice & Howden,E14000724
+282,Halton,E14000725
+283,Hammersmith,E14000726
+284,Hampshire East,E14000680
+285,Hampshire North East,E14000844
+286,Hampshire North West,E14000857
+287,Hampstead & Kilburn,E14000727
+288,Harborough,E14000728
+289,Harlow,E14000729
+290,Harrogate & Knaresborough,E14000730
+291,Harrow East,E14000731
+292,Harrow West,E14000732
+293,Hartlepool,E14000733
+294,Harwich & Essex North,E14000734
+295,Hastings & Rye,E14000735
+296,Havant,E14000736
+297,Hayes & Harlington,E14000737
+298,Hazel Grove,E14000738
+299,Hemel Hempstead,E14000739
+300,Hemsworth,E14000740
+301,Hendon,E14000741
+302,Henley,E14000742
+303,Hereford & Herefordshire South,E14000743
+304,Herefordshire North,E14000847
+305,Hertford & Stortford,E14000744
+306,Hertfordshire North East,E14000845
+307,Hertfordshire South West,E14000951
+308,Hertsmere,E14000745
+309,Hexham,E14000746
+310,Heywood & Middleton,E14000747
+311,High Peak,E14000748
+312,Hitchin & Harpenden,E14000749
+313,Holborn & St Pancras,E14000750
+314,Hornchurch & Upminster,E14000751
+315,Hornsey & Wood Green,E14000752
+316,Horsham,E14000753
+317,Houghton & Sunderland South,E14000754
+318,Hove,E14000755
+319,Huddersfield,E14000756
+320,Hull East,E14000771
+321,Hull North,E14000772
+322,Hull West & Hessle,E14000773
+323,Huntingdon,E14000757
+324,Hyndburn,E14000758
+325,Ilford North,E14000759
+326,Ilford South,E14000760
+327,Inverclyde,S14000038
+328,"Inverness, Nairn, Badenoch & Strathspey",S14000039
+329,Ipswich,E14000761
+330,Isle of Wight,E14000762
+331,Islington North,E14000763
+332,Islington South & Finsbury,E14000764
+333,Islwyn,W07000077
+334,Jarrow,E14000765
+335,Keighley,E14000766
+336,Kenilworth & Southam,E14000767
+337,Kensington,E14000768
+338,Kettering,E14000769
+339,Kilmarnock & Loudoun,S14000040
+340,Kingston & Surbiton,E14000770
+341,Kingswood,E14000774
+342,Kirkcaldy & Cowdenbeath,S14000041
+343,Knowsley,E14000775
+344,Lagan Valley,N06000009
+345,Lanark & Hamilton East,S14000042
+346,Lancashire West,E14001033
+347,Lancaster & Fleetwood,E14000776
+348,Leeds Central,E14000777
+349,Leeds East,E14000778
+350,Leeds North East,E14000779
+351,Leeds North West,E14000780
+352,Leeds West,E14000781
+353,Leicester East,E14000782
+354,Leicester South,E14000783
+355,Leicester West,E14000784
+356,Leicestershire North West,E14000858
+357,Leicestershire South,E14000940
+358,Leigh,E14000785
+359,Lewes,E14000786
+360,Lewisham Deptford,E14000789
+361,Lewisham East,E14000787
+362,Lewisham West & Penge,E14000788
+363,Leyton & Wanstead,E14000790
+364,Lichfield,E14000791
+365,Lincoln,E14000792
+366,Linlithgow & Falkirk East,S14000043
+367,Liverpool Riverside,E14000793
+368,Liverpool Walton,E14000794
+369,Liverpool Wavertree,E14000795
+370,Liverpool West Derby,E14000796
+371,Livingston,S14000044
+372,Llanelli,W07000045
+373,Loughborough,E14000797
+374,Louth & Horncastle,E14000798
+375,Ludlow,E14000799
+376,Luton North,E14000800
+377,Luton South,E14000801
+378,Macclesfield,E14000802
+379,Maidenhead,E14000803
+380,Maidstone & The Weald,E14000804
+381,Makerfield,E14000805
+382,Maldon,E14000806
+383,Manchester Central,E14000807
+384,Manchester Gorton,E14000808
+385,Manchester Withington,E14000809
+386,Mansfield,E14000810
+387,Meon Valley,E14000811
+388,Meriden,E14000812
+389,Merthyr Tydfil & Rhymney,W07000071
+390,Mid Ulster,N06000010
+391,Middlesbrough,E14000819
+392,Middlesbrough South & Cleveland East,E14000820
+393,Midlothian,S14000045
+394,Milton Keynes North,E14000821
+395,Milton Keynes South,E14000822
+396,Mitcham & Morden,E14000823
+397,Mole Valley,E14000824
+398,Monmouth,W07000054
+399,Montgomeryshire,W07000063
+400,Moray,S14000046
+401,Morecambe & Lunesdale,E14000825
+402,Morley & Outwood,E14000826
+403,Motherwell & Wishaw,S14000047
+404,Na h-Eileanan an Iar (Western Isles),S14000027
+405,Neath,W07000069
+406,New Forest East,E14000827
+407,New Forest West,E14000828
+408,Newark,E14000829
+409,Newbury,E14000830
+410,Newcastle upon Tyne Central,E14000831
+411,Newcastle upon Tyne East,E14000832
+412,Newcastle upon Tyne North,E14000833
+413,Newcastle-under-Lyme,E14000834
+414,Newport East,W07000055
+415,Newport West,W07000056
+416,Newry & Armagh,N06000011
+417,Newton Abbot,E14000835
+418,Norfolk Mid,E14000816
+419,Norfolk North,E14000848
+420,Norfolk North West,E14000859
+421,Norfolk South,E14000941
+422,Norfolk South West,E14000952
+423,"Normanton, Pontefract & Castleford",E14000836
+424,North Antrim,N06000012
+425,North Down,N06000013
+426,Northampton North,E14000861
+427,Northampton South,E14000862
+428,Northamptonshire South,E14000942
+429,Norwich North,E14000863
+430,Norwich South,E14000864
+431,Nottingham East,E14000865
+432,Nottingham North,E14000866
+433,Nottingham South,E14000867
+434,Nuneaton,E14000868
+435,Ochil & South Perthshire,S14000050
+436,Ogmore,W07000074
+437,Old Bexley & Sidcup,E14000869
+438,Oldham East & Saddleworth,E14000870
+439,Oldham West & Royton,E14000871
+440,Orkney & Shetland,S14000051
+441,Orpington,E14000872
+442,Oxford East,E14000873
+443,Oxford West & Abingdon,E14000874
+444,Paisley & Renfrewshire North,S14000052
+445,Paisley & Renfrewshire South,S14000053
+446,Pendle,E14000875
+447,Penistone & Stocksbridge,E14000876
+448,Penrith & The Border,E14000877
+449,Perth & North Perthshire,S14000054
+450,Peterborough,E14000878
+451,Plymouth Moor View,E14000879
+452,Plymouth Sutton & Devonport,E14000880
+453,Pontypridd,W07000075
+454,Poole,E14000881
+455,Poplar & Limehouse,E14000882
+456,Portsmouth North,E14000883
+457,Portsmouth South,E14000884
+458,Preseli Pembrokeshire,W07000065
+459,Preston,E14000885
+460,Pudsey,E14000886
+461,Putney,E14000887
+462,Rayleigh & Wickford,E14000888
+463,Reading East,E14000889
+464,Reading West,E14000890
+465,Redcar,E14000891
+466,Redditch,E14000892
+467,Reigate,E14000893
+468,Renfrewshire East,S14000021
+469,Rhondda,W07000052
+470,Ribble Valley,E14000894
+471,Richmond (Yorks),E14000895
+472,Richmond Park,E14000896
+473,Rochdale,E14000897
+474,Rochester & Strood,E14000898
+475,Rochford & Southend East,E14000899
+476,Romford,E14000900
+477,Romsey & Southampton North,E14000901
+478,"Ross, Skye & Lochaber",S14000055
+479,Rossendale & Darwen,E14000902
+480,Rother Valley,E14000903
+481,Rotherham,E14000904
+482,Rugby,E14000905
+483,"Ruislip, Northwood & Pinner",E14000906
+484,Runnymede & Weybridge,E14000907
+485,Rushcliffe,E14000908
+486,Rutherglen & Hamilton West,S14000056
+487,Rutland & Melton,E14000909
+488,Saffron Walden,E14000910
+489,Salford & Eccles,E14000911
+490,Salisbury,E14000912
+491,Scarborough & Whitby,E14000913
+492,Scunthorpe,E14000914
+493,Sedgefield,E14000915
+494,Sefton Central,E14000916
+495,Selby & Ainsty,E14000917
+496,Sevenoaks,E14000918
+497,Sheffield Brightside & Hillsborough,E14000921
+498,Sheffield Central,E14000919
+499,Sheffield Hallam,E14000922
+500,Sheffield Heeley,E14000923
+501,Sheffield South East,E14000920
+502,Sherwood,E14000924
+503,Shipley,E14000925
+504,Shrewsbury & Atcham,E14000926
+505,Shropshire North,E14000849
+506,Sittingbourne & Sheppey,E14000927
+507,Skipton & Ripon,E14000928
+508,Sleaford & North Hykeham,E14000929
+509,Slough,E14000930
+510,Solihull,E14000931
+511,Somerset North,E14000850
+512,Somerset North East,E14000846
+513,Somerton & Frome,E14000932
+514,South Antrim,N06000014
+515,South Down,N06000015
+516,South Holland & The Deepings,E14000939
+517,South Ribble,E14000943
+518,South Shields,E14000944
+519,Southampton Itchen,E14000955
+520,Southampton Test,E14000956
+521,Southend West,E14000957
+522,Southport,E14000958
+523,Spelthorne,E14000959
+524,St Albans,E14000960
+525,St Austell & Newquay,E14000961
+526,St Helens North,E14000962
+527,St Helens South & Whiston,E14000963
+528,St Ives,E14000964
+529,Stafford,E14000965
+530,Staffordshire Moorlands,E14000966
+531,Staffordshire South,E14000945
+532,Stalybridge & Hyde,E14000967
+533,Stevenage,E14000968
+534,Stirling,S14000057
+535,Stockport,E14000969
+536,Stockton North,E14000970
+537,Stockton South,E14000971
+538,Stoke-on-Trent Central,E14000972
+539,Stoke-on-Trent North,E14000973
+540,Stoke-on-Trent South,E14000974
+541,Stone,E14000975
+542,Stourbridge,E14000976
+543,Strangford,N06000016
+544,Stratford-on-Avon,E14000977
+545,Streatham,E14000978
+546,Stretford & Urmston,E14000979
+547,Stroud,E14000980
+548,Suffolk Central & Ipswich North,E14000624
+549,Suffolk Coastal,E14000981
+550,Suffolk South,E14000946
+551,Suffolk West,E14001034
+552,Sunderland Central,E14000982
+553,Surrey East,E14000681
+554,Surrey Heath,E14000983
+555,Surrey South West,E14000953
+556,Sussex Mid,E14000817
+557,Sutton & Cheam,E14000984
+558,Sutton Coldfield,E14000985
+559,Swansea East,W07000048
+560,Swansea West,W07000047
+561,Swindon North,E14000851
+562,Swindon South,E14000947
+563,Tamworth,E14000986
+564,Tatton,E14000987
+565,Taunton Deane,E14000988
+566,Telford,E14000989
+567,Tewkesbury,E14000990
+568,Thanet North,E14000852
+569,Thanet South,E14000948
+570,Thirsk & Malton,E14000993
+571,Thornbury & Yate,E14000994
+572,Thurrock,E14000995
+573,Tiverton & Honiton,E14000996
+574,Tonbridge & Malling,E14000997
+575,Tooting,E14000998
+576,Torbay,E14000999
+577,Torfaen,W07000053
+578,Totnes,E14001001
+579,Tottenham,E14001002
+580,Truro & Falmouth,E14001003
+581,Tunbridge Wells,E14001004
+582,Twickenham,E14001005
+583,Tynemouth,E14001006
+584,Tyneside North,E14000853
+585,Upper Bann,N06000017
+586,Uxbridge & Ruislip South,E14001007
+587,Vale of Clwyd,W07000060
+588,Vale of Glamorgan,W07000078
+589,Vauxhall,E14001008
+590,Wakefield,E14001009
+591,Wallasey,E14001010
+592,Walsall North,E14001011
+593,Walsall South,E14001012
+594,Walthamstow,E14001013
+595,Wansbeck,E14001014
+596,Wantage,E14001015
+597,Warley,E14001016
+598,Warrington North,E14001017
+599,Warrington South,E14001018
+600,Warwick & Leamington,E14001019
+601,Warwickshire North,E14000854
+602,Washington & Sunderland West,E14001020
+603,Watford,E14001021
+604,Waveney,E14001022
+605,Wealden,E14001023
+606,Weaver Vale,E14001024
+607,Wellingborough,E14001025
+608,Wells,E14001026
+609,Welwyn Hatfield,E14001027
+610,Wentworth & Dearne,E14001028
+611,West Bromwich East,E14001029
+612,West Bromwich West,E14001030
+613,West Ham,E14001032
+614,West Tyrone,N06000018
+615,Westminster North,E14001036
+616,Westmorland & Lonsdale,E14001037
+617,Weston-Super-Mare,E14001038
+618,Wigan,E14001039
+619,Wiltshire North,E14000860
+620,Wiltshire South West,E14000954
+621,Wimbledon,E14001040
+622,Winchester,E14001041
+623,Windsor,E14001042
+624,Wirral South,E14001043
+625,Wirral West,E14001044
+626,Witham,E14001045
+627,Witney,E14001046
+628,Woking,E14001047
+629,Wokingham,E14001048
+630,Wolverhampton North East,E14001049
+631,Wolverhampton South East,E14001050
+632,Wolverhampton South West,E14001051
+633,Worcester,E14001052
+634,Worcestershire Mid,E14000818
+635,Worcestershire West,E14001035
+636,Workington,E14001053
+637,Worsley & Eccles South,E14001054
+638,Worthing East & Shoreham,E14000682
+639,Worthing West,E14001055
+640,"Wrekin, The",E14000992
+641,Wrexham,W07000044
+642,Wycombe,E14001056
+643,Wyre & Preston North,E14001057
+644,Wyre Forest,E14001058
+645,Wythenshawe & Sale East,E14001059
+646,Yeovil,E14001060
+647,Ynys Mon,W07000041
+648,York Central,E14001061
+649,York Outer,E14001062
+650,Yorkshire East,E14000683

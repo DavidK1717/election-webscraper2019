@@ -1,0 +1,3321 @@
+﻿conID,electionID,partyCode,partyName,candidateName,votes,voteShare,voteShareChange
+1,3,LAB,Labour,Stephen Kinnock,17008,53.8,-14.3
+1,3,CON,Conservative,Charlotte Lang,6518,20.6,2.9
+1,3,BRX,The Brexit Party,Glenda Davies,3108,9.8,9.8
+1,3,PC,Plaid Cymru,Nigel Hunt,2711,8.6,0.3
+1,3,LD,Liberal Democrat,Sheila Kingston-Jones,1072,3.4,1.6
+1,3,IND,Independent,Captain Beany,731,2.3,2.3
+1,3,GRN,Green,Giorgia Finney,450,1.4,1.4
+2,3,CON,Conservative,Robin Millar,14687,46.1,1.5
+2,3,LAB,Labour,Emily Owen,12653,39.7,-2.9
+2,3,PC,Plaid Cymru,Lisa Goodier,2704,8.5,-1.4
+2,3,LD,Liberal Democrat,Jason Edwards,1821,5.7,2.8
+3,3,SNP,Scottish National Party,Kirsty Blackman,20205,54.0,12.7
+3,3,CON,Conservative,Ryan Houghton,7535,20.1,-2.6
+3,3,LAB,Labour,Nurul Ali,4939,13.2,-16.8
+3,3,LD,Liberal Democrat,Isobel Davidson,2846,7.6,3.0
+3,3,BRX,The Brexit Party,Seb Leslie,1008,2.7,2.7
+3,3,GRN,Green,Guy Ingerson,880,2.4,2.4
+4,3,SNP,Scottish National Party,Stephen Flynn,20388,44.7,13.2
+4,3,CON,Conservative,Douglas Lumsden,16398,35.9,-6.2
+4,3,LD,Liberal Democrat,Ian Yuill,5018,11.0,5.1
+4,3,LAB,Labour,Shona Simpson,3834,8.4,-12.1
+5,3,CON,Conservative,Andrew Bowie,22752,42.7,-5.2
+5,3,SNP,Scottish National Party,Fergus Mutch,21909,41.1,8.6
+5,3,LD,Liberal Democrat,John Waddell,6253,11.7,3.1
+5,3,LAB,Labour,Paddy Coffield,2431,4.6,-6.5
+6,3,SNP,Scottish National Party,Neil Gray,17929,45.1,7.5
+6,3,LAB,Labour,Helen McFarlane,12728,32.0,-5.1
+6,3,CON,Conservative,Lorraine Nolan,7011,17.6,-5.6
+6,3,LD,Liberal Democrat,William Crossman,1419,3.6,1.5
+6,3,GRN,Green,Rosemary McGowan,685,1.7,1.7
+7,3,CON,Conservative,Leo Docherty,27980,58.4,3.3
+7,3,LAB,Labour,Howard Kaye,11282,23.5,-8.1
+7,3,LD,Liberal Democrat,Alan Hilliar,6920,14.4,7.0
+7,3,GRN,Green,Donna Wallace,1750,3.7,1.4
+8,3,CON,Conservative,Wendy Morton,27850,70.8,5.4
+8,3,LAB,Labour,David Morgan,8014,20.4,-9.5
+8,3,LD,Liberal Democrat,Ian Garrett,2371,6.0,2.7
+8,3,GRN,Green,Bill McComish,771,2.0,2.0
+8,3,MRLP,Monster Raving Loony Party,Mark Beech,336,0.9,-0.6
+9,3,CON,Conservative,Graham Brady,26311,48.0,-3.0
+9,3,LAB,Labour,Andrew Western,20172,36.8,-2.0
+9,3,LD,Liberal Democrat,Angela Smith,6036,11.0,3.3
+9,3,GRN,Green,Geraldine Coggins,1566,2.9,1.0
+9,3,LIB,Liberal Party,Neil Taylor,454,0.8,0.3
+9,3,IND,Independent,Iram Kiani,224,0.4,0.4
+10,3,LAB,Labour,Mark Tami,18271,42.5,-9.6
+10,3,CON,Conservative,Sanjoy Sen,18058,42.0,1.6
+10,3,BRX,The Brexit Party,Simon Wall,2678,6.2,6.2
+10,3,LD,Liberal Democrat,Donna Lalek,2548,5.9,3.5
+10,3,PC,Plaid Cymru,Susan Hills,1453,3.4,0.8
+11,3,CON,Conservative,Nigel Mills,29096,63.9,7.3
+11,3,LAB,Labour,Adam Thompson,12210,26.8,-11.6
+11,3,LD,Liberal Democrat,Kate Smith,2873,6.3,3.9
+11,3,GRN,Green,Lian Pizzey,1388,3.0,1.6
+12,3,SNP,Scottish National Party,Dave Doogan,21216,49.1,10.6
+12,3,CON,Conservative,Kirstene Hair,17421,40.4,-4.8
+12,3,LD,Liberal Democrat,Ben Lawrie,2482,5.7,2.5
+12,3,LAB,Labour,Monique Miller,2051,4.8,-8.3
+13,3,PC,Plaid Cymru,Hywel Williams,13134,45.2,4.3
+13,3,LAB,Labour,Steffie Williams Roberts,10353,35.6,-4.9
+13,3,CON,Conservative,Gonul Daniels,4428,15.2,-1.1
+13,3,BRX,The Brexit Party,Gary Gribben,1159,4.0,4.0
+14,3,SNP,Scottish National Party,Brendan O&#39;Hara,21040,43.8,7.8
+14,3,CON,Conservative,Gary Mulvaney,16930,35.2,2.0
+14,3,LD,Liberal Democrat,Alan Reid,6832,14.2,-4.0
+14,3,LAB,Labour,Rhea Barnes,3248,6.8,-5.8
+15,3,CON,Conservative,Andrew Griffith,35566,57.9,-4.4
+15,3,LD,Liberal Democrat,Alison Bennett,13045,21.2,13.3
+15,3,LAB,Labour,Bella Sankey,9722,15.8,-6.9
+15,3,GRN,Green,Isabel Thurston,2519,4.1,-0.1
+15,3,IND,Independent,Robert Wheal,556,0.9,0.9
+16,3,CON,Conservative,Lee Anderson,19231,39.3,-2.4
+16,3,ASH,Ashfield Independents,Jason Zadrozny,13498,27.6,27.6
+16,3,LAB,Labour,Natalie Fleet,11971,24.4,-18.1
+16,3,BRX,The Brexit Party,Martin Daubney,2501,5.1,5.1
+16,3,LD,Liberal Democrat,Rebecca Wain,1105,2.3,0.3
+16,3,GRN,Green,Rose Woods,674,1.4,0.6
+17,3,CON,Conservative,Damian Green,37270,62.1,3.1
+17,3,LAB,Labour,Dara Farrell,13241,22.0,-7.7
+17,3,LD,Liberal Democrat,Adrian Gee-Turner,6048,10.1,4.9
+17,3,GRN,Green,Mandy Rossi,2638,4.4,2.1
+17,3,IND,Independent,Susannah De Sanvil,862,1.4,1.4
+18,3,LAB,Labour,Angela Rayner,18544,48.1,-12.3
+18,3,CON,Conservative,Dan Costello,14281,37.0,5.1
+18,3,BRX,The Brexit Party,Derek Brocklehurst,3151,8.2,8.2
+18,3,LD,Liberal Democrat,George Rice,1395,3.6,2.0
+18,3,GRN,Green,Lee Huntbach,1208,3.1,1.8
+19,3,CON,Conservative,Rob Butler,32737,54.0,-0.9
+19,3,LAB,Labour,Liz Hind,15364,25.4,-4.7
+19,3,LD,Liberal Democrat,Steven Lambert,10081,16.6,7.0
+19,3,GRN,Green,Coral Simpson,2394,4.0,1.8
+20,3,SNP,Scottish National Party,Allan Dorans,20272,43.5,9.4
+20,3,CON,Conservative,Martin Dowey,17943,38.5,-1.6
+20,3,LAB,Labour,Duncan Townson,6219,13.3,-10.5
+20,3,LD,Liberal Democrat,Helena Bongard,2158,4.6,2.7
+21,3,SNP,Scottish National Party,Philippa Whitford,21486,46.2,9.0
+21,3,CON,Conservative,Derek Stillie,16182,34.8,0.4
+21,3,LAB,Labour,Louise McPhater,6583,14.1,-11.9
+21,3,LD,Liberal Democrat,Emma Farthing,2283,4.9,2.6
+22,3,SNP,Scottish National Party,Patricia Gibson,23376,48.5,9.6
+22,3,CON,Conservative,David Rocks,14855,30.8,-0.4
+22,3,LAB,Labour,Cameron Gilmore,6702,13.9,-13.6
+22,3,LD,Liberal Democrat,Louise Young,2107,4.4,2.0
+22,3,GRN,Green,David Nairn,1114,2.3,2.3
+23,3,CON,Conservative,Victoria Prentis,34148,54.3,0.0
+23,3,LAB,Labour,Suzette Watson,17335,27.6,-6.5
+23,3,LD,Liberal Democrat,Tim Bearder,8831,14.0,8.4
+23,3,GRN,Green,Ian Middleton,2607,4.1,2.2
+24,3,CON,Conservative,David Duguid,21182,50.1,2.2
+24,3,SNP,Scottish National Party,Paul Robertson,17064,40.4,1.3
+24,3,LD,Liberal Democrat,Alison Smith,2280,5.4,1.9
+24,3,LAB,Labour,Brian Balcombe,1734,4.1,-5.3
+25,3,LAB,Labour,Margaret Hodge,27219,61.2,-6.6
+25,3,CON,Conservative,Tamkeen Shaikh,11792,26.5,4.0
+25,3,BRX,The Brexit Party,Karen Batley,3186,7.2,7.2
+25,3,LD,Liberal Democrat,Ann Haigh,1482,3.3,2.1
+25,3,GRN,Green,Shannon Butterfield,820,1.8,0.3
+26,3,LAB,Labour,Dan Jarvis,14804,40.1,-23.8
+26,3,BRX,The Brexit Party,Victoria Felton,11233,30.4,30.4
+26,3,CON,Conservative,Iftikhar Ahmed,7892,21.4,-2.8
+26,3,LD,Liberal Democrat,Will Sapwell,1176,3.2,1.8
+26,3,GRN,Green,Tom Heyes,900,2.4,1.0
+26,3,YRKS,The Yorkshire Party,Ryan Williams,710,1.9,1.9
+26,3,IND,Independent,Donald Wood,188,0.5,0.5
+27,3,LAB,Labour,Stephanie Peacock,14329,37.6,-21.9
+27,3,BRX,The Brexit Party,Jim Ferguson,11112,29.2,29.2
+27,3,CON,Conservative,Adam Gregg,10377,27.3,0.3
+27,3,LD,Liberal Democrat,Sophie Thornton,1330,3.5,1.7
+27,3,GRN,Green,Richard Trotman,922,2.4,2.4
+28,3,CON,Conservative,Simon Fell,23876,51.9,4.8
+28,3,LAB,Labour,Chris Altree,18087,39.3,-8.2
+28,3,LD,Liberal Democrat,Loraine Birchall,2025,4.4,1.7
+28,3,BRX,The Brexit Party,Ged McGrath,1355,2.9,2.9
+28,3,GRN,Green,Chris Loynes,703,1.5,0.7
+29,3,CON,Conservative,John Baron,29590,67.1,6.1
+29,3,LAB,Labour,Andrew Gordon,9178,20.8,-10.3
+29,3,LD,Liberal Democrat,Edward Sainsbury,3741,8.5,5.0
+29,3,GRN,Green,Stewart Goshawk,1395,3.2,3.2
+29,3,SDP,Social Democratic Party,Simon Breedon,224,0.5,0.5
+30,3,CON,Conservative,Stephen Metcalfe,29973,66.2,9.3
+30,3,LAB,Labour,Jack Ferguson,10051,22.2,-10.3
+30,3,IND,Independent,Kerry Smith,3316,7.3,7.3
+30,3,LD,Liberal Democrat,Michael Bukola,1957,4.3,2.8
+31,3,CON,Conservative,Maria Miller,29593,54.1,1.4
+31,3,LAB,Labour,Kerena Marchant,15395,28.1,-7.7
+31,3,LD,Liberal Democrat,Sashi Mylvaganam,6841,12.5,6.4
+31,3,GRN,Green,Jonathan Jenkin,2138,3.9,1.9
+31,3,IND,Independent,Alan Stone,746,1.4,1.4
+32,3,CON,Conservative,Brendan Clarke-Smith,28078,55.2,11.9
+32,3,LAB,Labour,Keir Morrison,14065,27.7,-24.9
+32,3,BRX,The Brexit Party,Debbie Soloman,5366,10.6,10.6
+32,3,LD,Liberal Democrat,Helen Tamblyn-Saville,3332,6.6,4.3
+33,3,LD,Liberal Democrat,Wera Hobhouse,28419,54.5,7.2
+33,3,CON,Conservative,Annabel Tall,16097,30.9,-4.9
+33,3,LAB,Labour,Mike Davies,6639,12.7,-1.9
+33,3,BRX,The Brexit Party,Jimi Ogunnusi,642,1.2,1.2
+33,3,IND,Independent,Bill Blockhead,341,0.7,0.7
+34,3,LAB,Labour,Tracy Brabin,22594,42.7,-12.8
+34,3,CON,Conservative,Mark Brooks,19069,36.0,-2.8
+34,3,HWDI,Heavy Woollen District Independents,Paul Halloran,6432,12.2,12.2
+34,3,LD,Liberal Democrat,John Lawson,2462,4.7,2.4
+34,3,BRX,The Brexit Party,Clive Minihan,1678,3.2,3.2
+34,3,GRN,Green,Ty Akram,692,1.3,0.0
+35,3,LAB,Labour,Marsha De Cordova,27290,45.5,-0.4
+35,3,CON,Conservative,Kim Caddy,21622,36.1,-5.5
+35,3,LD,Liberal Democrat,Mark Gitsham,9150,15.3,7.3
+35,3,GRN,Green,Lois Davis,1529,2.5,1.0
+35,3,BRX,The Brexit Party,Jake Thomas,386,0.6,0.6
+36,3,CON,Conservative,Joy Morrissey,32477,56.1,-9.1
+36,3,IND,Independent,Dominic Grieve,16765,29.0,29.0
+36,3,LAB,Labour,Alexa Collins,5756,9.9,-11.5
+36,3,GRN,Green,Zoe Hatch,2033,3.5,1.0
+36,3,IND,Independent,Adam Cleary,837,1.4,1.4
+37,3,CON,Conservative,Bob Stewart,27282,54.0,-5.4
+37,3,LAB,Labour,Marina Ahmad,13024,25.8,-4.3
+37,3,LD,Liberal Democrat,Chloe-Jane Ross,8194,16.2,8.3
+37,3,GRN,Green,Ruth Fabricant,2055,4.1,1.4
+38,3,LAB,Labour,Mohammad Yasin,20491,43.3,-3.5
+38,3,CON,Conservative,Ryan Henson,20346,43.0,-2.2
+38,3,LD,Liberal Democrat,Henry Vann,4608,9.7,3.9
+38,3,GRN,Green,Adrian Spurrell,960,2.0,0.0
+38,3,BRX,The Brexit Party,Charles Bunker,896,1.9,1.9
+39,3,CON,Conservative,Nadine Dorries,38692,59.8,-1.9
+39,3,LAB,Labour,Rhiannon Meades,14028,21.7,-6.8
+39,3,LD,Liberal Democrat,Rachel McGann,8171,12.6,6.6
+39,3,GRN,Green,Gareth Ellis,2478,3.8,1.0
+39,3,IND,Independent,Alan Victor,812,1.3,1.3
+39,3,MRLP,Monster Raving Loony Party,Ann Kelly,536,0.8,-0.2
+40,3,CON,Conservative,Richard Fuller,38443,59.1,-1.8
+40,3,LAB,Labour,Julian Vaughan,14160,21.8,-6.7
+40,3,LD,Liberal Democrat,Daniel Norton,7999,12.3,6.6
+40,3,IND,Independent,Adam Zerny,2525,3.9,3.9
+40,3,GRN,Green,Philippa Fleming,1891,2.9,1.0
+41,3,CON,Conservative,Andrew Selous,32212,60.4,1.2
+41,3,LAB,Labour,Callum Anderson,13629,25.6,-8.2
+41,3,LD,Liberal Democrat,Emma Matanle,5435,10.2,5.5
+41,3,GRN,Green,Andrew Waters,2031,3.8,2.1
+42,3,DUP,Democratic Unionist Party,Gavin Robinson,20874,49.2,-6.6
+42,3,APNI,Alliance Party,Naomi Long,19055,44.9,8.9
+42,3,UUP,Ulster Unionist Party,Carl McClean,2516,5.9,2.6
+43,3,SF,Sinn Féin,John Finucane,23078,47.1,5.4
+43,3,DUP,Democratic Unionist Party,Nigel Dodds,21135,43.1,-3.1
+43,3,APNI,Alliance Party,Nuala McAllister,4824,9.8,4.4
+44,3,SDLP,Social Democratic &amp; Labour Party,Claire Hanna,27079,57.2,31.3
+44,3,DUP,Democratic Unionist Party,Emma Little Pengelly,11678,24.7,-5.8
+44,3,APNI,Alliance Party,Paula Bradshaw,6786,14.3,-3.9
+44,3,UUP,Ulster Unionist Party,Michael Henderson,1259,2.7,-0.8
+44,3,AONT,Aontú,Chris McHugh,550,1.2,1.2
+45,3,SF,Sinn Féin,Paul Maskey,20866,53.8,-12.9
+45,3,PBP,People Before Profit,Gerry Carroll,6194,16.0,5.8
+45,3,DUP,Democratic Unionist Party,Frank McCoubrey,5220,13.5,0.0
+45,3,SDLP,Social Democratic &amp; Labour Party,Paul Doherty,2985,7.7,0.7
+45,3,APNI,Alliance Party,Donnamarie Higgins,1882,4.9,3.1
+45,3,AONT,Aontú,Monica Digney,1635,4.2,4.2
+46,3,LAB,Labour,Neil Coyle,31723,54.1,0.9
+46,3,LD,Liberal Democrat,Humaira Ali,15597,26.6,-4.5
+46,3,CON,Conservative,Andrew Baker,9678,16.5,3.6
+46,3,BRX,The Brexit Party,Alex Matthews,1617,2.8,2.8
+47,3,CON,Conservative,Anne-Marie Trevelyan,23947,56.9,4.4
+47,3,LAB,Labour,Trish Williams,9112,21.6,-2.9
+47,3,LD,Liberal Democrat,Tom Hancock,7656,18.2,-2.9
+47,3,GRN,Green,Thomas Stewart,1394,3.3,1.4
+48,3,CON,Conservative,John Lamont,25747,48.4,-5.4
+48,3,SNP,Scottish National Party,Calum Kerr,20599,38.8,6.0
+48,3,LD,Liberal Democrat,Jenny Marr,4287,8.1,3.3
+48,3,LAB,Labour,Ian Davidson,2513,4.7,-3.9
+49,3,LAB,Labour,Rushanara Ali,44052,72.7,0.9
+49,3,CON,Conservative,Nicholas Stovold,6528,10.8,-1.9
+49,3,LD,Liberal Democrat,Josh Babarinde,5892,9.7,4.7
+49,3,GRN,Green,Shahrar Ali,2570,4.2,1.7
+49,3,BRX,The Brexit Party,David Axe,1081,1.8,1.8
+49,3,ANWP,Animal Welfare Party,Vanessa Hudson,439,0.7,0.7
+50,3,CON,Conservative,Graham Stuart,33250,62.1,3.7
+50,3,LAB,Labour,Chloe Hopkins,12802,23.9,-9.3
+50,3,LD,Liberal Democrat,Denis Healy,4671,8.7,3.7
+50,3,YRKS,The Yorkshire Party,Andy Shead,1441,2.7,0.6
+50,3,GRN,Green,Isabel Pires,1378,2.6,1.3
+51,3,CON,Conservative,Huw Merriman,37590,63.6,1.6
+51,3,LAB,Labour,Christine Bayliss,11531,19.5,-5.2
+51,3,LD,Liberal Democrat,Martin Saunders,7280,12.3,4.8
+51,3,GRN,Green,Jonathan Kent,2692,4.6,2.1
+52,3,CON,Conservative,David Evennett,25856,59.8,4.2
+52,3,LAB,Labour,Anna Day,12753,29.5,-6.0
+52,3,LD,Liberal Democrat,David McBride,2819,6.5,3.9
+52,3,GRN,Green,Tony Ball,1298,3.0,1.7
+52,3,ED,English Democrats,Graham Moore,520,1.2,1.2
+53,3,LAB,Labour,Mick Whitley,24990,59.0,-17.8
+53,3,BSJP,Birkenhead Social Justice Party,Frank Field,7285,17.2,17.2
+53,3,CON,Conservative,Claire Rowles,5540,13.1,-5.3
+53,3,LD,Liberal Democrat,Stuart Kelly,1620,3.8,1.3
+53,3,BRX,The Brexit Party,Darren Lythgoe,1489,3.5,3.5
+53,3,GRN,Green,Pat Cleary,1405,3.3,1.2
+54,3,LAB,Labour,Preet Gill,21217,50.1,-5.2
+54,3,CON,Conservative,Alex Yip,15603,36.9,-2.6
+54,3,LD,Liberal Democrat,Colin Green,3349,7.9,4.3
+54,3,GRN,Green,Phil Simpson,1112,2.6,1.3
+54,3,BRX,The Brexit Party,David Wilks,1047,2.5,2.5
+55,3,LAB,Labour,Jack Dromey,17720,50.3,-7.7
+55,3,CON,Conservative,Robert Alden,14119,40.1,1.7
+55,3,BRX,The Brexit Party,Wendy Garcarz,1441,4.1,4.1
+55,3,LD,Liberal Democrat,Ann Holtom,1301,3.7,1.7
+55,3,GRN,Green,Rob Grant,648,1.8,0.2
+56,3,LAB,Labour,Tahir Ali,35889,67.8,-9.8
+56,3,CON,Conservative,Penny-Anne O&#39;Donnell,7381,13.9,-1.1
+56,3,IND,Independent,Roger Godsiff,4273,8.1,8.1
+56,3,LD,Liberal Democrat,Izzy Knowles,3673,6.9,1.2
+56,3,BRX,The Brexit Party,Rosie Cuckston,877,1.7,1.7
+56,3,GRN,Green,Patrick Cox,818,1.5,0.0
+57,3,LAB,Labour,Liam Byrne,35397,78.7,-2.4
+57,3,CON,Conservative,Akaal Sidhu,6742,15.0,0.8
+57,3,BRX,The Brexit Party,Jill Dagnan,1519,3.4,3.4
+57,3,LD,Liberal Democrat,Waheed Rafiq,760,1.7,0.0
+57,3,GRN,Green,Jane McKears,328,0.7,-0.1
+57,3,CPA,Christian Peoples Alliance,Hilda Johani,257,0.6,0.6
+58,3,LAB,Labour,Shabana Mahmood,33355,79.2,-3.5
+58,3,CON,Conservative,Mary Noone,4773,11.3,-1.9
+58,3,LD,Liberal Democrat,Lee Dargue,2228,5.3,2.5
+58,3,GRN,Green,Alex Nettle,931,2.2,0.9
+58,3,BRX,The Brexit Party,Andrew Garcarz,831,2.0,2.0
+59,3,CON,Conservative,Gary Sambrook,19957,46.3,3.6
+59,3,LAB,Labour,Richard Burden,18317,42.5,-10.7
+59,3,LD,Liberal Democrat,Jamie Scott,1961,4.6,2.4
+59,3,BRX,The Brexit Party,Keith Rowe,1655,3.8,3.8
+59,3,GRN,Green,Eleanor Masters,954,2.2,0.3
+59,3,UKIP,UKIP,Kenneth Lowry,254,0.6,0.6
+60,3,LAB,Labour,Khalid Mahmood,26594,63.1,-5.0
+60,3,CON,Conservative,Raaj Shamji,11277,26.8,0.2
+60,3,LD,Liberal Democrat,Gerry Jerome,1901,4.5,2.1
+60,3,BRX,The Brexit Party,Annette Willcox,1382,3.3,3.3
+60,3,GRN,Green,Kefentse Dennis,845,2.0,0.7
+60,3,YESH,Yeshua,Thomas Braich,148,0.4,0.4
+61,3,LAB,Labour,Steve McCabe,27714,56.0,-6.9
+61,3,CON,Conservative,Hannah Campbell,15300,30.9,-1.0
+61,3,LD,Liberal Democrat,Dave Radcliffe,3169,6.4,3.1
+61,3,GRN,Green,Joe Peacock,1848,3.7,1.9
+61,3,BRX,The Brexit Party,Joseph Tawonezvi,1436,2.9,2.9
+62,3,LAB,Labour,Jess Phillips,23379,54.8,-2.3
+62,3,CON,Conservative,Vincent Garrington,12720,29.8,10.0
+62,3,LD,Liberal Democrat,Roger Harmer,3754,8.8,-9.1
+62,3,BRX,The Brexit Party,Mary McKenna,2246,5.3,5.3
+62,3,GRN,Green,Christopher Garghan,579,1.4,0.7
+63,3,CON,Conservative,Dehenna Davison,24067,53.7,6.8
+63,3,LAB,Labour,Helen Goodman,16105,35.9,-12.1
+63,3,BRX,The Brexit Party,Nicholas Brown,2500,5.6,5.6
+63,3,LD,Liberal Democrat,Ray Georgeson,2133,4.8,2.0
+64,3,LAB,Labour,Kate Hollern,29040,64.9,-4.8
+64,3,CON,Conservative,Claire Gill,10736,24.0,-2.9
+64,3,BRX,The Brexit Party,Rick Moore,2770,6.2,6.2
+64,3,LD,Liberal Democrat,Beth Waller-Slack,1130,2.5,1.0
+64,3,GRN,Green,Reza Hossain,741,1.7,1.7
+64,3,IND,Independent,Rizwan Shah,319,0.7,0.7
+65,3,LAB,Labour,Graham Stringer,23887,61.9,-8.6
+65,3,CON,Conservative,Alexander Elias,9485,24.6,3.0
+65,3,BRX,The Brexit Party,James Buckley,2736,7.1,7.1
+65,3,LD,Liberal Democrat,Iain Donaldson,1590,4.1,2.3
+65,3,GRN,Green,David Jones,920,2.4,1.2
+66,3,CON,Conservative,Paul Maynard,22364,57.6,8.2
+66,3,LAB,Labour,Chris Webb,13768,35.5,-9.0
+66,3,LD,Liberal Democrat,Sue Close,1494,3.9,2.0
+66,3,GRN,Green,Duncan Royle,735,1.9,1.0
+66,3,IND,Independent,Neil Holden,443,1.1,1.1
+67,3,CON,Conservative,Scott Benton,16247,49.6,6.5
+67,3,LAB,Labour,Gordon Marsden,12557,38.3,-12.0
+67,3,BRX,The Brexit Party,David Brown,2009,6.1,6.1
+67,3,LD,Liberal Democrat,Bill Greene,1008,3.1,1.3
+67,3,GRN,Green,Becky Daniels,563,1.7,0.7
+67,3,IND,Independent,Gary Coleman,368,1.1,1.1
+68,3,LAB,Labour,Nick Smith,14862,49.2,-8.8
+68,3,BRX,The Brexit Party,Richard Taylor,6215,20.6,20.6
+68,3,CON,Conservative,Laura Jones,5749,19.0,4.3
+68,3,PC,Plaid Cymru,Peredur Owen Griffiths,1722,5.7,-15.5
+68,3,LD,Liberal Democrat,Chelsea-Marie Annett,1285,4.3,3.3
+68,3,GRN,Green,Stephen Priestnall,386,1.3,1.3
+69,3,LAB,Labour,Liz Twist,19794,43.3,-12.8
+69,3,CON,Conservative,Adrian Pepper,14263,31.2,3.1
+69,3,BRX,The Brexit Party,Michael Robinson,5833,12.8,12.8
+69,3,LD,Liberal Democrat,Vicky Anderson,3703,8.1,-1.0
+69,3,GRN,Green,Diane Cadman,1279,2.8,1.6
+69,3,LIB,Liberal Party,Kathy King,615,1.3,1.3
+69,3,SNAV,Space Navies Party,Lisabela Marschild,118,0.3,0.1
+69,3,IND,Independent,Lee Garrett,76,0.2,0.2
+70,3,CON,Conservative,Ian Levy,17440,42.7,5.4
+70,3,LAB,Labour,Susan Dungworth,16728,40.9,-15.0
+70,3,BRX,The Brexit Party,Mark Peart,3394,8.3,8.3
+70,3,LD,Liberal Democrat,Thom Chapman,2151,5.3,0.7
+70,3,GRN,Green,Dawn Furness,1146,2.8,0.6
+71,3,CON,Conservative,Nick Gibb,32521,63.5,4.5
+71,3,LAB,Labour,Alan Butcher,10018,19.6,-5.3
+71,3,LD,Liberal Democrat,Francis Oppler,5645,11.0,4.5
+71,3,GRN,Green,Carol Birch,1826,3.6,1.6
+71,3,UKIP,UKIP,David Kurten,846,1.7,-2.0
+71,3,IND,Independent,Andrew Elston,367,0.7,0.7
+72,3,CON,Conservative,Mark Fletcher,21791,47.4,6.9
+72,3,LAB,Labour,Dennis Skinner,16492,35.9,-16.0
+72,3,BRX,The Brexit Party,Kevin Harper,4151,9.0,9.0
+72,3,LD,Liberal Democrat,David Hancock,1759,3.8,0.9
+72,3,GRN,Green,David Kesteven,758,1.7,1.7
+72,3,IND,Independent,Ross Walker,517,1.1,1.1
+72,3,IND,Independent,Natalie Hoy,470,1.0,1.0
+73,3,CON,Conservative,Mark Logan,19759,45.4,3.2
+73,3,LAB,Labour,David Crausby,19381,44.5,-6.1
+73,3,BRX,The Brexit Party,Trevor Jones,1880,4.3,4.3
+73,3,LD,Liberal Democrat,Warren Fox,1847,4.2,1.3
+73,3,GRN,Green,Liz Spencer,689,1.6,0.8
+74,3,LAB,Labour,Yasmin Qureshi,21516,53.0,-7.7
+74,3,CON,Conservative,Johno Lee,13918,34.3,4.6
+74,3,BRX,The Brexit Party,Mark Cunningham,2968,7.3,7.3
+74,3,LD,Liberal Democrat,Kev Walsh,1411,3.5,1.6
+74,3,GRN,Green,David Figgins,791,1.9,0.7
+75,3,CON,Conservative,Chris Green,27255,55.3,7.4
+75,3,LAB,Labour,Julie Hilling,18400,37.3,-8.8
+75,3,LD,Liberal Democrat,Rebecca Forrest,2704,5.5,2.6
+75,3,GRN,Green,Paris Hayes,939,1.9,1.9
+76,3,LAB,Labour,Peter Dowd,39066,79.4,-4.6
+76,3,CON,Conservative,Tarsilo Onuluk,4510,9.2,-2.9
+76,3,BRX,The Brexit Party,Kim Knight,2610,5.3,5.3
+76,3,LD,Liberal Democrat,Rebecca Hanson,1822,3.7,2.0
+76,3,GRN,Green,Mike Carter,1166,2.4,1.0
+77,3,CON,Conservative,Matt Warman,31963,76.7,13.1
+77,3,LAB,Labour,Ben Cook,6342,15.2,-9.7
+77,3,LD,Liberal Democrat,Hilary Jones,1963,4.7,2.9
+77,3,IND,Independent,Peter Watson,1428,3.4,3.4
+78,3,CON,Conservative,Luke Evans,36056,63.9,7.2
+78,3,LAB,Labour,Rick Middleton,9778,17.3,-6.7
+78,3,LD,Liberal Democrat,Michael Mullaney,9096,16.1,-1.2
+78,3,GRN,Green,Mick Gregg,1502,2.7,0.8
+79,3,CON,Conservative,Tobias Ellwood,24926,50.6,-1.3
+79,3,LAB,Labour,Corrie Drew,16120,32.7,-2.8
+79,3,LD,Liberal Democrat,Philip Dunn,5418,11.0,4.5
+79,3,GRN,Green,Alasdair Keddie,2049,4.2,1.6
+79,3,IND,Independent,Ben Aston,447,0.9,0.9
+79,3,IND,Independent,Emma Johnson,314,0.6,0.6
+80,3,CON,Conservative,Conor Burns,24550,53.4,-0.1
+80,3,LAB,Labour,David Stokes,14400,31.3,-4.9
+80,3,LD,Liberal Democrat,Jon Nicholas,4931,10.7,4.1
+80,3,GRN,Green,Simon Bull,2096,4.6,1.8
+81,3,CON,Conservative,James Sunderland,31894,58.7,-0.1
+81,3,LAB,Labour,Paul Bidwell,12065,22.2,-8.0
+81,3,LD,Liberal Democrat,Kaweh Beheshtizadeh,7749,14.3,6.8
+81,3,GRN,Green,Derek Florey,2089,3.8,3.8
+81,3,IND,Independent,Olivio Barreto,553,1.0,0.2
+82,3,LAB,Labour,Imran Hussain,27825,63.0,-2.4
+82,3,CON,Conservative,Linden Kemkaran,9681,21.9,1.5
+82,3,LD,Liberal Democrat,Jeanette Sunderland,3316,7.5,5.7
+82,3,BRX,The Brexit Party,Jonathan Barras,2700,6.1,6.1
+82,3,GRN,Green,Andy Stanford,662,1.5,0.9
+83,3,LAB,Labour,Judith Cummins,18390,46.3,-8.2
+83,3,CON,Conservative,Narinder Sekhon,16044,40.4,2.2
+83,3,BRX,The Brexit Party,Kulvinder Manik,2819,7.1,7.1
+83,3,LD,Liberal Democrat,Alun Griffiths,1505,3.8,2.5
+83,3,GRN,Green,Matthew Edwards,983,2.5,1.6
+84,3,LAB,Labour,Naz Shah,33736,76.2,11.5
+84,3,CON,Conservative,Mohammed Afzal,6717,15.2,-1.4
+84,3,BRX,The Brexit Party,Derrick Hodgson,1556,3.5,3.5
+84,3,LD,Liberal Democrat,Mark Christie,1349,3.0,1.5
+84,3,GRN,Green,Darren Parkinson,813,1.8,0.8
+84,3,IND,Independent,Azfar Bukhari,90,0.2,0.2
+85,3,CON,Conservative,James Cleverly,34112,67.5,4.7
+85,3,LAB,Labour,Joshua Garfield,9439,18.7,-8.9
+85,3,LD,Liberal Democrat,Dominic Graham,4779,9.5,5.2
+85,3,IND,Independent,Jo Beavis,1488,2.9,2.9
+85,3,IND,Independent,David Mansell,420,0.8,0.8
+85,3,IND,Independent,Alan Dorkins,261,0.5,0.5
+86,3,CON,Conservative,Fay Jones,21958,53.1,4.6
+86,3,LD,Liberal Democrat,Jane Dodds,14827,35.9,6.7
+86,3,LAB,Labour,Tomos Davies,3944,9.5,-8.2
+86,3,MRLP,Monster Raving Loony Party,Lady Lily The Pink,345,0.8,0.8
+86,3,CHP,Christian Party,Jeff Green,245,0.6,0.6
+87,3,LAB,Labour,Dawn Butler,31779,64.7,-8.4
+87,3,CON,Conservative,David Brescia,10909,22.2,2.7
+87,3,LD,Liberal Democrat,Deborah Unger,4844,9.9,5.0
+87,3,GRN,Green,William Relton,1600,3.3,1.7
+88,3,LAB,Labour,Barry Gardiner,26911,51.9,-11.0
+88,3,CON,Conservative,Anjana Patel,18832,36.3,3.6
+88,3,LD,Liberal Democrat,Paul Lorber,4065,7.8,5.0
+88,3,BRX,The Brexit Party,Suzie O&#39;Brien,951,1.8,1.8
+88,3,GRN,Green,Simon Rebbitt,850,1.6,0.5
+88,3,IND,Independent,Noel Coonan,169,0.3,0.3
+88,3,IND,Independent,Elcena Jeffers,101,0.2,0.2
+89,3,LAB,Labour,Ruth Cadbury,29266,50.2,-7.2
+89,3,CON,Conservative,Seena Shah,18752,32.2,-5.5
+89,3,LD,Liberal Democrat,Helen Cross,7314,12.5,7.5
+89,3,GRN,Green,Daniel Goldsmith,1829,3.1,3.1
+89,3,BRX,The Brexit Party,Lucy O&#39;Sullivan,1165,2.0,2.0
+90,3,CON,Conservative,Alex Burghart,36308,68.6,2.8
+90,3,LAB,Labour,Oliver Durose,7243,13.7,-6.7
+90,3,LD,Liberal Democrat,David Kendall,7187,13.6,5.2
+90,3,GRN,Green,Paul Jeater,1679,3.2,1.4
+90,3,ED,English Democrats,Robin Tilbrook,532,1.0,1.0
+91,3,CON,Conservative,Jamie Wallis,18193,43.1,3.3
+91,3,LAB,Labour,Madeleine Moon,17036,40.3,-10.3
+91,3,LD,Liberal Democrat,Jonathan Pratt,2368,5.6,3.5
+91,3,PC,Plaid Cymru,Leanne Lewis,2013,4.8,0.6
+91,3,BRX,The Brexit Party,Robert Morgan,1811,4.3,4.3
+91,3,GRN,Green,Alex Harris,815,1.9,1.9
+92,3,CON,Conservative,Ian Liddell-Grainger,35827,62.1,7.0
+92,3,LAB,Labour,Oliver Thornton,11388,19.8,-8.8
+92,3,LD,Liberal Democrat,Bill Revans,7805,13.5,2.7
+92,3,GRN,Green,Mickie Ritchie,1877,3.3,1.4
+92,3,LIB,Liberal Party,Farès Moussa,755,1.3,1.3
+93,3,CON,Conservative,Andrew Percy,30941,71.3,10.9
+93,3,LAB,Labour,Majid Khan,9000,20.7,-12.2
+93,3,LD,Liberal Democrat,David Dobbie,2180,5.0,3.2
+93,3,GRN,Green,Jo Baker,1281,3.0,1.7
+94,3,LAB,Labour,Lloyd Russell-Moyle,25033,51.6,-6.8
+94,3,CON,Conservative,Joe Miller,16972,35.0,-3.3
+94,3,LD,Liberal Democrat,Ben Thomas,2964,6.1,3.1
+94,3,GRN,Green,Alexandra Phillips,2237,4.6,4.6
+94,3,BRX,The Brexit Party,Graham Cushway,1327,2.7,2.7
+95,3,GRN,Green,Caroline Lucas,33151,57.2,4.9
+95,3,LAB,Labour,Adam Imanpour,13211,22.8,-4.0
+95,3,CON,Conservative,Emma Hogan,10176,17.5,-1.7
+95,3,BRX,The Brexit Party,Richard Milton,770,1.3,1.3
+95,3,MRLP,Monster Raving Loony Party,Citizen Skwith,301,0.5,0.5
+95,3,IND,Independent,Bob Dobbs,212,0.4,0.4
+95,3,UKIP,UKIP,Nigel Furness,177,0.3,-0.8
+96,3,LAB,Labour,Kerry McCarthy,27717,53.1,-7.6
+96,3,CON,Conservative,Sarah Codling,16923,32.4,-1.9
+96,3,LD,Liberal Democrat,Nicholas Coombes,3527,6.8,4.0
+96,3,GRN,Green,Conan Connolly,2106,4.0,1.9
+96,3,BRX,The Brexit Party,Tim Page,1881,3.6,3.6
+97,3,LAB,Labour,Darren Jones,27330,48.9,-1.7
+97,3,CON,Conservative,Mark Weston,21638,38.7,-3.1
+97,3,LD,Liberal Democrat,Chris Coleman,4940,8.8,3.6
+97,3,GRN,Green,Heather Mack,1977,3.5,1.2
+98,3,LAB,Labour,Karin Smyth,27895,50.5,-9.5
+98,3,CON,Conservative,Richard Morgan,18036,32.7,2.0
+98,3,LD,Liberal Democrat,Andrew Brown,4227,7.7,4.3
+98,3,GRN,Green,Tony Dyer,2713,4.9,2.3
+98,3,BRX,The Brexit Party,Robert de Vito Boutin,2325,4.2,4.2
+99,3,LAB,Labour,Thangam Debbonaire,47028,62.3,-3.7
+99,3,GRN,Green,Carla Denyer,18809,24.9,12.0
+99,3,CON,Conservative,Suria Aujla,8822,11.7,-2.1
+99,3,BRX,The Brexit Party,Neil Hipkiss,869,1.2,1.2
+100,3,CON,Conservative,Jerome Mayhew,33934,59.6,1.7
+100,3,LAB,Labour,Jess Barnard,12073,21.2,-8.5
+100,3,LD,Liberal Democrat,Ben Goodwin,9195,16.1,8.2
+100,3,GRN,Green,Andrew Boswell,1412,2.5,0.8
+100,3,UGP,The Universal Good Party,Simon Rous,363,0.6,0.6
+101,3,CON,Conservative,Bob Neill,23958,52.6,-1.4
+101,3,LAB,Labour,Angela Wilkins,13067,28.7,-4.7
+101,3,LD,Liberal Democrat,Julie Ireland,6621,14.5,7.3
+101,3,GRN,Green,Mary Ion,1546,3.4,0.9
+101,3,CPA,Christian Peoples Alliance,Zion Amodu,255,0.6,0.6
+101,3,REN,Renew,Jyoti Dialani,119,0.3,0.3
+102,3,CON,Conservative,Sajid Javid,34408,63.4,1.4
+102,3,LAB,Labour,Rory Shannon,11302,20.8,-10.5
+102,3,LD,Liberal Democrat,David Nicholl,6779,12.5,7.9
+102,3,GRN,Green,Kevin White,1783,3.3,1.2
+103,3,CON,Conservative,Charles Walker,30631,65.6,3.4
+103,3,LAB,Labour,Sean Waters,10824,23.2,-5.7
+103,3,LD,Liberal Democrat,Julia Bird,3970,8.5,5.4
+103,3,GRN,Green,Nicholas Cox,1281,2.7,1.0
+104,3,CON,Conservative,Darren Henry,26602,48.1,1.3
+104,3,LAB,Labour,Greg Marshall,21271,38.5,-6.8
+104,3,TIG,Independent Group for Change,Anna Soubry,4668,8.4,8.4
+104,3,GRN,Green,Kat Boettge,1806,3.3,2.0
+104,3,ED,English Democrats,Amy Dalla Mura,432,0.8,0.8
+104,3,IND,Independent,Teck Khong,321,0.6,0.6
+104,3,CMEP,Church of the Militant Elvis Party,David Bishop,172,0.3,0.3
+105,3,CON,Conservative,Greg Smith,37035,58.4,-6.7
+105,3,LD,Liberal Democrat,Stephen Dorrell,16624,26.2,26.2
+105,3,LAB,Labour,David Morgan,7638,12.0,12.0
+105,3,BRX,The Brexit Party,Andrew Bell,1286,2.0,2.0
+105,3,IND,Independent,Ned Thompson,681,1.1,1.1
+105,3,ED,English Democrats,Antonio Vitiello,194,0.3,0.3
+106,3,CON,Conservative,Antony Higginbotham,15720,40.3,9.4
+106,3,LAB,Labour,Julie Cooper,14368,36.9,-9.9
+106,3,LD,Liberal Democrat,Gordon Birtwistle,3501,9.0,-6.0
+106,3,BRX,The Brexit Party,Stewart Scott,3362,8.6,8.6
+106,3,BPI,Burnley &amp; Padiham Independent Party,Charlie Briggs,1162,3.0,3.0
+106,3,GRN,Green,Laura Fisk,739,1.9,0.8
+106,3,IND,Independent,Karen Helsby Entwistle,132,0.3,0.3
+107,3,CON,Conservative,Kate Griffiths,29560,60.7,2.7
+107,3,LAB,Labour,Louise Walker,15064,30.9,-6.9
+107,3,LD,Liberal Democrat,Adam Wain,2681,5.5,3.0
+107,3,GRN,Green,Kate Copeland,1433,2.9,1.3
+108,3,CON,Conservative,James Daly,21660,46.2,1.8
+108,3,LAB,Labour,James Frith,21555,46.0,-7.6
+108,3,LD,Liberal Democrat,Gareth Lloyd-Johnson,1584,3.4,1.5
+108,3,BRX,The Brexit Party,Alan McCarthy,1240,2.6,2.6
+108,3,GRN,Green,Charlie Allen,802,1.7,1.7
+109,3,CON,Conservative,Christian Wakeford,22034,43.8,2.3
+109,3,LAB,Labour,Lucy Burke,21632,43.0,-10.2
+109,3,LD,Liberal Democrat,Richard Kilpatrick,2315,4.6,2.5
+109,3,BRX,The Brexit Party,Andrea Livesey,1672,3.3,3.3
+109,3,IND,Independent,Ivan Lewis,1366,2.7,2.7
+109,3,GRN,Green,Glyn Heath,848,1.7,1.7
+109,3,IND,Independent,Michael Boyle,277,0.6,0.6
+109,3,WEP,Women&#39;s Equality Party,Gemma Evans,130,0.3,0.3
+110,3,CON,Conservative,Jo Churchill,37770,61.0,1.8
+110,3,LAB,Labour,Cliff Waterman,12782,20.6,-8.9
+110,3,GRN,Green,Helen Geake,9711,15.7,11.5
+110,3,IND,Independent,Paul Hopfensperger,1694,2.7,2.7
+111,3,LAB,Labour,Wayne David,18018,44.9,-9.5
+111,3,CON,Conservative,Jane Pratt,11185,27.9,2.7
+111,3,PC,Plaid Cymru,Lindsay Whittle,6424,16.0,1.6
+111,3,BRX,The Brexit Party,Nathan Gill,4490,11.2,11.2
+112,3,LD,Liberal Democrat,Jamie Stone,11705,37.2,1.4
+112,3,SNP,Scottish National Party,Karl Rosie,11501,36.6,7.4
+112,3,CON,Conservative,Andrew Sinclair,5176,16.5,-6.2
+112,3,LAB,Labour,Cheryl McDonald,1936,6.2,-6.2
+112,3,BRX,The Brexit Party,Sandra Skinner,1139,3.6,3.6
+113,3,CON,Conservative,Craig Whittaker,29981,51.9,5.7
+113,3,LAB,Labour,Josh Fenton-Glynn,24207,41.9,-3.2
+113,3,LD,Liberal Democrat,Javed Bashir,2884,5.0,1.6
+113,3,LIB,Liberal Party,Richard Phillips,721,1.2,1.2
+114,3,LAB,Labour,Harriet Harman,40258,71.3,-6.5
+114,3,CON,Conservative,Peter Quentin,6478,11.5,-1.3
+114,3,LD,Liberal Democrat,Julia Ogiehor,5087,9.0,3.1
+114,3,GRN,Green,Claire Sheppard,3501,6.2,3.4
+114,3,BRX,The Brexit Party,Cass Cass-Horne,1041,1.8,1.8
+114,3,WRP,Workers Revolutionary Party,Joshua Ogunleye,127,0.2,0.0
+115,3,CON,Conservative,George Eustice,26764,53.1,5.7
+115,3,LAB,Labour,Paul Farmer,18064,35.9,-8.3
+115,3,LD,Liberal Democrat,Florence MacDonald,3504,7.0,0.8
+115,3,GRN,Green,Karen La Borde,1359,2.7,0.5
+115,3,LIB,Liberal Party,Paul Holmes,676,1.3,1.3
+116,3,LAB,Labour,Daniel Zeichner,25776,48.0,-3.9
+116,3,LD,Liberal Democrat,Rod Cantrill,16137,30.0,0.8
+116,3,CON,Conservative,Russell Perrin,8342,15.5,-0.8
+116,3,GRN,Green,Jeremy Caddick,2164,4.0,1.8
+116,3,BRX,The Brexit Party,Peter Dawe,1041,1.9,1.9
+116,3,IND,Independent,Miles Hurley,111,0.2,0.2
+116,3,SDP,Social Democratic Party,Jane Robins,91,0.2,0.2
+116,3,RBD,Rebooting Democracy,Keith Garrett,67,0.1,-0.1
+117,3,CON,Conservative,Steve Barclay,38423,72.5,8.1
+117,3,LAB,Labour,Diane Boyd,8430,15.9,-8.6
+117,3,LD,Liberal Democrat,Rupert Moss-Eccardt,4298,8.1,3.6
+117,3,GRN,Green,Ruth Johnson,1813,3.4,1.5
+118,3,CON,Conservative,Shailesh Vara,40307,62.5,3.8
+118,3,LAB,Labour,Cathy Cordiner-Achenbach,14324,22.2,-8.3
+118,3,LD,Liberal Democrat,Bridget Smith,6881,10.7,5.7
+118,3,GRN,Green,Nicola Day,3021,4.7,2.7
+119,3,CON,Conservative,Anthony Browne,31015,46.3,-5.5
+119,3,LD,Liberal Democrat,Ian Sollom,28111,42.0,23.4
+119,3,LAB,Labour,Dan Greef,7803,11.7,-15.6
+120,3,CON,Conservative,Lucy Frazer,32187,50.0,-3.3
+120,3,LD,Liberal Democrat,Pippa Heylings,20697,32.1,13.2
+120,3,LAB,Labour,James Bull,10492,16.3,-11.4
+120,3,IND,Independent,Edmund Fordham,1009,1.6,1.6
+121,3,CON,Conservative,Amanda Milling,31636,68.3,13.3
+121,3,LAB,Labour,Anne Hobbs,11757,25.4,-12.1
+121,3,GRN,Green,Paul Woodhead,2920,6.3,4.6
+122,3,LAB,Labour,Rosie Duffield,29018,48.3,3.3
+122,3,CON,Conservative,Anna Firth,27182,45.2,0.5
+122,3,LD,Liberal Democrat,Claire Malcomson,3408,5.7,-2.4
+122,3,IND,Independent,Michael Gould,505,0.8,0.8
+123,3,LAB,Labour,Jo Stevens,25605,61.2,-1.2
+123,3,CON,Conservative,Meirion Jenkins,8426,20.1,0.3
+123,3,LD,Liberal Democrat,Bablin Molik,6298,15.1,1.6
+123,3,BRX,The Brexit Party,Gareth Pearce,1006,2.4,2.4
+123,3,GWLD,Gwlad Gwlad,Sian Caiach,280,0.7,0.7
+123,3,IND,Independent,Akil Kata,119,0.3,0.3
+123,3,SPGB,Socialist Party of Great Britain,Brian Johnson,88,0.2,0.2
+124,3,LAB,Labour,Anna McMorrin,26064,49.5,-0.6
+124,3,CON,Conservative,Mo Ali,19082,36.2,-5.9
+124,3,LD,Liberal Democrat,Rhys Taylor,3580,6.8,3.5
+124,3,PC,Plaid Cymru,Steffan Webb,1606,3.0,-0.3
+124,3,BRX,The Brexit Party,Chris Butler,1311,2.5,2.5
+124,3,GRN,Green,Michael Cope,820,1.6,1.6
+124,3,IND,Independent,Richard Jones,203,0.4,0.4
+125,3,LAB,Labour,Stephen Doughty,27382,54.1,-5.4
+125,3,CON,Conservative,Philippa Broom,14645,29.0,-1.2
+125,3,LD,Liberal Democrat,Dan Schmeising,2985,5.9,3.1
+125,3,PC,Plaid Cymru,Nasir Adam,2386,4.7,0.5
+125,3,BRX,The Brexit Party,Tim Price,1999,4.0,4.0
+125,3,GRN,Green,Ken Barker,1182,2.3,1.3
+126,3,LAB,Labour,Kevin Brennan,23908,51.8,-4.9
+126,3,CON,Conservative,Carolyn Webster,12922,28.0,-1.8
+126,3,PC,Plaid Cymru,Boyd Clack,3864,8.4,-1.1
+126,3,LD,Liberal Democrat,Callum Littlemore,2731,5.9,3.3
+126,3,BRX,The Brexit Party,Nick Mullins,1619,3.5,3.5
+126,3,GRN,Green,David Griffin,1133,2.5,2.5
+127,3,CON,Conservative,John Stevenson,23659,55.2,5.3
+127,3,LAB,Labour,Ruth Alcroft,15340,35.8,-8.1
+127,3,LD,Liberal Democrat,Julia Aglionby,2829,6.6,3.7
+127,3,UKIP,UKIP,Fiona Mills,1045,2.4,-0.9
+128,3,PC,Plaid Cymru,Jonathan Edwards,15939,38.9,-0.4
+128,3,CON,Conservative,Havard Hughes,14130,34.5,8.2
+128,3,LAB,Labour,Maria Carroll,8622,21.0,-8.8
+128,3,BRX,The Brexit Party,Peter Prosser,2311,5.6,5.6
+129,3,CON,Conservative,Simon Hart,22183,52.7,5.9
+129,3,LAB,Labour,Marc Tierney,14438,34.3,-5.2
+129,3,PC,Plaid Cymru,Rhys Thomas,3633,8.6,-0.7
+129,3,LD,Liberal Democrat,Alistair Cameron,1860,4.4,2.2
+130,3,CON,Conservative,Elliot Colburn,20822,42.4,4.1
+130,3,LD,Liberal Democrat,Tom Brake,20193,41.1,0.1
+130,3,LAB,Labour,Ahmad Wattoo,6081,12.4,-6.1
+130,3,BRX,The Brexit Party,James Woudhuysen,1043,2.1,2.1
+130,3,GRN,Green,Tracey Hague,759,1.5,0.6
+130,3,CPA,Christian Peoples Alliance,Ashley Dickenson,200,0.4,0.0
+131,3,CON,Conservative,Rebecca Harris,33971,76.7,9.5
+131,3,LAB,Labour,Katie Curtis,7337,16.6,-8.5
+131,3,LD,Liberal Democrat,John Howson,2969,6.7,4.4
+132,3,PC,Plaid Cymru,Ben Lake,15208,37.9,8.7
+132,3,CON,Conservative,Amanda Jenner,8879,22.1,3.8
+132,3,LD,Liberal Democrat,Mark Williams,6975,17.4,-11.6
+132,3,LAB,Labour,Dinah Mulholland,6317,15.8,-4.4
+132,3,BRX,The Brexit Party,Gethin James,2063,5.1,5.1
+132,3,GRN,Green,Chris Simpson,663,1.7,0.3
+133,3,CON,Conservative,Edward Argar,35121,63.4,3.1
+133,3,LAB,Labour,Gary Godden,12724,23.0,-7.8
+133,3,LD,Liberal Democrat,Kate Tipton,4856,8.8,5.1
+133,3,GRN,Green,Laurie Needham,2664,4.8,2.9
+134,3,CON,Conservative,Tracey Crouch,28856,66.6,9.6
+134,3,LAB,Labour,Vince Maple,10316,23.8,-9.9
+134,3,LD,Liberal Democrat,David Naghi,2866,6.6,4.1
+134,3,GRN,Green,Geoff Wilkinson,1090,2.5,1.2
+134,3,CPA,Christian Peoples Alliance,John Gibson,212,0.5,-0.1
+135,3,CON,Conservative,Mary Robinson,25694,46.0,1.4
+135,3,LD,Liberal Democrat,Tom Morrison,23358,41.8,5.5
+135,3,LAB,Labour,Zahid Chauhan,6851,12.3,-6.8
+136,3,CON,Conservative,Vicky Ford,31934,55.9,2.2
+136,3,LD,Liberal Democrat,Marie Goldman,14313,25.1,12.9
+136,3,LAB,Labour,Penny Richards,10295,18.0,-11.8
+136,3,MRLP,Monster Raving Loony Party,Mark Lawrence,580,1.0,1.0
+137,3,CON,Conservative,Greg Hands,23345,49.9,-2.8
+137,3,LD,Liberal Democrat,Nicola Horlick,12104,25.9,14.9
+137,3,LAB,Labour,Matt Uberoi,10872,23.2,-10.0
+137,3,ANWP,Animal Welfare Party,Samuel Morland,500,1.1,1.1
+138,3,CON,Conservative,Alex Chalk,28486,48.0,1.3
+138,3,LD,Liberal Democrat,Max Wilkinson,27505,46.3,4.2
+138,3,LAB,Labour,George Penny,2921,4.9,-4.6
+138,3,MRLP,Monster Raving Loony Party,George Ridgeon,445,0.7,0.7
+139,3,CON,Conservative,Cheryl Gillan,30850,55.4,-5.3
+139,3,LD,Liberal Democrat,Dan Gallagher,14627,26.3,13.3
+139,3,LAB,Labour,Matt Turmaine,7166,12.9,-7.7
+139,3,GRN,Green,Alan Booth,3042,5.5,2.5
+140,3,LAB,Labour,Chris Matheson,27082,49.6,-7.1
+140,3,CON,Conservative,Samantha George,20918,38.3,-2.2
+140,3,LD,Liberal Democrat,Bob Thompson,3734,6.8,4.1
+140,3,GRN,Green,Nicholas Brown,1438,2.6,2.6
+140,3,BRX,The Brexit Party,Andy Argyle,1388,2.5,2.5
+141,3,LAB,Labour,Toby Perkins,18171,40.2,-14.6
+141,3,CON,Conservative,Leigh Higgins,16720,37.0,2.2
+141,3,BRX,The Brexit Party,John Scotting,4771,10.6,10.6
+141,3,LD,Liberal Democrat,Emily Coy,3985,8.8,3.4
+141,3,GRN,Green,Neil Jackson,1148,2.5,0.9
+141,3,IND,Independent,John Daramy,391,0.9,0.9
+142,3,CON,Conservative,Gillian Keegan,35402,57.8,-2.3
+142,3,LD,Liberal Democrat,Kate O&#39;Kelly,13912,22.7,11.5
+142,3,LAB,Labour,Jay Morton,9069,14.8,-7.6
+142,3,GRN,Green,Heather Barrie,2527,4.1,0.8
+142,3,LBT,Libertarian,Adam Brown,224,0.4,0.4
+142,3,PATR,Patria,Andrew Emerson,109,0.2,0.0
+143,3,CON,Conservative,Iain Duncan Smith,23481,48.5,-0.7
+143,3,LAB,Labour,Faiza Shaheen,22219,45.9,1.9
+143,3,LD,Liberal Democrat,Geoff Seeff,2744,5.7,1.3
+144,3,CON,Conservative,Michelle Donelan,30994,54.3,-0.4
+144,3,LD,Liberal Democrat,Helen Belcher,19706,34.5,8.9
+144,3,LAB,Labour,Martha Anachury,6399,11.2,-8.5
+145,3,CON,Conservative,Theresa Villiers,25745,44.7,-1.6
+145,3,LAB,Labour,Emma Whysall,24533,42.6,-3.1
+145,3,LD,Liberal Democrat,Isabelle Parasram,5932,10.3,4.9
+145,3,GRN,Green,Gabrielle Bailey,1288,2.2,-0.3
+145,3,ADV,Advance Together,John Sheffield,71,0.1,0.1
+146,3,SPE,Speaker,Lindsay Hoyle,26831,67.3,12.0
+146,3,IND,Independent,Mark Brexit-Smith,9439,23.7,23.7
+146,3,GRN,Green,James Melling,3600,9.0,8.1
+147,3,CON,Conservative,Christopher Chope,33894,65.2,-4.3
+147,3,LD,Liberal Democrat,Mike Cox,9277,17.9,9.9
+147,3,LAB,Labour,Andrew Dunne,6568,12.6,-7.2
+147,3,GRN,Green,Chris Rigby,2212,4.3,1.6
+148,3,CON,Conservative,Nickie Aiken,17049,39.9,-6.7
+148,3,LD,Liberal Democrat,Chuka Umunna,13096,30.7,19.6
+148,3,LAB,Labour,Gordon Nardell,11624,27.2,-11.2
+148,3,GRN,Green,Zack Polanski,728,1.7,-0.4
+148,3,CPA,Christian Peoples Alliance,Jill McLachlan,125,0.3,0.3
+148,3,LIB,Liberal Party,Dirk van Heck,101,0.2,0.2
+149,3,CON,Conservative,Giles Watling,31438,72.3,11.0
+149,3,LAB,Labour,Kevin Bonavia,6736,15.5,-9.9
+149,3,LD,Liberal Democrat,Callum Robertson,2541,5.8,3.8
+149,3,GRN,Green,Chris Southall,1225,2.8,1.2
+149,3,IND,Independent,Andy Morgan,1099,2.5,2.5
+149,3,IND,Independent,Colin Bennett,243,0.6,0.6
+149,3,MRLP,Monster Raving Loony Party,Just-John Sexton,224,0.5,0.5
+150,3,CON,Conservative,Martin Vickers,31969,69.0,11.9
+150,3,LAB,Labour,Ros James,10551,22.8,-12.6
+150,3,LD,Liberal Democrat,Roy Horobin,2535,5.5,3.2
+150,3,GRN,Green,Jodi Shanahan,1284,2.8,1.8
+151,3,CON,Conservative,Simon Baynes,16222,44.7,5.6
+151,3,LAB,Labour,Susan Elan Jones,14983,41.3,-9.4
+151,3,PC,Plaid Cymru,Chris Allen,2137,5.9,-0.2
+151,3,LD,Liberal Democrat,Calum Davies,1496,4.1,2.2
+151,3,BRX,The Brexit Party,Jamie Adams,1468,4.0,4.0
+152,3,CON,Conservative,David Jones,20403,50.7,2.7
+152,3,LAB,Labour,Jo Thomas,13656,34.0,-5.6
+152,3,PC,Plaid Cymru,Elfed Williams,3907,9.7,0.1
+152,3,LD,Liberal Democrat,David Wilkins,2237,5.6,2.9
+153,3,SNP,Scottish National Party,Steven Bonnar,22680,47.0,7.9
+153,3,LAB,Labour,Hugh Gaffney,17056,35.4,-7.2
+153,3,CON,Conservative,Nathan Wilson,6113,12.7,-3.6
+153,3,LD,Liberal Democrat,David Stevens,1564,3.2,1.2
+153,3,GRN,Green,Patrick McAleer,808,1.7,1.7
+154,3,CON,Conservative,Will Quince,26917,50.4,4.6
+154,3,LAB,Labour,Tina McKay,17494,32.8,-2.5
+154,3,LD,Liberal Democrat,Martin Goss,7432,13.9,-3.0
+154,3,GRN,Green,Mark Goacher,1530,2.9,1.3
+155,3,CON,Conservative,Jason McCartney,29482,48.4,2.2
+155,3,LAB,Labour,Thelma Walker,24379,40.0,-7.7
+155,3,LD,Liberal Democrat,Cahal Burke,3815,6.3,2.1
+155,3,BRX,The Brexit Party,Sue Harrison,1268,2.1,2.1
+155,3,GRN,Green,Darryl Gould,1068,1.8,0.3
+155,3,YRKS,The Yorkshire Party,Owen Aspinall,548,0.9,0.9
+155,3,UKIP,UKIP,Melanie Roberts,230,0.4,0.4
+155,3,IND,Independent,Colin Peel,102,0.2,0.2
+156,3,CON,Conservative,Fiona Bruce,33747,59.0,2.4
+156,3,LAB,Labour,Jo Dale,15186,26.5,-7.6
+156,3,LD,Liberal Democrat,Paul Duffy,6026,10.5,5.4
+156,3,GRN,Green,Richard McCarthy,1616,2.8,1.0
+156,3,ANWP,Animal Welfare Party,Jane Smith,658,1.1,1.1
+157,3,CON,Conservative,Trudy Harrison,22856,53.7,4.7
+157,3,LAB,Labour,Tony Lywood,17014,40.0,-5.1
+157,3,LD,Liberal Democrat,John Studholme,1888,4.4,1.2
+157,3,GRN,Green,Jack Lenox,765,1.8,1.8
+158,3,CON,Conservative,Tom Pursglove,33410,55.2,6.0
+158,3,LAB,Labour,Beth Miller,23142,38.3,-6.5
+158,3,LD,Liberal Democrat,Chris Stanbra,3923,6.5,3.9
+159,3,CON,Conservative,Scott Mann,30671,59.4,8.6
+159,3,LD,Liberal Democrat,Danny Chambers,15919,30.8,-5.8
+159,3,LAB,Labour,Joy Bassett,4516,8.7,-3.3
+159,3,LIB,Liberal Party,Elmars Liepins,572,1.1,1.1
+160,3,CON,Conservative,Sheryll Murray,31807,59.3,3.9
+160,3,LAB,Labour,Gareth Derrick,10836,20.2,-2.4
+160,3,LD,Liberal Democrat,Colin Martin,8650,16.1,-3.3
+160,3,GRN,Green,Martha Green,1493,2.8,0.3
+160,3,LIB,Liberal Party,Jay Latham,869,1.6,1.6
+161,3,CON,Conservative,Geoffrey Clifton-Brown,35484,58.0,-2.6
+161,3,LD,Liberal Democrat,Liz Webster,15270,25.0,8.6
+161,3,LAB,Labour,Alan MacKenzie,7110,11.6,-6.3
+161,3,GRN,Green,Sabrina Poole,3312,5.4,2.5
+162,3,LAB,Labour,Colleen Fletcher,23412,52.7,-10.8
+162,3,CON,Conservative,Sophie Richards,15720,35.4,5.4
+162,3,BRX,The Brexit Party,Iddrisu Sufyan,2110,4.7,4.7
+162,3,LD,Liberal Democrat,Nukey Proctor,2061,4.6,2.1
+162,3,GRN,Green,Matthew Handley,1141,2.6,1.5
+163,3,LAB,Labour,Taiwo Owatemi,20918,43.8,-10.1
+163,3,CON,Conservative,Clare Golby,20710,43.4,6.6
+163,3,LD,Liberal Democrat,Greg Judge,2717,5.7,3.1
+163,3,BRX,The Brexit Party,Joshua Richardson,1956,4.1,4.1
+163,3,GRN,Green,Stephen Gray,1443,3.0,1.7
+164,3,LAB,Labour,Zarah Sultana,19544,43.4,-11.7
+164,3,CON,Conservative,Mattie Heaven,19143,42.5,4.4
+164,3,LD,Liberal Democrat,Stephen Richmond,3398,7.5,4.7
+164,3,BRX,The Brexit Party,James Crocker,1432,3.2,3.2
+164,3,GRN,Green,Becky Finlayson,1092,2.4,1.1
+164,3,IND,Independent,Ed Manning,435,1.0,1.0
+165,3,CON,Conservative,Henry Smith,27040,54.2,3.6
+165,3,LAB,Labour,Peter Lamb,18680,37.4,-8.3
+165,3,LD,Liberal Democrat,Khalil Yousuf,2728,5.5,1.7
+165,3,GRN,Green,Iain Dickson,1451,2.9,2.9
+166,3,CON,Conservative,Kieran Mullan,28704,53.1,6.1
+166,3,LAB,Labour,Laura Smith,20196,37.4,-9.7
+166,3,LD,Liberal Democrat,Matthew Theobald,2618,4.8,2.4
+166,3,BRX,The Brexit Party,Matt Wood,1390,2.6,2.6
+166,3,GRN,Green,Te Ata Browne,975,1.8,1.8
+166,3,LBT,Libertarian,Andrew Kinsman,149,0.3,0.3
+167,3,LAB,Labour,Sarah Jones,27124,50.2,-2.1
+167,3,CON,Conservative,Mario Creatura,21175,39.2,-3.2
+167,3,LD,Liberal Democrat,Simon Sprague,3532,6.5,4.6
+167,3,GRN,Green,Esther Sutton,1215,2.2,1.2
+167,3,BRX,The Brexit Party,Peter Sonnex,999,1.8,1.8
+168,3,LAB,Labour,Steve Reed,36495,65.6,-8.5
+168,3,CON,Conservative,Donald Ekekhomen,11822,21.3,1.4
+168,3,LD,Liberal Democrat,Claire Bonham,4476,8.0,5.3
+168,3,GRN,Green,Rachel Chance,1629,2.9,1.3
+168,3,BRX,The Brexit Party,Chidi Ngwaba,839,1.5,1.5
+168,3,CPA,Christian Peoples Alliance,Candace Mitchell,348,0.6,0.6
+169,3,CON,Conservative,Chris Philp,30985,52.2,-2.2
+169,3,LAB,Labour,Olga Fitzroy,18646,31.4,-4.4
+169,3,LD,Liberal Democrat,Anna Jones,7503,12.6,6.9
+169,3,GRN,Green,Peter Underwood,1782,3.0,1.2
+169,3,UKIP,UKIP,Kathleen Garner,442,0.7,-1.1
+170,3,SNP,Scottish National Party,Stuart McDonald,24158,52.9,9.3
+170,3,LAB,Labour,James McPhilemy,11182,24.5,-9.4
+170,3,CON,Conservative,Roz McCall,7380,16.2,-2.1
+170,3,LD,Liberal Democrat,Susan Murray,2966,6.5,3.7
+171,3,LAB,Labour,Beth Winter,15533,51.4,-9.6
+171,3,CON,Conservative,Pauline Church,6711,22.2,2.8
+171,3,BRX,The Brexit Party,Rebecca Rees-Evans,3045,10.1,10.1
+171,3,PC,Plaid Cymru,Geraint Benney,2562,8.5,-5.3
+171,3,CVP,The Cynon Valley Party,Andrew Chainey,1322,4.4,4.4
+171,3,LD,Liberal Democrat,Steve Bray,949,3.1,1.3
+171,3,SDP,Social Democratic Party,Ian Mclean,114,0.4,0.4
+172,3,LAB,Labour,Jon Cruddas,19468,44.5,-5.6
+172,3,CON,Conservative,Damian White,19175,43.8,3.9
+172,3,BRX,The Brexit Party,Tom Bewick,2887,6.6,6.6
+172,3,LD,Liberal Democrat,Sam Fisk,1182,2.7,1.7
+172,3,GRN,Green,Azzees Minott,602,1.4,0.2
+172,3,IND,Independent,Ron Emin,212,0.5,0.5
+172,3,IND,Independent,Terry London,209,0.5,0.5
+173,3,CON,Conservative,Peter Gibson,20901,48.1,4.8
+173,3,LAB,Labour,Jenny Chapman,17607,40.5,-10.1
+173,3,LD,Liberal Democrat,Anne-Marie Curry,2097,4.8,2.5
+173,3,BRX,The Brexit Party,Dave Mawson,1544,3.5,3.5
+173,3,GRN,Green,Matthew Snedker,1057,2.4,1.3
+173,3,IND,Independent,Monty Brack,292,0.7,0.7
+174,3,CON,Conservative,Gareth Johnson,34006,62.9,5.4
+174,3,LAB,Labour,Sacha Gosine,14846,27.5,-5.8
+174,3,LD,Liberal Democrat,Kyle Marsh,3736,6.9,4.3
+174,3,GRN,Green,Mark Lindop,1435,2.7,1.2
+175,3,CON,Conservative,Chris Heaton-Harris,37055,64.6,0.8
+175,3,LAB,Labour,Paul Joyce,10975,19.1,-5.5
+175,3,LD,Liberal Democrat,Andrew Simpson,7032,12.3,5.0
+175,3,GRN,Green,Clare Slater,2341,4.1,2.4
+176,3,CON,Conservative,Rob Roberts,16756,43.7,2.2
+176,3,LAB,Labour,David Hanson,15891,41.4,-10.8
+176,3,LD,Liberal Democrat,Andrew Parkhurst,2346,6.1,3.5
+176,3,BRX,The Brexit Party,Nigel Williams,1971,5.1,5.1
+176,3,PC,Plaid Cymru,Paul Rowlinson,1406,3.7,-0.1
+177,3,LAB,Labour,Andrew Gwynne,19317,50.1,-13.5
+177,3,CON,Conservative,Iain Bott,13142,34.1,6.1
+177,3,BRX,The Brexit Party,Martin Power,3039,7.9,7.9
+177,3,LD,Liberal Democrat,Dominic Hardwick,1642,4.3,2.1
+177,3,GRN,Green,Gary Lawson,1124,2.9,1.7
+177,3,MRLP,Monster Raving Loony Party,Farmin Dave,324,0.8,0.3
+178,3,CON,Conservative,Amanda Solloway,21259,45.2,0.8
+178,3,LAB,Labour,Tony Tinley,18719,39.8,-8.7
+178,3,LD,Liberal Democrat,Gregory Webb,3450,7.3,2.7
+178,3,BRX,The Brexit Party,Alan Graves,1908,4.1,4.1
+178,3,GRN,Green,Helen Hitchcock,1046,2.2,2.2
+178,3,IND,Independent,Chris Williamson,635,1.4,1.4
+179,3,LAB,Labour,Margaret Beckett,21690,51.1,-7.3
+179,3,CON,Conservative,Ed Barker,15671,36.9,3.4
+179,3,LD,Liberal Democrat,Joe Naitta,2621,6.2,3.5
+179,3,BRX,The Brexit Party,Timothy Prosser,2480,5.8,5.8
+180,3,CON,Conservative,Sarah Dines,29356,58.7,-1.3
+180,3,LAB,Labour,Claire Raw,11975,23.9,-7.2
+180,3,LD,Liberal Democrat,Robert Court,6627,13.2,6.9
+180,3,GRN,Green,Matt Buckler,2058,4.1,2.1
+181,3,CON,Conservative,Pauline Latham,29027,58.8,0.2
+181,3,LAB,Labour,Emma Monkman,13642,27.6,-7.9
+181,3,LD,Liberal Democrat,Felix Dodds,4756,9.6,6.1
+181,3,GRN,Green,Sue MacFarlane,1931,3.9,1.6
+182,3,CON,Conservative,Lee Rowley,28897,58.7,9.5
+182,3,LAB,Labour,Chris Peace,16021,32.6,-11.0
+182,3,LD,Liberal Democrat,Ross Shipman,3021,6.1,3.4
+182,3,GRN,Green,Frank Adlington-Stringer,1278,2.6,1.2
+183,3,CON,Conservative,Heather Wheeler,33502,62.8,4.0
+183,3,LAB,Labour,Robert Pearson,14167,26.5,-9.4
+183,3,LD,Liberal Democrat,Lorraine Johnson,3924,7.4,3.8
+183,3,GRN,Green,Amanda Baker,1788,3.3,1.6
+184,3,CON,Conservative,Danny Kruger,32150,63.1,0.4
+184,3,LD,Liberal Democrat,Jo Waltham,8157,16.0,6.7
+184,3,LAB,Labour,Rachael Schneider,7838,15.4,-5.6
+184,3,GRN,Green,Emma Dawnay,2809,5.5,2.3
+185,3,CON,Conservative,Mel Stride,32095,55.3,1.2
+185,3,LAB,Labour,Lisa Robillard Webb,14374,24.8,-2.2
+185,3,LD,Liberal Democrat,Alison Eden,8770,15.1,3.4
+185,3,GRN,Green,Andy Williamson,2833,4.9,2.2
+186,3,CON,Conservative,Simon Jupp,32577,50.8,2.3
+186,3,IND,Independent,Claire Wright,25869,40.4,5.1
+186,3,LAB,Labour,Dan Wilson,2870,4.5,-6.9
+186,3,LD,Liberal Democrat,Eleanor Rylance,1771,2.8,0.3
+186,3,GRN,Green,Henry Gent,711,1.1,1.1
+186,3,IND,Independent,Peter Faithfull,275,0.4,0.2
+187,3,CON,Conservative,Selaine Saxby,31479,56.6,10.8
+187,3,LD,Liberal Democrat,Alex White,16666,30.0,-8.0
+187,3,LAB,Labour,Finola ONeill,5097,9.2,-3.5
+187,3,GRN,Green,Robbie Mack,1759,3.2,1.8
+187,3,IND,Independent,Steve Cotten,580,1.0,1.0
+188,3,CON,Conservative,Gary Streeter,33286,62.4,2.5
+188,3,LAB,Labour,Alex Beverley,11856,22.2,-7.7
+188,3,LD,Liberal Democrat,Sima Davarian,6207,11.6,6.5
+188,3,GRN,Green,Ian Poyser,2018,3.8,1.6
+189,3,CON,Conservative,Geoffrey Cox,35904,60.1,3.6
+189,3,LD,Liberal Democrat,David Chalmers,10912,18.3,0.6
+189,3,LAB,Labour,Siobhan Strode,10290,17.2,-4.5
+189,3,GRN,Green,Chris Jordan,2077,3.5,0.8
+189,3,IND,Independent,Bob Wootton,547,0.9,0.9
+190,3,CON,Conservative,Mark Eastwood,26179,46.4,1.3
+190,3,LAB,Labour,Paula Sherriff,24618,43.7,-7.3
+190,3,LD,Liberal Democrat,John Rossington,2406,4.3,2.1
+190,3,BRX,The Brexit Party,Philip James,1874,3.3,3.3
+190,3,GRN,Green,Simon Cope,1060,1.9,0.1
+190,3,MRLP,Monster Raving Loony Party,Sir Archibald Stanton,252,0.4,0.4
+191,3,CON,Conservative,Nick Fletcher,19609,43.2,1.4
+191,3,LAB,Labour,Caroline Flint,15979,35.2,-17.8
+191,3,BRX,The Brexit Party,Paul Whitehurst,6247,13.7,13.7
+191,3,LD,Liberal Democrat,Mark Alcock,1907,4.2,2.3
+191,3,GRN,Green,Kate Needham,872,1.9,1.9
+191,3,YRKS,The Yorkshire Party,Chris Holmes,823,1.8,-1.7
+192,3,LAB,Labour,Rosie Winterton,16638,40.0,-17.9
+192,3,CON,Conservative,Roberto Weeden-Sanz,14360,34.5,0.2
+192,3,BRX,The Brexit Party,Surjit Duhre,6842,16.5,16.5
+192,3,LD,Liberal Democrat,Paul Horton,1748,4.2,1.9
+192,3,YRKS,The Yorkshire Party,Leon French,1012,2.4,-0.7
+192,3,GRN,Green,Frank Sheridan,981,2.4,2.4
+193,3,LAB,Labour,Ed Miliband,15740,38.7,-22.1
+193,3,CON,Conservative,Katrina Sale,13370,32.9,5.2
+193,3,BRX,The Brexit Party,Andy Stewart,8294,20.4,20.4
+193,3,LD,Liberal Democrat,Joe Otten,1476,3.6,2.0
+193,3,YRKS,The Yorkshire Party,Stevie Manion,959,2.4,0.6
+193,3,ED,English Democrats,Frank Calladine,309,0.8,-0.1
+193,3,IND,Independent,Eddie Todd,220,0.5,0.5
+193,3,IND,Independent,Wendy Bailey,188,0.5,0.5
+193,3,IND,Independent,Neil Wood,142,0.3,0.3
+194,3,CON,Conservative,Michael Tomlinson,29548,60.4,1.1
+194,3,LD,Liberal Democrat,Vikki Slade,14650,29.9,2.5
+194,3,LAB,Labour,Joanne Oldale,3402,7.0,-6.4
+194,3,GRN,Green,Natalie Carswell,1330,2.7,2.7
+195,3,CON,Conservative,Simon Hoare,35705,63.6,-1.3
+195,3,LD,Liberal Democrat,David Chadwick,11404,20.3,6.8
+195,3,LAB,Labour,Pat Osborne,6737,12.0,-6.6
+195,3,GRN,Green,Ken Huggins,2261,4.0,1.1
+196,3,CON,Conservative,Richard Drax,30024,58.8,2.7
+196,3,LAB,Labour,Carralyn Parkes,12871,25.2,-8.4
+196,3,LD,Liberal Democrat,Nick Ireland,5432,10.6,4.8
+196,3,GRN,Green,Jon Orrell,2246,4.4,0.0
+196,3,IND,Independent,Joseph Green,485,0.9,0.9
+197,3,CON,Conservative,Chris Loder,33589,55.1,-0.4
+197,3,LD,Liberal Democrat,Edward Morello,19483,32.0,8.5
+197,3,LAB,Labour,Claudia Sorin,5729,9.4,-8.9
+197,3,GRN,Green,Kelvin Clayton,2124,3.5,0.7
+198,3,CON,Conservative,Natalie Elphicke,28830,56.9,4.5
+198,3,LAB,Labour,Charlotte Cornell,16552,32.6,-7.3
+198,3,LD,Liberal Democrat,Simon Dodd,2895,5.7,3.1
+198,3,GRN,Green,Beccy Sawbridge,1371,2.7,0.9
+198,3,IND,Independent,Nathan Sutton,916,1.8,1.8
+198,3,WEP,Women&#39;s Equality Party,Eljai Morais,137,0.3,0.3
+199,3,CON,Conservative,Marco Longhi,23134,63.1,16.6
+199,3,LAB,Labour,Melanie Dudley,11601,31.6,-14.9
+199,3,LD,Liberal Democrat,Ian Flynn,1210,3.3,2.4
+199,3,GRN,Green,Mike Harrison,739,2.0,1.4
+200,3,CON,Conservative,Mike Wood,24835,67.9,11.5
+200,3,LAB,Labour,Lucy Caldicott,9270,25.3,-10.9
+200,3,LD,Liberal Democrat,Jonathan Bramall,1608,4.4,2.8
+200,3,GRN,Green,Cate Mohr,863,2.4,1.4
+201,3,LAB,Labour,Helen Hayes,36521,65.5,-4.2
+201,3,GRN,Green,Jonathan Bartley,9211,16.5,14.0
+201,3,CON,Conservative,Jane Lyons,9160,16.4,-3.1
+201,3,BRX,The Brexit Party,Julia Stephenson,571,1.0,1.0
+201,3,CPA,Christian Peoples Alliance,Anthony Hodgson,242,0.4,0.4
+201,3,UKIP,UKIP,John Plume,73,0.1,0.1
+202,3,CON,Conservative,Alister Jack,22678,44.1,0.8
+202,3,SNP,Scottish National Party,Richard Arkless,20873,40.6,8.2
+202,3,LAB,Labour,Ted Thompson,4745,9.2,-11.7
+202,3,LD,Liberal Democrat,McNabb Laurie,3133,6.1,3.7
+203,3,CON,Conservative,David Mundell,22611,46.0,-3.4
+203,3,SNP,Scottish National Party,Amanda Burgauer,18830,38.3,8.2
+203,3,LAB,Labour,Nick Chisholm,4172,8.5,-8.1
+203,3,LD,Liberal Democrat,John Ferry,3540,7.2,3.2
+204,3,SNP,Scottish National Party,Amy Callaghan,19672,37.1,6.8
+204,3,LD,Liberal Democrat,Jo Swinson,19523,36.8,-3.8
+204,3,CON,Conservative,Pam Gosal,7455,14.1,-0.5
+204,3,LAB,Labour,Callum McNally,4839,9.1,-5.4
+204,3,GRN,Green,Carolynn Scrimgeour,916,1.7,1.7
+204,3,IND,Independent,Rosie Dickson,221,0.4,0.4
+204,3,UKIP,UKIP,Donald MacKay,208,0.4,0.4
+204,3,SFP,Scottish Family Party,Liam McKechnie,197,0.4,0.4
+205,3,SNP,Scottish National Party,Martin Docherty,22396,49.6,6.8
+205,3,LAB,Labour,Jean Anne Mitchell,12843,28.5,-9.2
+205,3,CON,Conservative,Alix Mathieson,6436,14.3,-2.9
+205,3,LD,Liberal Democrat,Jennifer Lang,1890,4.2,1.9
+205,3,GRN,Green,Peter Connolly,867,1.9,1.9
+205,3,IND,Independent,Andrew Muir,708,1.6,1.6
+206,3,SNP,Scottish National Party,Stewart Hosie,24361,53.8,11.0
+206,3,CON,Conservative,Philip Scott,10986,24.3,-3.1
+206,3,LAB,Labour,Rosalind Garton,6045,13.4,-12.7
+206,3,LD,Liberal Democrat,Michael Crichton,3573,7.9,4.1
+206,3,IND,Independent,George Morton,312,0.7,0.7
+207,3,SNP,Scottish National Party,Chris Law,22355,53.8,7.1
+207,3,LAB,Labour,Jim Malone,10096,24.3,-8.8
+207,3,CON,Conservative,Tess White,5149,12.4,-3.8
+207,3,LD,Liberal Democrat,Daniel Coleman,2468,5.9,2.9
+207,3,BRX,The Brexit Party,Stuart Waiton,1271,3.1,3.1
+207,3,CPA,Christian Peoples Alliance,Quinta Arrey,240,0.6,0.6
+208,3,SNP,Scottish National Party,Douglas Chapman,23727,44.4,8.8
+208,3,LAB,Labour,Cara Hilton,13028,24.4,-9.5
+208,3,CON,Conservative,Moira Benny,11207,21.0,-3.7
+208,3,LD,Liberal Democrat,Rebecca Bell,4262,8.0,2.1
+208,3,GRN,Green,Mags Hall,1258,2.4,2.4
+209,3,LAB,Labour,Kevan Jones,18639,44.2,-15.7
+209,3,CON,Conservative,Ed Parson,13897,32.9,3.0
+209,3,BRX,The Brexit Party,Peter Telford,4693,11.1,11.1
+209,3,LD,Liberal Democrat,Craig Martin,2879,6.8,2.2
+209,3,GRN,Green,Derek Morse,1126,2.7,2.7
+209,3,IND,Independent,Ken Rollings,961,2.3,2.3
+210,3,CON,Conservative,Richard Holden,19990,41.9,7.5
+210,3,LAB,Labour,Laura Pidcock,18846,39.5,-13.3
+210,3,BRX,The Brexit Party,John Wolstenholme,3193,6.7,6.7
+210,3,LD,Liberal Democrat,Michael Peacock,2831,5.9,-1.2
+210,3,IND,Independent,Watts Stelling,1216,2.6,2.6
+210,3,GRN,Green,David Sewell,1173,2.5,1.4
+210,3,IND,Independent,David Lindsay,414,0.9,0.9
+211,3,LAB,Labour,Mary Foy,20531,42.0,-13.4
+211,3,CON,Conservative,William Morgan,15506,31.7,1.9
+211,3,LD,Liberal Democrat,Amanda Hopgood,7935,16.2,6.3
+211,3,BRX,The Brexit Party,Lesley Wright,3252,6.7,6.7
+211,3,GRN,Green,Jonathan Elmer,1635,3.3,1.7
+212,3,PC,Plaid Cymru,Liz Saville Roberts,14447,48.3,3.2
+212,3,CON,Conservative,Tomos Davies,9707,32.4,3.3
+212,3,LAB,Labour,Graham Hogg,3998,13.4,-7.3
+212,3,BRX,The Brexit Party,Louise Hughes,1776,5.9,5.9
+213,3,LAB,Labour,Rupa Huq,28132,51.3,-8.4
+213,3,CON,Conservative,Julian Gallant,14832,27.1,-7.7
+213,3,LD,Liberal Democrat,Sonul Badiani,9444,17.2,11.7
+213,3,GRN,Green,Kate Crossland,1735,3.2,3.2
+213,3,BRX,The Brexit Party,Samir Alsoodani,664,1.2,1.2
+214,3,LAB,Labour,James Murray,28036,56.5,-9.5
+214,3,CON,Conservative,Anthony Pickles,15767,31.8,3.3
+214,3,LD,Liberal Democrat,Henrietta Bewley,4370,8.8,6.4
+214,3,GRN,Green,Jeremy Parker,1458,2.9,1.5
+215,3,LAB,Labour,Virendra Sharma,25678,60.8,-9.4
+215,3,CON,Conservative,Tom Bennett,9594,22.7,1.4
+215,3,LD,Liberal Democrat,Tariq Mahmood,3933,9.3,5.1
+215,3,GRN,Green,Darren Moore,1688,4.0,1.7
+215,3,BRX,The Brexit Party,Rosamund Beattie,867,2.1,2.1
+215,3,CPA,Christian Peoples Alliance,Suzanne Fernandes,287,0.7,0.7
+215,3,WRP,Workers Revolutionary Party,Hassan Zulkifal,170,0.4,-0.4
+216,3,LAB,Labour,Grahame Morris,15723,45.5,-18.2
+216,3,CON,Conservative,Clare Ambrosino,9142,26.4,3.7
+216,3,BRX,The Brexit Party,Julie Maughan,6744,19.5,19.5
+216,3,LD,Liberal Democrat,Dominic Haney,1526,4.4,3.1
+216,3,NE,North East Party,Susan McDonnell,1448,4.2,-2.3
+217,3,DUP,Democratic Unionist Party,Sammy Wilson,16871,45.3,-12.1
+217,3,APNI,Alliance Party,Danny Donnelly,10165,27.3,11.7
+217,3,UUP,Ulster Unionist Party,Steve Aiken,5475,14.7,2.8
+217,3,SF,Sinn Féin,Oliver McMullan,2120,5.7,-3.6
+217,3,CON,Conservative,Aaron Rankin,1043,2.8,0.3
+217,3,SDLP,Social Democratic &amp; Labour Party,Angela Mulholland,902,2.4,-0.9
+217,3,GRN,Green,Philip Randle,685,1.8,1.8
+218,3,LAB,Labour,Stephen Timms,41703,76.3,-6.9
+218,3,CON,Conservative,Scott Pattenden,8527,15.6,2.8
+218,3,LD,Liberal Democrat,Michael Fox,2158,4.0,2.8
+218,3,BRX,The Brexit Party,Alka Sehgal Cuthbert,1107,2.0,2.0
+218,3,GRN,Green,Mike Spracklin,883,1.6,0.8
+218,3,CMU,Communities United,Kamran Malik,250,0.5,0.5
+219,3,SNP,Scottish National Party,Lisa Cameron,26113,46.4,7.5
+219,3,LAB,Labour,Monique McAdams,12791,22.7,-9.0
+219,3,CON,Conservative,Gail MacGregor,11961,21.2,-4.1
+219,3,LD,Liberal Democrat,Ewan McRobert,3760,6.7,3.7
+219,3,GRN,Green,Erica Bradley-Young,1153,2.0,2.0
+219,3,UKIP,UKIP,David Mackay,559,1.0,-0.2
+220,3,DUP,Democratic Unionist Party,Gregory Campbell,15765,40.1,-8.0
+220,3,SDLP,Social Democratic &amp; Labour Party,Cara Hunter,6158,15.7,4.9
+220,3,SF,Sinn Féin,Dermot Nicholl,6128,15.6,-10.9
+220,3,APNI,Alliance Party,Chris McCaw,5921,15.1,8.9
+220,3,UUP,Ulster Unionist Party,Richard Holmes,3599,9.2,1.5
+220,3,AONT,Aontú,Seán McNicholl,1731,4.4,4.4
+221,3,SNP,Scottish National Party,Kenny MacAskill,21156,36.2,5.6
+221,3,LAB,Labour,Martin Whitfield,17270,29.5,-6.6
+221,3,CON,Conservative,Craig Hoy,15523,26.5,-3.1
+221,3,LD,Liberal Democrat,Robert O&#39;Riordan,4071,7.0,3.8
+221,3,UKIP,UKIP,David Sisson,493,0.8,0.8
+222,3,CON,Conservative,Caroline Ansell,26951,48.9,4.8
+222,3,LD,Liberal Democrat,Stephen Lloyd,22620,41.0,-5.9
+222,3,LAB,Labour,Jake Lambert,3848,7.0,-1.2
+222,3,BRX,The Brexit Party,Stephen Gander,1530,2.8,2.8
+222,3,IND,Independent,Ken Pollock,185,0.3,0.3
+223,3,CON,Conservative,Paul Holmes,32690,55.4,5.0
+223,3,LD,Liberal Democrat,Lynda Murphy,17083,29.0,3.3
+223,3,LAB,Labour,Sam Jordan,7559,12.8,-7.2
+223,3,GRN,Green,Ron Meldrum,1639,2.8,1.5
+224,3,CON,Conservative,Edward Timpson,30095,56.8,-0.1
+224,3,LAB,Labour,Terry Savage,11652,22.0,-11.6
+224,3,LD,Liberal Democrat,Antoinette Sandbach,9582,18.1,12.6
+224,3,GRN,Green,Louise Jewkes,1191,2.2,0.7
+224,3,UKIP,UKIP,Andrea Allen,451,0.9,-1.3
+225,3,SNP,Scottish National Party,Tommy Sheppard,23165,48.4,5.9
+225,3,LAB,Labour,Sheila Gilmore,12748,26.7,-8.0
+225,3,CON,Conservative,Eleanor Price,6549,13.7,-4.9
+225,3,LD,Liberal Democrat,Jill Reilly,3289,6.9,2.6
+225,3,GRN,Green,Claire Miller,2064,4.3,4.3
+226,3,SNP,Scottish National Party,Deidre Brock,25925,43.7,9.7
+226,3,LAB,Labour,Gordon Munro,13117,22.1,-9.1
+226,3,CON,Conservative,Iain McGill,11000,18.5,-8.7
+226,3,LD,Liberal Democrat,Bruce Wilson,6635,11.2,6.6
+226,3,GRN,Green,Steve Burgess,1971,3.3,0.3
+226,3,BRX,The Brexit Party,Robert Speirs,558,0.9,0.9
+226,3,REN,Renew,Heather Astbury,138,0.2,0.2
+227,3,LAB,Labour,Ian Murray,23745,47.7,-7.2
+227,3,SNP,Scottish National Party,Catriona Macdonald,12650,25.4,3.0
+227,3,CON,Conservative,Nick Cook,8161,16.4,-3.3
+227,3,LD,Liberal Democrat,Alan Beal,3819,7.7,4.8
+227,3,GRN,Green,Kate Nevens,1357,2.7,2.7
+228,3,SNP,Scottish National Party,Joanna Cherry,24830,47.6,12.0
+228,3,CON,Conservative,Callum Laidlaw,12848,24.6,-8.7
+228,3,LAB,Labour,Sophie Cooke,7478,14.3,-12.4
+228,3,LD,Liberal Democrat,Tom Inglis,4971,9.5,5.2
+228,3,GRN,Green,Ben Parker,1265,2.4,2.4
+228,3,BRX,The Brexit Party,David Ballantine,625,1.2,1.2
+228,3,SDP,Social Democratic Party,Mev Brown,114,0.2,0.2
+229,3,LD,Liberal Democrat,Christine Jardine,21766,39.9,5.6
+229,3,SNP,Scottish National Party,Sarah Masson,17997,33.0,4.4
+229,3,CON,Conservative,Graham Hutchison,9283,17.0,-4.9
+229,3,LAB,Labour,Craig Bolton,4460,8.2,-6.7
+229,3,GRN,Green,Elaine Gunn,1027,1.9,1.9
+230,3,LAB,Labour,Kate Osamor,26217,65.0,-6.5
+230,3,CON,Conservative,James Hockney,10202,25.3,2.2
+230,3,LD,Liberal Democrat,David Schmitz,2145,5.3,3.4
+230,3,GRN,Green,Benjamin Maydon,862,2.1,0.7
+230,3,BRX,The Brexit Party,Sachin Sehgal,840,2.1,2.1
+230,3,IND,Independent,Sabriye Warsame,75,0.2,0.2
+231,3,LAB,Labour,Justin Madders,26001,53.3,-5.8
+231,3,CON,Conservative,Alison Rodwell,17237,35.4,-1.4
+231,3,LD,Liberal Democrat,Ed Gough,2406,4.9,3.2
+231,3,BRX,The Brexit Party,Christopher Stevens,2138,4.4,4.4
+231,3,GRN,Green,Chris Copeman,964,2.0,1.3
+232,3,CON,Conservative,Alec Shelbrooke,33726,57.9,3.6
+232,3,LAB,Labour,David Nagle,16373,28.1,-9.7
+232,3,LD,Liberal Democrat,Stewart Golton,5155,8.9,4.5
+232,3,GRN,Green,Penny Stables,1775,3.0,1.4
+232,3,YRKS,The Yorkshire Party,Matthew Clover,1196,2.1,0.3
+233,3,LAB,Labour,Clive Efford,20550,47.0,-7.4
+233,3,CON,Conservative,Louie French,17353,39.7,-1.1
+233,3,LD,Liberal Democrat,Charley Hasted,2941,6.7,3.6
+233,3,BRX,The Brexit Party,Steve Kelleher,1523,3.5,3.5
+233,3,GRN,Green,Matt Stratford,1322,3.0,3.0
+234,3,LAB,Labour,Feryal Clark,23340,51.8,-6.2
+234,3,CON,Conservative,Joanne Laban,16848,37.4,0.5
+234,3,LD,Liberal Democrat,Guy Russo,2950,6.5,4.4
+234,3,GRN,Green,Isobel Whittaker,1115,2.5,1.3
+234,3,BRX,The Brexit Party,Ike Ijeh,797,1.8,1.8
+235,3,LAB,Labour,Bambos Charalambous,22923,48.5,-3.2
+235,3,CON,Conservative,David Burrowes,18473,39.1,-3.6
+235,3,LD,Liberal Democrat,Rob Wilson,4344,9.2,5.2
+235,3,GRN,Green,Luke Balnave,1042,2.2,0.6
+235,3,BRX,The Brexit Party,Parag Shah,494,1.0,1.0
+236,3,CON,Conservative,Eleanor Laing,32364,64.4,2.4
+236,3,LAB,Labour,Vicky Ashworth Te Velde,10191,20.3,-5.8
+236,3,LD,Liberal Democrat,Jon Whitehouse,5387,10.7,5.0
+236,3,GRN,Green,Steven Neville,1975,3.9,1.5
+236,3,YPP,Young People&#39;s Party,Thomas Hall,181,0.4,0.1
+236,3,SDP,Social Democratic Party,Jon Newham,170,0.3,0.3
+237,3,CON,Conservative,Chris Grayling,31819,53.5,-6.1
+237,3,LD,Liberal Democrat,Steve Gee,13946,23.5,11.0
+237,3,LAB,Labour,Ed Mayne,10226,17.2,-7.8
+237,3,GRN,Green,Janice Baker,2047,3.4,0.6
+237,3,IND,Independent,Clive Woodbridge,1413,2.4,2.4
+238,3,CON,Conservative,Maggie Throup,27560,56.5,4.4
+238,3,LAB,Labour,Catherine Atkinson,16954,34.7,-8.3
+238,3,LD,Liberal Democrat,James Archer,2487,5.1,2.6
+238,3,GRN,Green,Brent Poland,1115,2.3,0.9
+238,3,IND,Independent,Des Ball,388,0.8,0.8
+238,3,IND,Independent,Richard Shaw,188,0.4,0.4
+238,3,IND,Independent,Roy Dunn,122,0.2,-0.8
+239,3,LAB,Labour,Abena Oppong-Asare,19882,48.0,-9.5
+239,3,CON,Conservative,Joe Robertson,16124,39.0,3.9
+239,3,BRX,The Brexit Party,Tom Bright,2246,5.4,5.4
+239,3,LD,Liberal Democrat,Sam Webber,1984,4.8,3.1
+239,3,GRN,Green,Claudine Letsae,876,2.1,1.0
+239,3,CPA,Christian Peoples Alliance,Richard Mitchell,272,0.7,0.1
+240,3,CON,Conservative,Dominic Raab,31132,49.4,-9.3
+240,3,LD,Liberal Democrat,Monica Harding,28389,45.0,27.7
+240,3,LAB,Labour,Peter Ashurst,2838,4.5,-15.2
+240,3,IND,Independent,Kylie Keens,347,0.6,0.6
+240,3,MRLP,Monster Raving Loony Party,Baron Badger,326,0.5,0.0
+240,3,ADV,Advance Together,Kyle Taylor,52,0.1,0.1
+241,3,LAB,Labour,Ben Bradshaw,29882,53.2,-8.8
+241,3,CON,Conservative,John Gray,19479,34.7,1.8
+241,3,GRN,Green,Joe Levy,4838,8.6,6.8
+241,3,BRX,The Brexit Party,Leslie Willis,1428,2.5,2.5
+241,3,IND,Independent,Daniel Page,306,0.5,0.5
+241,3,UKIP,UKIP,Duncan Odgers,259,0.5,0.5
+242,3,SNP,Scottish National Party,Johnny McNally,29351,52.5,13.6
+242,3,CON,Conservative,Lynn Munro,14403,25.8,-0.4
+242,3,LAB,Labour,Safia Ali,6243,11.2,-18.6
+242,3,LD,Liberal Democrat,Austin Reid,3990,7.1,5.1
+242,3,GRN,Green,Tom McLaughlin,1885,3.4,1.7
+243,3,CON,Conservative,Suella Braverman,36459,63.7,0.7
+243,3,LAB,Labour,Matthew Randall,10373,18.1,-7.1
+243,3,LD,Liberal Democrat,Matthew Winnington,8006,14.0,7.2
+243,3,GRN,Green,Nick Lyle,2412,4.2,1.9
+244,3,CON,Conservative,Helen Whately,31864,63.2,2.1
+244,3,LAB,Labour,Jenny Reeves,9888,19.6,-6.5
+244,3,LD,Liberal Democrat,Hannah Perkin,6170,12.2,5.7
+244,3,GRN,Green,Hannah Temple,2103,4.2,1.3
+244,3,IND,Independent,Gary Butler,369,0.7,0.7
+245,3,LAB,Labour,Seema Malhotra,24876,52.0,-9.2
+245,3,CON,Conservative,Jane Keep,17017,35.6,3.8
+245,3,LD,Liberal Democrat,Hina Malik,3127,6.5,3.9
+245,3,BRX,The Brexit Party,Martyn Nelson,1658,3.5,3.5
+245,3,GRN,Green,Tony Firkins,1133,2.4,0.8
+246,3,SF,Sinn Féin,Michelle Gildernew,21986,43.3,-3.9
+246,3,UUP,Ulster Unionist Party,Tom Elliott,21929,43.2,-2.3
+246,3,SDLP,Social Democratic &amp; Labour Party,Adam Gannon,3446,6.8,2.0
+246,3,APNI,Alliance Party,Matthew Beaumont,2650,5.2,3.6
+246,3,IND,Independent,Caroline Wheeler,751,1.5,1.5
+247,3,LD,Liberal Democrat,Wendy Chamberlain,19763,43.1,10.2
+247,3,SNP,Scottish National Party,Stephen Gethins,18447,40.2,7.3
+247,3,CON,Conservative,Tony Miklinski,5961,13.0,-11.1
+247,3,LAB,Labour,Wendy Haynes,1707,3.7,-5.9
+248,3,CON,Conservative,Jack Lopresti,26293,48.9,-1.1
+248,3,LAB,Labour,Mhairi Threlfall,20647,38.4,-3.3
+248,3,LD,Liberal Democrat,Louise Harris,4992,9.3,3.3
+248,3,GRN,Green,Jenny Vernon,1563,2.9,0.6
+248,3,CMUK,Citizens Movement Party UK,Elaine Hardwick,257,0.5,0.5
+249,3,CON,Conservative,Mike Freer,24162,43.8,-3.1
+249,3,LD,Liberal Democrat,Luciana Berger,17600,31.9,25.3
+249,3,LAB,Labour,Ross Houston,13347,24.2,-19.6
+250,3,CON,Conservative,Damian Collins,35483,60.1,5.4
+250,3,LAB,Labour,Laura Davison,14146,24.0,-4.5
+250,3,LD,Liberal Democrat,Simon Bishop,5755,9.8,2.6
+250,3,GRN,Green,Georgina Treloar,2706,4.6,0.3
+250,3,IND,Independent,Henry Bolton,576,1.0,1.0
+250,3,SDP,Social Democratic Party,Colin Menniss,190,0.3,0.3
+250,3,YPP,Young People&#39;s Party,Rohen Kapur,80,0.1,0.1
+250,3,SPGB,Socialist Party of Great Britain,Andy Thomas,69,0.1,0.1
+251,3,CON,Conservative,Mark Harper,30680,59.6,5.3
+251,3,LAB,Labour,Di Martin,14811,28.8,-7.1
+251,3,GRN,Green,Chris McFarling,4681,9.1,6.7
+251,3,IND,Independent,Julian Burrett,1303,2.5,1.4
+252,3,SDLP,Social Democratic &amp; Labour Party,Colum Eastwood,26881,57.0,17.7
+252,3,SF,Sinn Féin,Elisha McCallion,9771,20.7,-19.0
+252,3,DUP,Democratic Unionist Party,Gary Middleton,4773,10.1,-6.0
+252,3,AONT,Aontú,Anne McCloskey,2032,4.3,4.3
+252,3,PBP,People Before Profit,Shaun Harkin,1332,2.8,-0.2
+252,3,APNI,Alliance Party,Rachael Ferguson,1267,2.7,0.8
+252,3,UUP,Ulster Unionist Party,Darren Guy,1088,2.3,2.3
+253,3,CON,Conservative,Mark Menzies,28432,60.9,2.1
+253,3,LAB,Labour,Martin Mitchell,11821,25.3,-8.1
+253,3,LD,Liberal Democrat,Mark Jewell,3748,8.0,3.0
+253,3,GRN,Green,Gina Dowding,1731,3.7,1.0
+253,3,IND,Independent,Andy Higgins,927,2.0,2.0
+254,3,CON,Conservative,Edward Leigh,33893,66.4,4.6
+254,3,LAB,Labour,Perry Smith,10926,21.4,-7.3
+254,3,LD,Liberal Democrat,Lesley Rollings,5157,10.1,3.0
+254,3,IND,Independent,Mary Cavill,1070,2.1,2.1
+255,3,LAB,Labour,Maria Eagle,38578,72.3,-5.4
+255,3,CON,Conservative,Neva Novaky,6954,13.0,-4.6
+255,3,LD,Liberal Democrat,Kris Brown,3324,6.2,3.0
+255,3,BRX,The Brexit Party,Jake Fraser,2943,5.5,5.5
+255,3,GRN,Green,Jean-Paul Roberts,1183,2.2,0.8
+255,3,LIB,Liberal Party,Hazel Williams,344,0.6,0.6
+256,3,LAB,Labour,Ian Mearns,20450,53.6,-11.5
+256,3,CON,Conservative,Jane MacBean,13250,34.7,10.8
+256,3,LD,Liberal Democrat,Peter Maughan,2792,7.3,3.3
+256,3,GRN,Green,Rachel Cabral,1653,4.3,2.9
+257,3,CON,Conservative,Tom Randall,22718,45.5,2.6
+257,3,LAB,Labour,Vernon Coaker,22039,44.1,-7.8
+257,3,LD,Liberal Democrat,Anita Prabhakar,2279,4.6,2.5
+257,3,BRX,The Brexit Party,Graham Hunt,1820,3.6,3.6
+257,3,GRN,Green,Jim Norris,1097,2.2,1.2
+258,3,CON,Conservative,Rehman Chishti,28173,61.3,5.9
+258,3,LAB,Labour,Andy Stamp,13054,28.4,-7.7
+258,3,LD,Liberal Democrat,Alan Bullion,2503,5.4,2.6
+258,3,GRN,Green,George Salomon,1043,2.3,1.2
+258,3,UKIP,UKIP,Rob McCulloch Martin,837,1.8,-2.5
+258,3,IND,Independent,Peter Cook,229,0.5,0.5
+258,3,CPA,Christian Peoples Alliance,Roger Peacock,119,0.3,0.0
+259,3,SNP,Scottish National Party,Alison Thewliss,19750,49.2,4.5
+259,3,LAB,Labour,Faten Hameed,13276,33.1,-5.3
+259,3,CON,Conservative,Flora Scarabello,3698,9.2,-4.7
+259,3,LD,Liberal Democrat,Ewan Hoyle,1952,4.9,2.0
+259,3,GRN,Green,Elaine Gallagher,1429,3.6,3.6
+260,3,SNP,Scottish National Party,David Linden,18357,47.7,8.9
+260,3,LAB,Labour,Kate Watson,12791,33.2,-5.3
+260,3,CON,Conservative,Thomas Kerr,5709,14.8,-4.0
+260,3,LD,Liberal Democrat,James Harrison,1626,4.2,2.7
+261,3,SNP,Scottish National Party,Patrick Grady,16982,46.9,9.3
+261,3,LAB,Labour,Pam Duncan-Glancy,11381,31.4,-3.0
+261,3,CON,Conservative,Tony Curtis,3806,10.5,-4.2
+261,3,LD,Liberal Democrat,Andrew Chamberlain,2394,6.6,3.2
+261,3,GRN,Green,Cass Macgregor,1308,3.6,-6.1
+261,3,BRX,The Brexit Party,Dionne Cocozza,320,0.9,0.9
+262,3,SNP,Scottish National Party,Anne McLaughlin,15911,46.9,4.7
+262,3,LAB,Labour,Paul Sweeney,13363,39.4,-3.5
+262,3,CON,Conservative,Lauren Bennie,3558,10.5,-2.4
+262,3,LD,Liberal Democrat,Nicholas Moohan,1093,3.2,1.2
+263,3,SNP,Scottish National Party,Carol Monaghan,19678,49.5,7.0
+263,3,LAB,Labour,Patricia Ferguson,11319,28.5,-7.4
+263,3,CON,Conservative,Ade Aibinu,6022,15.2,-2.9
+263,3,LD,Liberal Democrat,James Speirs,2716,6.8,3.3
+264,3,SNP,Scottish National Party,Stewart McDonald,22829,48.1,7.0
+264,3,LAB,Labour,Johann Lamont,13824,29.1,-7.4
+264,3,CON,Conservative,Kyle Thornton,6237,13.1,-5.9
+264,3,LD,Liberal Democrat,Carole Ford,2786,5.9,2.6
+264,3,GRN,Green,Dan Hutchison,1251,2.6,2.6
+264,3,BRX,The Brexit Party,Danyaal Raja,516,1.1,1.1
+265,3,SNP,Scottish National Party,Chris Stephens,17643,47.9,7.2
+265,3,LAB,Labour,Matt Kerr,12743,34.6,-5.9
+265,3,CON,Conservative,Thomas Haddow,4224,11.5,-4.2
+265,3,LD,Liberal Democrat,Ben Denton-Cardew,1435,3.9,2.0
+265,3,BRX,The Brexit Party,Peter Brown,802,2.2,2.2
+266,3,SNP,Scottish National Party,Peter Grant,21234,51.1,8.3
+266,3,LAB,Labour,Pat Egan,9477,22.8,-11.9
+266,3,CON,Conservative,Amy Thomson,6920,16.7,-2.8
+266,3,LD,Liberal Democrat,Jane Ann Liston,2639,6.4,3.4
+266,3,BRX,The Brexit Party,Victor Farrell,1276,3.1,3.1
+267,3,CON,Conservative,Richard Graham,29159,54.2,3.9
+267,3,LAB,Labour,Fran Boait,18882,35.1,-5.0
+267,3,LD,Liberal Democrat,Rebecca Trimnell,4338,8.1,3.0
+267,3,GRN,Green,Michael Byfield,1385,2.6,1.2
+268,3,SNP,Scottish National Party,Richard Thomson,23885,42.7,6.9
+268,3,CON,Conservative,Colin Clark,23066,41.3,0.5
+268,3,LD,Liberal Democrat,James Oates,5913,10.6,-1.0
+268,3,LAB,Labour,Heather Herbert,3052,5.5,-6.4
+269,3,CON,Conservative,Caroline Dinenage,32226,66.5,4.6
+269,3,LAB,Labour,Tom Chatwin,8948,18.5,-8.7
+269,3,LD,Liberal Democrat,Martin Pepper,5473,11.3,6.6
+269,3,GRN,Green,Zoe Aspinall,1806,3.7,1.7
+270,3,LAB,Labour,Tonia Antoniazzi,20208,45.4,-4.4
+270,3,CON,Conservative,Francesca O&#39;Brien,18371,41.3,-1.4
+270,3,PC,Plaid Cymru,John Davies,2288,5.1,1.5
+270,3,LD,Liberal Democrat,Sam Bennett,2236,5.0,3.0
+270,3,BRX,The Brexit Party,Rob Ross,1379,3.1,3.1
+271,3,CON,Conservative,Gareth Davies,36794,65.7,3.7
+271,3,LAB,Labour,Kathryn Salt,10791,19.3,-7.2
+271,3,LD,Liberal Democrat,Harrish Bisnauthsing,6153,11.0,5.5
+271,3,GRN,Green,Anne Gayfer,2265,4.0,2.7
+272,3,CON,Conservative,Adam Holloway,29580,62.2,6.6
+272,3,LAB,Labour,Lauren Sullivan,13999,29.4,-7.1
+272,3,LD,Liberal Democrat,Ukonu Obasi,2584,5.4,3.0
+272,3,GRN,Green,Marna Gilligan,1397,2.9,1.5
+273,3,CON,Conservative,Lia Nici,18150,54.9,12.7
+273,3,LAB,Labour,Melanie Onn,10819,32.7,-16.7
+273,3,BRX,The Brexit Party,Christopher Barker,2378,7.2,7.2
+273,3,LD,Liberal Democrat,Ian Barfield,1070,3.2,0.5
+273,3,GRN,Green,Loyd Emmerson,514,1.6,1.6
+273,3,IND,Independent,Nigel Winn,156,0.5,0.5
+274,3,CON,Conservative,Brandon Lewis,28593,65.8,11.6
+274,3,LAB,Labour,Mike Smith-Clare,10930,25.1,-10.9
+274,3,LD,Liberal Democrat,James Joyce,1661,3.8,1.6
+274,3,GRN,Green,Anne Killett,1064,2.4,1.2
+274,3,VPP,Veterans and People&#39;s Party,Dave Harding,631,1.5,1.5
+274,3,IND,Independent,Adrian Myers,429,1.0,1.0
+274,3,IND,Independent,Margaret McMahon-Morris,154,0.4,0.4
+275,3,LAB,Labour,Matthew Pennycook,30185,56.8,-7.6
+275,3,CON,Conservative,Thomas Turrell,11721,22.1,-3.4
+275,3,LD,Liberal Democrat,Rhian O&#39;Connor,7253,13.7,6.5
+275,3,GRN,Green,Victoria Rance,2363,4.4,1.4
+275,3,BRX,The Brexit Party,Kailash Trivedi,1228,2.3,2.3
+275,3,CPA,Christian Peoples Alliance,Eunice Odesanmi,245,0.5,0.5
+275,3,IND,Independent,Sushil Gaikwad,125,0.2,0.2
+276,3,CON,Conservative,Angela Richardson,26317,44.9,-9.7
+276,3,LD,Liberal Democrat,Zoe Franklin,22980,39.2,15.3
+276,3,LAB,Labour,Anne Rouse,4515,7.7,-11.3
+276,3,IND,Independent,Anne Milton,4356,7.4,7.4
+276,3,PP,The Peace Party,John Morris,483,0.8,0.5
+277,3,LAB,Labour,Diane Abbott,39972,70.3,-4.8
+277,3,CON,Conservative,Benjamin Obese-Jecty,6784,11.9,-0.7
+277,3,GRN,Green,Alex Armitage,4989,8.8,4.1
+277,3,LD,Liberal Democrat,Ben Mathis,4283,7.5,0.8
+277,3,BRX,The Brexit Party,Richard Ings,609,1.1,1.1
+277,3,REN,Renew,Haseeb Ur-Rehman,151,0.3,0.3
+277,3,IND,Independent,Lore Lixenberg,76,0.1,0.1
+278,3,LAB,Labour,Meg Hillier,39884,73.3,-6.2
+278,3,CON,Conservative,Mark Beckett,5899,10.8,-0.1
+278,3,LD,Liberal Democrat,Dave Raval,4853,8.9,3.2
+278,3,GRN,Green,Tyrone Scott,2948,5.4,2.7
+278,3,BRX,The Brexit Party,Robert Lloyd,744,1.4,1.4
+278,3,WRP,Workers Revolutionary Party,Jonty Leff,111,0.2,0.0
+279,3,CON,Conservative,James Morris,25607,60.5,8.6
+279,3,LAB,Labour,Ian Cooper,13533,32.0,-8.1
+279,3,LD,Liberal Democrat,Ryan Priest,1738,4.1,2.2
+279,3,GRN,Green,James Windridge,934,2.2,1.2
+279,3,IND,Independent,Jon Cross,232,0.5,0.5
+279,3,IND,Independent,Ian Fleming,190,0.4,0.4
+279,3,IND,Independent,Tim Weller,111,0.3,-0.2
+280,3,LAB,Labour,Holly Lynch,21496,46.3,-6.6
+280,3,CON,Conservative,Kashif Ali,18927,40.7,-1.0
+280,3,BRX,The Brexit Party,Sarah Wood,2813,6.1,6.1
+280,3,LD,Liberal Democrat,James Baker,2276,4.9,2.7
+280,3,GRN,Green,Bella Jessop,946,2.0,2.0
+281,3,CON,Conservative,David Davis,31045,62.4,1.4
+281,3,LAB,Labour,George Ayre,10716,21.5,-9.5
+281,3,LD,Liberal Democrat,Linda Johnson,5215,10.5,5.7
+281,3,GRN,Green,Angela Stone,1764,3.5,2.2
+281,3,YRKS,The Yorkshire Party,Richard Honnoraty,1039,2.1,0.3
+282,3,LAB,Labour,Derek Twigg,29333,63.5,-9.4
+282,3,CON,Conservative,Charles Rowley,10358,22.4,0.8
+282,3,BRX,The Brexit Party,Janet Balfe,3730,8.1,8.1
+282,3,LD,Liberal Democrat,Stephen Gribbon,1800,3.9,2.1
+282,3,GRN,Green,David O&#39;Keefe,982,2.1,2.1
+283,3,LAB,Labour,Andy Slaughter,30074,57.9,-6.0
+283,3,CON,Conservative,Xingang Wang,12227,23.5,-4.6
+283,3,LD,Liberal Democrat,Jessie Venegas,6947,13.4,8.0
+283,3,GRN,Green,Alex Horn,1744,3.4,1.8
+283,3,BRX,The Brexit Party,James Keyse,974,1.9,1.9
+284,3,CON,Conservative,Damian Hinds,33446,58.8,-4.9
+284,3,LD,Liberal Democrat,David Buxton,13750,24.2,9.0
+284,3,LAB,Labour,Gaynor Austin,6287,11.1,-5.9
+284,3,GRN,Green,Zoe Parker,2600,4.6,1.4
+284,3,UKIP,UKIP,Jim Makin,616,1.1,1.1
+284,3,JACP,Justice &amp; Anti-Corruption Party [The],Eddie Trotter,196,0.3,-0.7
+285,3,CON,Conservative,Ranil Jayawardena,35280,59.5,-6.0
+285,3,LD,Liberal Democrat,Graham Cockarill,15069,25.4,13.3
+285,3,LAB,Labour,Barry Jones,5760,9.7,-7.6
+285,3,GRN,Green,Culann Walsh,1754,3.0,0.4
+285,3,IND,Independent,Tony Durrant,831,1.4,1.4
+285,3,MRLP,Monster Raving Loony Party,Howling Laud Hope,576,1.0,1.0
+286,3,CON,Conservative,Kit Malthouse,36591,62.1,0.0
+286,3,LD,Liberal Democrat,Luigi Gregori,10283,17.5,7.7
+286,3,LAB,Labour,Liz Bell,9327,15.8,-7.6
+286,3,GRN,Green,Lance Mitchell,2717,4.6,2.3
+287,3,LAB,Labour,Tulip Siddiq,28080,48.9,-10.1
+287,3,CON,Conservative,Johnny Luk,13892,24.2,-8.2
+287,3,LD,Liberal Democrat,Matt Sanders,13121,22.9,15.8
+287,3,GRN,Green,David Stansell,1608,2.8,1.5
+287,3,BRX,The Brexit Party,James Pointon,684,1.2,1.2
+288,3,CON,Conservative,Neil O&#39;Brien,31698,55.3,3.0
+288,3,LAB,Labour,Celia Hibbert,14420,25.2,-5.6
+288,3,LD,Liberal Democrat,Zuffar Haq,9103,15.9,3.2
+288,3,GRN,Green,Darren Woodiwiss,1709,3.0,1.1
+288,3,IND,Independent,Robin Lambert,389,0.7,0.7
+289,3,CON,Conservative,Robert Halfon,27510,63.5,9.4
+289,3,LAB,Labour,Laura McAlpine,13447,31.0,-7.3
+289,3,LD,Liberal Democrat,Charlotte Cane,2397,5.5,3.4
+290,3,CON,Conservative,Andrew Jones,29962,52.6,-2.9
+290,3,LD,Liberal Democrat,Judith Rogerson,20287,35.6,12.2
+290,3,LAB,Labour,Mark Sewards,5480,9.6,-10.5
+290,3,YRKS,The Yorkshire Party,Kieron George,1208,2.1,2.1
+291,3,CON,Conservative,Bob Blackman,26935,54.4,5.0
+291,3,LAB,Labour,Pamela Fitzpatrick,18765,37.9,-8.1
+291,3,LD,Liberal Democrat,Adam Bernard,3791,7.7,4.6
+292,3,LAB,Labour,Gareth Thomas,25132,52.4,-8.4
+292,3,CON,Conservative,Anwara Ali,16440,34.3,-0.1
+292,3,LD,Liberal Democrat,Lisa-Maria Bornemann,4310,9.0,6.5
+292,3,GRN,Green,Rowan Langley,1109,2.3,1.0
+292,3,BRX,The Brexit Party,Richard Jones,931,1.9,1.9
+293,3,LAB,Labour,Mike Hill,15464,37.7,-14.8
+293,3,CON,Conservative,Stefan Houghton,11869,28.9,-5.3
+293,3,BRX,The Brexit Party,Richard Tice,10603,25.8,25.8
+293,3,LD,Liberal Democrat,Andy Hagon,1696,4.1,2.3
+293,3,IND,Independent,Joe Bousfield,911,2.2,2.2
+293,3,SLP,Socialist Labour Party,Kevin Cranney,494,1.2,1.2
+294,3,CON,Conservative,Bernard Jenkin,31830,61.3,2.7
+294,3,LAB,Labour,Stephen Rice,11648,22.4,-8.0
+294,3,LD,Liberal Democrat,Mike Beckett,5866,11.3,5.8
+294,3,GRN,Green,Peter Banks,1945,3.7,1.7
+294,3,IND,Independent,Tony Francis,411,0.8,0.8
+294,3,IND,Independent,Richard Browning-Smith,263,0.5,0.5
+295,3,CON,Conservative,Sally-Ann Hart,26896,49.6,2.7
+295,3,LAB,Labour,Peter Chowney,22853,42.1,-4.1
+295,3,LD,Liberal Democrat,Nick Perry,3960,7.3,3.9
+295,3,IND,Independent,Paul Crosland,565,1.0,1.0
+296,3,CON,Conservative,Alan Mak,30051,65.4,5.6
+296,3,LAB,Labour,Rosamund Knight,8259,18.0,-7.3
+296,3,LD,Liberal Democrat,Paul Gray,5708,12.4,6.4
+296,3,GRN,Green,John Colman,1597,3.5,1.1
+296,3,SDP,Social Democratic Party,Alan Black,344,0.7,0.7
+297,3,LAB,Labour,John McDonnell,24545,55.8,-10.7
+297,3,CON,Conservative,Wayne Bridges,15284,34.7,6.1
+297,3,LD,Liberal Democrat,Alexander Cunliffe,1947,4.4,3.2
+297,3,BRX,The Brexit Party,Harry Boparai,1292,2.9,2.9
+297,3,GRN,Green,Christine West,739,1.7,0.5
+297,3,CPA,Christian Peoples Alliance,Chika Amadi,187,0.4,0.4
+298,3,CON,Conservative,William Wragg,21592,48.8,3.3
+298,3,LD,Liberal Democrat,Lisa Smart,17169,38.8,5.9
+298,3,LAB,Labour,Tony Wilson,5508,12.4,-8.0
+299,3,CON,Conservative,Mike Penning,28968,56.5,1.5
+299,3,LAB,Labour,Nabila Ahmed,14405,28.1,-8.8
+299,3,LD,Liberal Democrat,Sammy Barry,6317,12.3,6.1
+299,3,GRN,Green,Sherief Hassan,1581,3.1,1.1
+300,3,LAB,Labour,Jon Trickett,16460,37.5,-18.5
+300,3,CON,Conservative,Louise Calland,15280,34.8,0.9
+300,3,BRX,The Brexit Party,Waj Ali,5930,13.5,13.5
+300,3,IND,Independent,Ian Womersley,2458,5.6,5.6
+300,3,LD,Liberal Democrat,James Monaghan,1734,3.9,2.0
+300,3,YRKS,The Yorkshire Party,Martin Roberts,964,2.2,-0.3
+300,3,GRN,Green,Lyn Morton,916,2.1,2.1
+300,3,IND,Independent,Pete Wilks,165,0.4,0.4
+301,3,CON,Conservative,Matthew Offord,26878,48.8,0.8
+301,3,LAB,Labour,David Pinto-Duschinsky,22648,41.1,-4.9
+301,3,LD,Liberal Democrat,Clareine Enderby,4628,8.4,4.6
+301,3,GRN,Green,Portia Vincent-Kirby,921,1.7,0.6
+302,3,CON,Conservative,John Howell,32189,54.8,-4.3
+302,3,LD,Liberal Democrat,Laura Coyle,18136,30.9,16.0
+302,3,LAB,Labour,Zaid Marham,5698,9.7,-10.4
+302,3,GRN,Green,Jo Robb,2736,4.7,1.4
+303,3,CON,Conservative,Jesse Norman,30390,61.2,7.7
+303,3,LAB,Labour,Anna-Maria Coda,10704,21.6,-2.2
+303,3,LD,Liberal Democrat,Lucy Hurds,6181,12.5,5.4
+303,3,GRN,Green,Diana Toynbee,2371,4.8,2.4
+304,3,CON,Conservative,Bill Wiggin,32158,63.0,1.0
+304,3,LD,Liberal Democrat,Phillip Howells,7302,14.3,2.6
+304,3,LAB,Labour,Joe Wood,6804,13.3,-5.6
+304,3,GRN,Green,Ellie Chowns,4769,9.3,3.8
+305,3,CON,Conservative,Julie Marson,33712,56.1,-4.2
+305,3,LAB,Labour,Chris Vince,14092,23.4,-5.1
+305,3,LD,Liberal Democrat,Chris Lucas,8596,14.3,6.2
+305,3,GRN,Green,Lucy Downes,2705,4.5,1.5
+305,3,UKIP,UKIP,Alistair Lindsay,681,1.1,1.1
+305,3,IND,Independent,Brian Percival,308,0.5,0.5
+306,3,CON,Conservative,Oliver Heald,31293,56.6,-2.1
+306,3,LAB,Labour,Kelley Green,13104,23.7,-4.7
+306,3,LD,Liberal Democrat,Amy Finch,8563,15.5,7.8
+306,3,GRN,Green,Tim Lee,2367,4.3,-1.1
+307,3,CON,Conservative,Gagan Mohindra,30327,49.6,-8.4
+307,3,IND,Independent,David Gauke,15919,26.0,26.0
+307,3,LAB,Labour,Ali Aklakul,7228,11.8,-13.9
+307,3,LD,Liberal Democrat,Sally Symington,6251,10.2,-1.5
+307,3,GRN,Green,Tom Pashby,1466,2.4,-0.2
+308,3,CON,Conservative,Oliver Dowden,32651,62.5,1.4
+308,3,LAB,Labour,Holly Kal-Weiss,11338,21.7,-6.9
+308,3,LD,Liberal Democrat,Stephen Barrett,6561,12.6,7.2
+308,3,GRN,Green,John Humphries,1653,3.2,1.3
+309,3,CON,Conservative,Guy Opperman,25152,54.5,0.4
+309,3,LAB,Labour,Penny Grennan,14603,31.6,-2.5
+309,3,LD,Liberal Democrat,Stephen Howse,4672,10.1,3.0
+309,3,GRN,Green,Nick Morphet,1723,3.7,1.0
+310,3,CON,Conservative,Chris Clarkson,20453,43.1,5.0
+310,3,LAB,Labour,Liz McInnes,19790,41.7,-11.6
+310,3,BRX,The Brexit Party,Colin Lambert,3952,8.3,8.3
+310,3,LD,Liberal Democrat,Anthony Smith,2073,4.4,2.2
+310,3,GRN,Green,Nigel Ainsworth-Barnes,1220,2.6,2.6
+311,3,CON,Conservative,Robert Largan,24844,45.9,0.5
+311,3,LAB,Labour,Ruth George,24254,44.8,-4.9
+311,3,LD,Liberal Democrat,David Lomax,2750,5.1,0.1
+311,3,BRX,The Brexit Party,Alan Graves,1177,2.2,2.2
+311,3,GRN,Green,Robert Hodgetts-Haley,1148,2.1,2.1
+312,3,CON,Conservative,Bim Afolami,27719,47.1,-6.0
+312,3,LD,Liberal Democrat,Sam Collins,20824,35.4,24.8
+312,3,LAB,Labour,Kay Tart,9959,16.9,-15.7
+312,3,CPA,Christian Peoples Alliance,Sid Cordle,268,0.5,0.0
+312,3,ADV,Advance Together,Peter Marshall,101,0.2,0.2
+313,3,LAB,Labour,Keir Starmer,36641,64.5,-5.6
+313,3,CON,Conservative,Alexandra Hayward,8878,15.6,-2.7
+313,3,LD,Liberal Democrat,Matthew Kirk,7314,12.9,6.1
+313,3,GRN,Green,Kirsten De Keyser,2746,4.8,1.5
+313,3,BRX,The Brexit Party,Hector Birchwood,1032,1.8,1.8
+313,3,UKIP,UKIP,Mohammad Bhatti,138,0.2,-1.0
+313,3,SEQ,Socialist Equality,Thomas Scripps,37,0.1,0.1
+314,3,CON,Conservative,Julia Lopez,35495,65.8,5.5
+314,3,LAB,Labour,Tele Lawal,12187,22.6,-6.0
+314,3,LD,Liberal Democrat,Thomas Clarke,3862,7.2,4.7
+314,3,GRN,Green,Peter Caton,1920,3.6,1.6
+314,3,BNP,British National Party,David Furness,510,0.9,0.4
+315,3,LAB,Labour,Catherine West,35126,57.5,-7.9
+315,3,LD,Liberal Democrat,Dawn Barnes,15884,26.0,9.9
+315,3,CON,Conservative,Ed McGuinness,6829,11.2,-3.7
+315,3,GRN,Green,Jarelle Francis,2192,3.6,1.7
+315,3,BRX,The Brexit Party,Daniel Corrigan,763,1.2,1.2
+315,3,CPA,Christian Peoples Alliance,Helen Spiby-Vann,211,0.3,0.2
+315,3,IND,Independent,Salah Wakie,100,0.2,0.2
+316,3,CON,Conservative,Jeremy Quin,35900,56.8,-2.8
+316,3,LD,Liberal Democrat,Louise Potter,14773,23.4,11.0
+316,3,LAB,Labour,Michael Jones,9424,14.9,-6.8
+316,3,GRN,Green,Catherine Ross,2668,4.2,1.2
+316,3,PP,The Peace Party,Jim Duggan,477,0.8,0.3
+317,3,LAB,Labour,Bridget Phillipson,16210,40.7,-18.7
+317,3,CON,Conservative,Christopher Howarth,13095,32.9,3.2
+317,3,BRX,The Brexit Party,Kevin Yuill,6165,15.5,15.5
+317,3,LD,Liberal Democrat,Paul Edgeworth,2319,5.8,3.6
+317,3,GRN,Green,Richard Bradley,1125,2.8,1.1
+317,3,UKIP,UKIP,Richard Elvin,897,2.3,-3.5
+318,3,LAB,Labour,Peter Kyle,32876,58.3,-5.8
+318,3,CON,Conservative,Robert Nemeth,15832,28.1,-3.5
+318,3,LD,Liberal Democrat,Beatrice Bass,3731,6.6,4.3
+318,3,GRN,Green,Ollie Sykes,2496,4.4,2.7
+318,3,BRX,The Brexit Party,Angela Hancock,1111,2.0,2.0
+318,3,MRLP,Monster Raving Loony Party,Dame Dixon,195,0.3,0.3
+318,3,IND,Independent,Charlotte Sabel,150,0.3,0.3
+319,3,LAB,Labour,Barry Sheerman,20509,49.0,-11.4
+319,3,CON,Conservative,Ken Davy,15572,37.2,4.2
+319,3,LD,Liberal Democrat,James Wilkinson,2367,5.7,3.0
+319,3,GRN,Green,Andrew Cooper,1768,4.2,1.0
+319,3,BRX,The Brexit Party,Stuart Hale,1666,4.0,4.0
+320,3,LAB,Labour,Karl Turner,12713,39.2,-19.1
+320,3,CON,Conservative,Rachel Storer,11474,35.4,5.5
+320,3,BRX,The Brexit Party,Marten Hall,5764,17.8,17.8
+320,3,LD,Liberal Democrat,Bob Morgan,1707,5.3,1.8
+320,3,GRN,Green,Julia Brown,784,2.4,1.1
+321,3,LAB,Labour,Diana Johnson,17033,49.8,-14.0
+321,3,CON,Conservative,Holly Whitbread,9440,27.6,2.4
+321,3,BRX,The Brexit Party,Derek Abram,4771,13.9,13.9
+321,3,LD,Liberal Democrat,Mike Ross,2084,6.1,1.1
+321,3,GRN,Green,Richard Howarth,875,2.6,0.9
+322,3,LAB,Labour,Emma Hardy,13384,42.7,-10.4
+322,3,CON,Conservative,Scott Bell,10528,33.6,3.7
+322,3,BRX,The Brexit Party,Michelle Dewberry,5638,18.0,18.0
+322,3,LD,Liberal Democrat,David Nolan,1756,5.6,-0.8
+322,3,GRN,Green,Mike Lammiman,50,0.2,-0.8
+323,3,CON,Conservative,Jonathan Djanogly,32386,54.8,-0.4
+323,3,LAB,Labour,Samuel Sweek,13003,22.0,-8.9
+323,3,LD,Liberal Democrat,Mark Argent,9432,15.9,7.4
+323,3,GRN,Green,Daniel Laycock,2233,3.8,1.9
+323,3,IND,Independent,Paul Bullen,1789,3.0,3.0
+323,3,IND,Independent,Tom Varghese,304,0.5,0.5
+324,3,CON,Conservative,Sara Britcliffe,20565,48.5,8.0
+324,3,LAB,Labour,Graham Jones,17614,41.5,-11.8
+324,3,BRX,The Brexit Party,Gregory Butt,2156,5.1,5.1
+324,3,LD,Liberal Democrat,Adam Waller-Slack,1226,2.9,1.1
+324,3,GRN,Green,Katrina Brockbank,845,2.0,2.0
+325,3,LAB,Labour,Wes Streeting,25323,50.5,-7.2
+325,3,CON,Conservative,Howard Berlin,20105,40.1,0.5
+325,3,LD,Liberal Democrat,Mark Johnson,2680,5.3,3.4
+325,3,BRX,The Brexit Party,Neil Anderson,960,1.9,1.9
+325,3,GRN,Green,David Reynolds,845,1.7,1.7
+325,3,CPA,Christian Peoples Alliance,Donald Akhigbe,201,0.4,0.4
+326,3,LAB,Labour,Sam Tarry,35085,65.6,-10.2
+326,3,CON,Conservative,Ali Azeem,10984,20.5,-0.4
+326,3,TIG,Independent Group for Change,Mike Gapes,3891,7.3,7.3
+326,3,LD,Liberal Democrat,Ashburn Holder,1795,3.4,2.0
+326,3,BRX,The Brexit Party,Munish Sharma,1008,1.9,1.9
+326,3,GRN,Green,RoseMary Warrington,714,1.3,0.4
+327,3,SNP,Scottish National Party,Ronnie Cowan,19295,48.4,9.9
+327,3,LAB,Labour,Martin McCluskey,11783,29.5,-8.0
+327,3,CON,Conservative,Haroun Malik,6265,15.7,-5.8
+327,3,LD,Liberal Democrat,Jacci Stoyle,2560,6.4,3.9
+328,3,SNP,Scottish National Party,Drew Hendry,26247,47.9,8.0
+328,3,CON,Conservative,Fiona Fawcett,15807,28.8,-1.7
+328,3,LD,Liberal Democrat,Robert Rixson,5846,10.7,-1.6
+328,3,LAB,Labour,Lewis Whyte,4123,7.5,-8.7
+328,3,GRN,Green,Ariane Burgess,1709,3.1,3.1
+328,3,BRX,The Brexit Party,Les Durance,1078,2.0,2.0
+329,3,CON,Conservative,Tom Hunt,24952,50.3,4.6
+329,3,LAB,Labour,Sandy Martin,19473,39.3,-8.1
+329,3,LD,Liberal Democrat,Adrian Hyyrylainen-Trett,2439,4.9,2.6
+329,3,BRX,The Brexit Party,Nicola Thomas,1432,2.9,2.9
+329,3,GRN,Green,Barry Broom,1283,2.6,0.9
+330,3,CON,Conservative,Bob Seely,41815,56.2,4.9
+330,3,LAB,Labour,Richard Quigley,18078,24.3,1.3
+330,3,GRN,Green,Vix Lowthion,11338,15.2,-2.1
+330,3,INET,Independent Network,Carl Feeney,1542,2.1,2.1
+330,3,IND,Independent,Karl Love,874,1.2,1.2
+330,3,IND,Independent,Daryll Pitcher,795,1.1,1.1
+331,3,LAB,Labour,Jeremy Corbyn,34603,64.3,-8.7
+331,3,LD,Liberal Democrat,Nick Wakeling,8415,15.6,6.6
+331,3,CON,Conservative,James Clark,5483,10.2,-2.3
+331,3,GRN,Green,Caroline Russell,4326,8.0,4.0
+331,3,BRX,The Brexit Party,Yosef David,742,1.4,1.4
+331,3,MRLP,Monster Raving Loony Party,Nick The Brick,236,0.4,0.2
+332,3,LAB,Labour,Emily Thornberry,26897,56.3,-6.6
+332,3,LD,Liberal Democrat,Kate Pothalingam,9569,20.0,7.9
+332,3,CON,Conservative,Jason Charalambous,8045,16.8,-3.8
+332,3,GRN,Green,Talia Hussain,1987,4.2,1.7
+332,3,BRX,The Brexit Party,Paddy Hannam,1136,2.4,2.4
+332,3,MRLP,Monster Raving Loony Party,Lord Sandys Of Bunhill,182,0.4,0.4
+333,3,LAB,Labour,Chris Evans,15356,44.7,-14.1
+333,3,CON,Conservative,Gavin Chambers,9892,28.8,1.6
+333,3,BRX,The Brexit Party,James Wells,4834,14.1,14.1
+333,3,PC,Plaid Cymru,Zoe Hammond,2286,6.7,-0.9
+333,3,LD,Liberal Democrat,Jo Watkins,1313,3.8,1.9
+333,3,GRN,Green,Catherine Linstrum,669,1.9,1.9
+334,3,LAB,Labour,Kate Osborne,18363,45.1,-20.0
+334,3,CON,Conservative,Nick Oliver,11243,27.6,2.6
+334,3,BRX,The Brexit Party,Richard Monaghan,4122,10.1,10.1
+334,3,IND,Independent,John Robertson,2991,7.3,7.3
+334,3,LD,Liberal Democrat,David Wilkinson,2360,5.8,3.1
+334,3,GRN,Green,James Milne,831,2.0,0.3
+334,3,IND,Independent,Shaun Sadler,614,1.5,1.5
+334,3,SDP,Social Democratic Party,Mark Conway,212,0.5,0.5
+335,3,CON,Conservative,Robbie Moore,25298,48.1,2.0
+335,3,LAB,Labour,John Grogan,23080,43.9,-2.6
+335,3,LD,Liberal Democrat,Tom Franks,2573,4.9,2.5
+335,3,BRX,The Brexit Party,Waqas Khan,850,1.6,1.6
+335,3,YRKS,The Yorkshire Party,Mark Barton,667,1.3,1.3
+335,3,SDP,Social Democratic Party,Matthew Rose,132,0.3,0.3
+336,3,CON,Conservative,Jeremy Wright,30351,57.7,-3.1
+336,3,LD,Liberal Democrat,Richard Dickson,9998,19.0,9.4
+336,3,LAB,Labour,Antony Tucker,9440,17.9,-7.6
+336,3,GRN,Green,Alison Firth,2351,4.5,2.3
+336,3,MRLP,Monster Raving Loony Party,Nicholas Green,457,0.9,0.9
+337,3,CON,Conservative,Felicity Buchan,16768,38.3,-3.9
+337,3,LAB,Labour,Emma Dent Coad,16618,38.0,-4.3
+337,3,LD,Liberal Democrat,Sam Gyimah,9312,21.3,9.1
+337,3,GRN,Green,Vivien Lichtenstein,535,1.2,-0.8
+337,3,BRX,The Brexit Party,Jay Aston Colquhoun,384,0.9,0.9
+337,3,CPA,Christian Peoples Alliance,Roger Phillips,70,0.2,0.2
+337,3,TLW,Touch Love Worldwide,Harriet Gore,47,0.1,0.1
+337,3,WRP,Workers Revolutionary Party,Scott Dore,28,0.1,0.1
+338,3,CON,Conservative,Philip Hollobone,29787,60.3,2.4
+338,3,LAB,Labour,Clare Pavitt,13022,26.4,-10.2
+338,3,LD,Liberal Democrat,Chris Nelson,3367,6.8,3.5
+338,3,IND,Independent,Jim Hakewill,1642,3.3,3.3
+338,3,GRN,Green,Jamie Wildman,1543,3.1,0.9
+339,3,SNP,Scottish National Party,Alan Brown,24216,50.8,8.5
+339,3,CON,Conservative,Caroline Hollins,11557,24.3,-2.4
+339,3,LAB,Labour,Kevin McGregor,9009,18.9,-9.9
+339,3,LD,Liberal Democrat,Edward Thornley,2444,5.1,3.0
+339,3,LBT,Libertarian,Stef Johnstone,405,0.9,0.9
+340,3,LD,Liberal Democrat,Ed Davey,31103,51.1,6.4
+340,3,CON,Conservative,Aphra Brandreth,20614,33.9,-4.2
+340,3,LAB,Labour,Leanne Werner,6528,10.7,-4.1
+340,3,GRN,Green,Sharron Sumner,1038,1.7,0.8
+340,3,BRX,The Brexit Party,Scott Holman,788,1.3,1.3
+340,3,IND,Independent,James Giles,458,0.8,0.8
+340,3,MRLP,Monster Raving Loony Party,Chinners Chinnery,193,0.3,0.0
+340,3,UKIP,UKIP,Roger Glencross,124,0.2,-0.9
+341,3,CON,Conservative,Chris Skidmore,27712,56.2,1.3
+341,3,LAB,Labour,Nicola Bowden-Jones,16492,33.4,-6.1
+341,3,LD,Liberal Democrat,Dine Romero,3421,6.9,3.3
+341,3,GRN,Green,Joseph Evans,1200,2.4,0.4
+341,3,ANWP,Animal Welfare Party,Angelika Cowell,489,1.0,1.0
+342,3,SNP,Scottish National Party,Neale Hanvey,16568,35.2,-1.0
+342,3,LAB,Labour,Lesley Laird,15325,32.6,-4.2
+342,3,CON,Conservative,Kathleen Leslie,9449,20.1,-3.2
+342,3,LD,Liberal Democrat,Gill Cole-Hamilton,2903,6.2,3.8
+342,3,GRN,Green,Scott Rutherford,1628,3.5,3.5
+342,3,BRX,The Brexit Party,Mitch William,1132,2.4,2.4
+343,3,LAB,Labour,George Howarth,44374,80.8,-4.6
+343,3,CON,Conservative,Rushi Millns,4432,8.1,-1.2
+343,3,BRX,The Brexit Party,Tim McCullough,3348,6.1,6.1
+343,3,GRN,Green,Paul Woodruff,1262,2.3,1.4
+343,3,LD,Liberal Democrat,Joe Slupsky,1117,2.0,-0.1
+343,3,LIB,Liberal Party,Ray Catesby,405,0.7,0.7
+344,3,DUP,Democratic Unionist Party,Jeffrey Donaldson,19586,43.1,-16.4
+344,3,APNI,Alliance Party,Sorcha Eastwood,13087,28.8,17.7
+344,3,UUP,Ulster Unionist Party,Robbie Butler,8606,19.0,2.2
+344,3,SDLP,Social Democratic &amp; Labour Party,Ally Haydock,1758,3.9,-3.7
+344,3,SF,Sinn Féin,Gary McCleave,1098,2.4,-1.1
+344,3,CON,Conservative,Gary Hynds,955,2.1,1.1
+344,3,UKIP,UKIP,Alan Love,315,0.7,0.7
+345,3,SNP,Scottish National Party,Angela Crawley,22243,41.9,9.3
+345,3,CON,Conservative,Shona Haslam,17056,32.1,0.1
+345,3,LAB,Labour,Andrew Hilland,10736,20.2,-11.6
+345,3,LD,Liberal Democrat,Jane Pickard,3037,5.7,3.3
+346,3,LAB,Labour,Rosie Cooper,27458,52.1,-6.8
+346,3,CON,Conservative,Jack Gilmore,19122,36.3,-1.1
+346,3,LD,Liberal Democrat,Simon Thomson,2560,4.9,2.9
+346,3,BRX,The Brexit Party,Marc Stanton,2275,4.3,4.3
+346,3,GRN,Green,John Puddifer,1248,2.4,1.1
+347,3,LAB,Labour,Cat Smith,21184,46.8,-8.3
+347,3,CON,Conservative,Louise Thistlethwaite,18804,41.6,1.0
+347,3,LD,Liberal Democrat,Peter Jackson,2018,4.5,1.9
+347,3,BRX,The Brexit Party,Leanne Murray,1817,4.0,4.0
+347,3,GRN,Green,Caroline Jackson,1396,3.1,1.4
+348,3,LAB,Labour,Hilary Benn,30413,61.7,-8.5
+348,3,CON,Conservative,Peter Fortune,11143,22.6,2.1
+348,3,BRX,The Brexit Party,Paul Thomas,2999,6.1,6.1
+348,3,LD,Liberal Democrat,Jack Holland,2343,4.8,2.5
+348,3,GRN,Green,Ed Carlisle,2105,4.3,1.8
+348,3,SDP,Social Democratic Party,William Clouston,281,0.6,0.6
+349,3,LAB,Labour,Richard Burgon,19464,49.8,-11.5
+349,3,CON,Conservative,Jill Mortimer,13933,35.7,5.1
+349,3,BRX,The Brexit Party,Sarah Wass,2981,7.6,7.6
+349,3,LD,Liberal Democrat,David Dresser,1796,4.6,2.8
+349,3,GRN,Green,Shahab Adris,878,2.2,1.2
+350,3,LAB,Labour,Fabian Hamilton,29024,57.5,-5.6
+350,3,CON,Conservative,Amjad Bashir,11935,23.6,-7.4
+350,3,LD,Liberal Democrat,Jon Hannah,5665,11.2,7.5
+350,3,GRN,Green,Rachel Hartshorne,1931,3.8,2.5
+350,3,BRX,The Brexit Party,Inaya Iman,1769,3.5,3.5
+350,3,AGS,Alliance for Green Socialism,Celia Foote,176,0.3,0.1
+351,3,LAB,Labour,Alex Sobel,23971,48.6,4.5
+351,3,CON,Conservative,Stewart Harper,13222,26.8,7.2
+351,3,LD,Liberal Democrat,Kamran Hussain,9397,19.1,-15.9
+351,3,GRN,Green,Martin Hemingway,1389,2.8,1.6
+351,3,BRX,The Brexit Party,Graeme Webber,1304,2.6,2.6
+352,3,LAB,Labour,Rachel Reeves,22186,55.1,-8.9
+352,3,CON,Conservative,Mark Dormer,11622,28.9,2.7
+352,3,BRX,The Brexit Party,Phillip Mars,2685,6.7,6.7
+352,3,LD,Liberal Democrat,Dan Walker,1787,4.4,2.3
+352,3,GRN,Green,Victoria Smith,1274,3.2,0.7
+352,3,YRKS,The Yorkshire Party,Ian Cowling,650,1.6,0.7
+352,3,SDP,Social Democratic Party,Daniel Whetstone,46,0.1,0.1
+352,3,AGS,Alliance for Green Socialism,Mike Davies,31,0.1,0.0
+353,3,LAB,Labour,Claudia Webbe,25090,50.8,-16.2
+353,3,CON,Conservative,Bhupen Dave,19071,38.6,14.4
+353,3,LD,Liberal Democrat,Nitesh Dave,2800,5.7,3.1
+353,3,BRX,The Brexit Party,Tara Baldwin,1243,2.5,2.5
+353,3,GRN,Green,Melanie Wakley,888,1.8,-0.2
+353,3,IND,Independent,Sanjay Gogia,329,0.7,0.7
+354,3,LAB,Labour,Jonathan Ashworth,33606,67.0,-6.5
+354,3,CON,Conservative,Natalie Neale,10931,21.8,0.2
+354,3,LD,Liberal Democrat,Chris Coghlan,2754,5.5,2.9
+354,3,GRN,Green,Mags Lewis,1669,3.3,1.0
+354,3,BRX,The Brexit Party,James Potter,1187,2.4,2.4
+355,3,LAB,Labour,Liz Kendall,17291,49.7,-11.1
+355,3,CON,Conservative,Amanda Wright,13079,37.6,6.3
+355,3,LD,Liberal Democrat,Ian Bradwell,1808,5.2,3.1
+355,3,BRX,The Brexit Party,Jack Collier,1620,4.7,4.7
+355,3,GRN,Green,Ani Goddard,977,2.8,1.2
+356,3,CON,Conservative,Andrew Bridgen,33811,62.8,4.6
+356,3,LAB,Labour,Terri Eynon,13411,24.9,-8.5
+356,3,LD,Liberal Democrat,Grahame Hudson,3614,6.7,0.3
+356,3,GRN,Green,Carl Benfield,2478,4.6,2.5
+356,3,IND,Independent,Edward Nudd,367,0.7,0.7
+356,3,LBT,Libertarian,Dan Liddicott,140,0.3,0.3
+357,3,CON,Conservative,Alberto Costa,36791,64.0,2.6
+357,3,LAB,Labour,Tristan Koriya,12787,22.3,-6.3
+357,3,LD,Liberal Democrat,Phil Knowles,5452,9.5,5.2
+357,3,GRN,Green,Nick Cox,2439,4.2,2.3
+358,3,CON,Conservative,James Grundy,21266,45.3,9.4
+358,3,LAB,Labour,Joanne Platt,19301,41.1,-15.1
+358,3,BRX,The Brexit Party,James Melly,3161,6.7,6.7
+358,3,LD,Liberal Democrat,Mark Clayton,2252,4.8,2.8
+358,3,IND,Independent,Ann O&#39;Bern,551,1.2,1.2
+358,3,UKIP,UKIP,Leon Peters,448,1.0,-5.0
+359,3,CON,Conservative,Maria Caulfield,26268,47.9,-1.6
+359,3,LD,Liberal Democrat,Oli Henman,23811,43.4,4.1
+359,3,LAB,Labour,Kate Chappell,3206,5.8,-5.3
+359,3,GRN,Green,Johnny Denis,1453,2.6,2.6
+359,3,IND,Independent,Paul Cragg,113,0.2,0.2
+360,3,LAB,Labour,Vicky Foxcroft,39216,70.8,-6.2
+360,3,CON,Conservative,Gavin Haran,6303,11.4,-2.3
+360,3,LD,Liberal Democrat,Bobby Dean,5774,10.4,5.1
+360,3,GRN,Green,Andrea Carey Fuller,3085,5.6,2.6
+360,3,BRX,The Brexit Party,Moses Etienne,789,1.4,1.4
+360,3,IND,Independent,Tan Bui,130,0.2,0.2
+360,3,AGS,Alliance for Green Socialism,John Lloyd,71,0.1,0.1
+361,3,LAB,Labour,Janet Daby,26661,59.5,-8.5
+361,3,CON,Conservative,Sam Thurgood,9653,21.5,-1.5
+361,3,LD,Liberal Democrat,Ade Fatukasi,5039,11.2,6.8
+361,3,GRN,Green,Rosamund Adoo-Kissi-Debrah,1706,3.8,2.1
+361,3,BRX,The Brexit Party,Wesley Pollard,1234,2.8,2.8
+361,3,CPA,Christian Peoples Alliance,Maureen Martin,277,0.6,0.1
+361,3,IND,Independent,Mark Barber,152,0.3,0.3
+361,3,YPP,Young People&#39;s Party,Richard Galloway,50,0.1,0.1
+361,3,IND,Independent,Elder Roger Mighton,43,0.1,0.1
+362,3,LAB,Labour,Ellie Reeves,31860,61.2,-5.4
+362,3,CON,Conservative,Aisha Cuthbert,10317,19.8,-3.2
+362,3,LD,Liberal Democrat,Alex Feakes,6260,12.0,5.8
+362,3,GRN,Green,James Braun,2390,4.6,2.4
+362,3,BRX,The Brexit Party,Teixeira Hambro,1060,2.0,2.0
+362,3,CPA,Christian Peoples Alliance,Katherine Hortense,213,0.4,-0.2
+363,3,LAB,Labour,John Cryer,28836,64.7,-5.1
+363,3,CON,Conservative,Noshaba Khiljee,8028,18.0,-2.8
+363,3,LD,Liberal Democrat,Ben Sims,4666,10.5,4.1
+363,3,GRN,Green,Ashley Gunstock,1805,4.1,1.1
+363,3,BRX,The Brexit Party,Zulf Jannaty,785,1.8,1.8
+363,3,IND,Independent,Henry Scott,427,1.0,1.0
+364,3,CON,Conservative,Michael Fabricant,34844,64.5,1.0
+364,3,LAB,Labour,Dave Robertson,11206,20.8,-8.1
+364,3,LD,Liberal Democrat,Paul Ray,5632,10.4,5.5
+364,3,GRN,Green,Andrea Muckley,1743,3.2,0.6
+364,3,IND,Independent,John Madden,568,1.1,1.1
+365,3,CON,Conservative,Karl McCartney,24267,47.9,3.2
+365,3,LAB,Labour,Karen Lee,20753,41.0,-6.9
+365,3,LD,Liberal Democrat,Caroline Kenyon,2422,4.8,2.1
+365,3,GRN,Green,Sally Horscroft,1195,2.4,1.2
+365,3,BRX,The Brexit Party,Reece Wilkes,1079,2.1,2.1
+365,3,IND,Independent,Rob Bradley,609,1.2,1.2
+365,3,LIB,Liberal Party,Charles Shaw,304,0.6,0.6
+366,3,SNP,Scottish National Party,Martyn Day,25551,44.2,7.9
+366,3,CON,Conservative,Charles Kennedy,14285,24.7,-4.4
+366,3,LAB,Labour,Wendy Milne,10517,18.2,-12.9
+366,3,LD,Liberal Democrat,Sally Pattle,4393,7.6,4.2
+366,3,BRX,The Brexit Party,Marc Bozza,1257,2.2,2.2
+366,3,GRN,Green,Gillian Mackay,1184,2.0,2.0
+366,3,VPP,Veterans and People&#39;s Party,Mark Tunnicliff,588,1.0,1.0
+367,3,LAB,Labour,Kim Johnson,41170,78.0,-6.6
+367,3,CON,Conservative,Sean Malkeson,4127,7.8,-1.9
+367,3,GRN,Green,Tom Crone,3017,5.7,2.4
+367,3,LD,Liberal Democrat,Rob McAllister-Bell,2696,5.1,2.6
+367,3,BRX,The Brexit Party,David Leach,1779,3.4,3.4
+368,3,LAB,Labour,Dan Carden,34538,84.7,-1.0
+368,3,CON,Conservative,Alex Phillips,4018,9.9,1.3
+368,3,GRN,Green,Ted Grant,814,2.0,0.8
+368,3,LD,Liberal Democrat,David Newman,756,1.9,0.3
+368,3,LIB,Liberal Party,Billy Lake,660,1.6,1.6
+369,3,LAB,Labour,Paula Barker,31310,72.2,-7.4
+369,3,CON,Conservative,Catherine Mulhern,4225,9.7,-2.3
+369,3,LD,Liberal Democrat,Richard Kemp,4055,9.3,2.8
+369,3,BRX,The Brexit Party,Adam Heatherington,1921,4.4,4.4
+369,3,GRN,Green,Kay Inckle,1365,3.1,1.8
+369,3,LIB,Liberal Party,Mick Coyne,501,1.2,1.2
+370,3,LAB,Labour,Ian Byrne,34117,77.6,-5.2
+370,3,CON,Conservative,Tom Bradley,4133,9.4,-0.5
+370,3,BRX,The Brexit Party,Ray Pearson,2012,4.6,4.6
+370,3,LIB,Liberal Party,Steve Radford,1826,4.2,-0.6
+370,3,LD,Liberal Democrat,Paul Parr,1296,2.9,1.7
+370,3,GRN,Green,William Ward,605,1.4,0.6
+371,3,SNP,Scottish National Party,Hannah Bardell,25617,46.9,6.9
+371,3,CON,Conservative,Damian Timson,12182,22.3,-2.1
+371,3,LAB,Labour,Caitlin Kane,11915,21.8,-10.9
+371,3,LD,Liberal Democrat,Charles Dundas,3457,6.3,3.5
+371,3,GRN,Green,Cameron Glasgow,1421,2.6,2.6
+372,3,LAB,Labour,Nia Griffith,16125,42.2,-11.3
+372,3,CON,Conservative,Tamara Reay,11455,30.0,6.3
+372,3,PC,Plaid Cymru,Mari Arthur,7048,18.4,0.2
+372,3,BRX,The Brexit Party,Susan Boucher,3605,9.4,9.4
+373,3,CON,Conservative,Jane Hunt,27954,51.2,1.3
+373,3,LAB,Labour,Stuart Brady,20785,38.0,-4.0
+373,3,LD,Liberal Democrat,Ian Sharpe,4153,7.6,4.0
+373,3,GRN,Green,Wes Walton,1504,2.8,1.0
+373,3,IND,Independent,Queenie Tea,235,0.4,0.4
+374,3,CON,Conservative,Victoria Atkins,38021,72.7,8.7
+374,3,LAB,Labour,Ellie Green,9153,17.5,-9.2
+374,3,LD,Liberal Democrat,Ross Pepper,4114,7.9,4.1
+374,3,MRLP,Monster Raving Loony Party,The Iconic Arty-Pole,1044,2.0,1.1
+375,3,CON,Conservative,Philip Dunne,32185,64.1,1.2
+375,3,LD,Liberal Democrat,Heather Kidd,8537,17.0,6.3
+375,3,LAB,Labour,Kuldip Sahota,7591,15.1,-9.2
+375,3,GRN,Green,Hilary Wendt,1912,3.8,1.7
+376,3,LAB,Labour,Sarah Owen,23496,55.2,-8.7
+376,3,CON,Conservative,Jeet Bains,14249,33.5,0.4
+376,3,LD,Liberal Democrat,Linda Jack,2063,4.8,3.1
+376,3,BRX,The Brexit Party,Sudhir Sharma,1215,2.9,2.9
+376,3,GRN,Green,Simon Hall,771,1.8,0.4
+376,3,IND,Independent,Muhammad Rehman,646,1.5,1.5
+376,3,WEP,Women&#39;s Equality Party,Serena Laidley,149,0.3,0.3
+377,3,LAB,Labour,Rachel Hopkins,21787,51.8,-10.6
+377,3,CON,Conservative,Parvez Akhtar,13031,31.0,-1.3
+377,3,IND,Independent,Gavin Shuker,3893,9.3,9.3
+377,3,BRX,The Brexit Party,Garry Warren,1601,3.8,3.8
+377,3,GRN,Green,Ben Foley,995,2.4,1.4
+377,3,IND,Independent,Mohammed Ashraf,489,1.2,1.2
+377,3,LUTN,Best for Luton,John French,268,0.6,0.6
+378,3,CON,Conservative,David Rutley,28292,52.5,-0.1
+378,3,LAB,Labour,Neil Puttick,17581,32.6,-4.2
+378,3,LD,Liberal Democrat,Neil Christian,5684,10.6,4.4
+378,3,GRN,Green,James Booth,2310,4.3,2.1
+379,3,CON,Conservative,Theresa May,32620,57.7,-7.0
+379,3,LD,Liberal Democrat,Joshua Reynolds,13774,24.4,13.2
+379,3,LAB,Labour,Patrick McDonald,7882,14.0,-5.4
+379,3,GRN,Green,Emily Tomalin,2216,3.9,2.4
+380,3,CON,Conservative,Helen Grant,31220,60.4,4.0
+380,3,LAB,Labour,Dan Wilkinson,9448,18.3,-3.8
+380,3,LD,Liberal Democrat,James Willis,8482,16.4,0.1
+380,3,GRN,Green,Stuart Jeffery,2172,4.2,2.5
+380,3,IND,Independent,Yolande Kenward,358,0.7,0.4
+381,3,LAB,Labour,Yvonne Fovargue,19954,45.1,-15.1
+381,3,CON,Conservative,Nick King,15214,34.4,3.0
+381,3,BRX,The Brexit Party,Ross Wright,5817,13.1,13.1
+381,3,LD,Liberal Democrat,John Skipworth,2108,4.8,1.9
+381,3,GRN,Green,Sheila Shaw,1166,2.6,2.6
+382,3,CON,Conservative,John Whittingdale,36304,72.0,4.1
+382,3,LAB,Labour,Stephen Capper,6263,12.4,-8.9
+382,3,LD,Liberal Democrat,Colin Baldy,5990,11.9,7.5
+382,3,GRN,Green,Janet Band,1851,3.7,1.5
+383,3,LAB,Labour,Lucy Powell,36823,70.4,-7.0
+383,3,CON,Conservative,Shaden Jaradat,7734,14.8,0.6
+383,3,LD,Liberal Democrat,John Bridges,3420,6.5,3.2
+383,3,BRX,The Brexit Party,Sarah Chadwick,2335,4.5,4.5
+383,3,GRN,Green,Melanie Horrocks,1870,3.6,1.9
+383,3,SEQ,Socialist Equality,Dennis Leech,107,0.2,0.2
+384,3,LAB,Labour,Afzal Khan,34583,77.6,1.3
+384,3,CON,Conservative,Sebastian Lowe,4244,9.5,2.2
+384,3,LD,Liberal Democrat,Jackie Pearcey,2448,5.5,-0.2
+384,3,GRN,Green,Eliza Tyrrell,1697,3.8,1.6
+384,3,BRX,The Brexit Party,Lesley Kaya,1573,3.5,3.5
+385,3,LAB,Labour,Jeff Smith,35902,67.7,-3.9
+385,3,LD,Liberal Democrat,John Leech,7997,15.1,-0.9
+385,3,CON,Conservative,Shengke Zhi,5820,11.0,0.7
+385,3,GRN,Green,Lucy Bannister,1968,3.7,2.1
+385,3,BRX,The Brexit Party,Stephen Ward,1308,2.5,2.5
+386,3,CON,Conservative,Ben Bradley,31484,63.9,17.3
+386,3,LAB,Labour,Sonya Ward,15178,30.8,-13.7
+386,3,LD,Liberal Democrat,Sarah Brown,1626,3.3,1.9
+386,3,IND,Independent,Sid Pepper,527,1.1,1.1
+386,3,IND,Independent,Stephen Harvey,458,0.9,0.9
+387,3,CON,Conservative,Flick Drummond,35271,63.5,-1.4
+387,3,LD,Liberal Democrat,Lewis North,11716,21.1,10.5
+387,3,LAB,Labour,Matthew Bunday,5664,10.2,-8.0
+387,3,GRN,Green,Malcolm Wallace,2918,5.3,1.6
+388,3,CON,Conservative,Saqib Bhatti,34358,63.4,1.4
+388,3,LAB,Labour,Teresa Beddis,11522,21.3,-5.6
+388,3,LD,Liberal Democrat,Laura McCarthy,5614,10.4,5.5
+388,3,GRN,Green,Steve Caudwell,2667,4.9,2.3
+389,3,LAB,Labour,Gerald Jones,16913,52.4,-14.3
+389,3,CON,Conservative,Sara Jones,6307,19.6,1.5
+389,3,BRX,The Brexit Party,Colin Jones,3604,11.2,11.2
+389,3,PC,Plaid Cymru,Mark Evans,2446,7.6,-0.6
+389,3,IND,Independent,David Hughes,1860,5.8,5.8
+389,3,LD,Liberal Democrat,Brendan D&#39;Cruz,1116,3.5,1.0
+390,3,SF,Sinn Féin,Francie Molloy,20473,45.9,-8.6
+390,3,DUP,Democratic Unionist Party,Keith Buchanan,10936,24.5,-2.4
+390,3,SDLP,Social Democratic &amp; Labour Party,Denise Johnston,6384,14.3,4.5
+390,3,APNI,Alliance Party,Mel Boyle,3526,7.9,5.6
+390,3,UUP,Ulster Unionist Party,Neil Richardson,2611,5.9,-0.6
+390,3,IND,Independent,Conor Rafferty,690,1.5,1.5
+391,3,LAB,Labour,Andy McDonald,17207,50.5,-15.2
+391,3,CON,Conservative,Ruth Betson,8812,25.8,-0.9
+391,3,IND,Independent,Antony High,4548,13.3,13.3
+391,3,BRX,The Brexit Party,Faye Clements,2168,6.4,6.4
+391,3,LD,Liberal Democrat,Thomas Crawford,816,2.4,1.4
+391,3,GRN,Green,Hugh Alberti,546,1.6,0.9
+392,3,CON,Conservative,Simon Clarke,28135,58.8,9.2
+392,3,LAB,Labour,Lauren Dingsdale,16509,34.5,-13.0
+392,3,LD,Liberal Democrat,Jemma Joy,1953,4.1,1.2
+392,3,GRN,Green,Sophie Brown,1220,2.6,2.6
+393,3,SNP,Scottish National Party,Owen Thompson,20033,41.5,7.1
+393,3,LAB,Labour,Danielle Rowley,14328,29.7,-6.6
+393,3,CON,Conservative,Rebecca Fraser,10467,21.7,-3.7
+393,3,LD,Liberal Democrat,Steve Arrundale,3393,7.0,3.2
+394,3,CON,Conservative,Ben Everitt,30938,49.5,2.0
+394,3,LAB,Labour,Charlynne Pullen,24683,39.5,-4.9
+394,3,LD,Liberal Democrat,Aisha Mir,4991,8.0,4.1
+394,3,GRN,Green,Catherine Rose,1931,3.1,1.4
+395,3,CON,Conservative,Iain Stewart,32011,50.0,2.5
+395,3,LAB,Labour,Hannah O&#39;Neill,25067,39.2,-5.7
+395,3,LD,Liberal Democrat,Saleyha Ahsan,4688,7.3,4.4
+395,3,GRN,Green,Alan Francis,1495,2.3,0.5
+395,3,IND,Independent,Stephen Fulton,539,0.8,0.8
+395,3,CPA,Christian Peoples Alliance,Amarachi Ogba,207,0.3,0.3
+396,3,LAB,Labour,Siobhain McDonagh,27964,61.1,-7.5
+396,3,CON,Conservative,Toby Williams,11482,25.1,0.9
+396,3,LD,Liberal Democrat,Luke Taylor,3717,8.1,5.0
+396,3,BRX,The Brexit Party,Jeremy Maddocks,1202,2.6,2.6
+396,3,GRN,Green,Pippa Maslin,1160,2.5,1.2
+396,3,CPA,Christian Peoples Alliance,Des Coke,216,0.5,0.0
+397,3,CON,Conservative,Paul Beresford,31656,55.4,-6.4
+397,3,LD,Liberal Democrat,Paul Kennedy,19615,34.3,15.0
+397,3,LAB,Labour,Brian Bostock,2965,5.2,-8.7
+397,3,GRN,Green,Lisa Scott-Conte,1874,3.3,0.7
+397,3,IND,Independent,Robin Horsley,536,0.9,0.9
+397,3,UKIP,UKIP,Geoffrey Cox,464,0.8,-1.6
+398,3,CON,Conservative,David Davies,26160,52.1,-1.0
+398,3,LAB,Labour,Yvonne Murphy,16178,32.2,-4.4
+398,3,LD,Liberal Democrat,Alison Willott,4909,9.8,5.6
+398,3,GRN,Green,Ian Chandler,1353,2.7,0.8
+398,3,PC,Plaid Cymru,Hugh Kocan,1182,2.4,-0.3
+398,3,IND,Independent,Martyn Ford,435,0.9,0.9
+399,3,CON,Conservative,Craig Williams,20020,58.5,6.7
+399,3,LD,Liberal Democrat,Kishan Devani,7882,23.0,-2.2
+399,3,LAB,Labour,Kait Duerden,5585,16.3,0.4
+399,3,GWLD,Gwlad Gwlad,Gwyn Wigley Evans,727,2.1,2.1
+400,3,CON,Conservative,Douglas Ross,22112,45.3,-2.3
+400,3,SNP,Scottish National Party,Laura Mitchell,21599,44.2,5.4
+400,3,LAB,Labour,Jo Kirby,2432,5.0,-6.0
+400,3,LD,Liberal Democrat,Fiona Campbell Trevor,2269,4.6,2.4
+400,3,UKIP,UKIP,Rob Scorer,413,0.8,0.8
+401,3,CON,Conservative,David Morris,23925,52.8,5.1
+401,3,LAB,Labour,Lizzi Collinge,17571,38.8,-5.8
+401,3,LD,Liberal Democrat,Owen Lambert,2328,5.1,1.4
+401,3,GRN,Green,Chloe Buckley,938,2.1,1.0
+401,3,IND,Independent,Darren Clifford,548,1.2,1.2
+402,3,CON,Conservative,Andrea Jenkyns,29424,56.7,6.0
+402,3,LAB,Labour,Deanne Ferguson,18157,35.0,-11.7
+402,3,LD,Liberal Democrat,Craig Dobson,2285,4.4,1.8
+402,3,GRN,Green,Chris Bell,1107,2.1,2.1
+402,3,YRKS,The Yorkshire Party,Dan Woodlock,957,1.8,1.8
+403,3,SNP,Scottish National Party,Marion Fellows,20622,46.4,7.9
+403,3,LAB,Labour,Angela Feeney,14354,32.3,-5.4
+403,3,CON,Conservative,Meghan Gallacher,7150,16.1,-4.2
+403,3,LD,Liberal Democrat,Christopher Wilson,1675,3.8,1.6
+403,3,UKIP,UKIP,Neil Wilson,619,1.4,0.1
+404,3,SNP,Scottish National Party,Angus MacNeil,6531,45.1,4.5
+404,3,LAB,Labour,Alison MacCorquodale,4093,28.3,-5.5
+404,3,CON,Conservative,Jennifer Ross,3216,22.2,5.7
+404,3,LD,Liberal Democrat,Neil Mitchison,637,4.4,2.7
+405,3,LAB,Labour,Christina Rees,15920,43.3,-13.4
+405,3,CON,Conservative,Jon Burns,10283,28.0,4.3
+405,3,PC,Plaid Cymru,Daniel Williams,4495,12.2,-1.7
+405,3,BRX,The Brexit Party,Simon Briscoe,3184,8.7,8.7
+405,3,LD,Liberal Democrat,Adrian Kingston-Jones,1485,4.0,2.1
+405,3,GRN,Green,Megan Lloyd,728,2.0,2.0
+405,3,IND,Independent,Philip Rogers,594,1.6,1.6
+405,3,SDP,Social Democratic Party,Carl Williams,67,0.2,0.2
+406,3,CON,Conservative,Julian Lewis,32769,64.5,1.9
+406,3,LAB,Labour,Julie Hope,7518,14.8,-5.0
+406,3,LD,Liberal Democrat,Bob Johnston,7390,14.6,-0.6
+406,3,GRN,Green,Nicola Jolly,2434,4.8,2.4
+406,3,ANWP,Animal Welfare Party,Andrew Knight,675,1.3,1.3
+407,3,CON,Conservative,Desmond Swayne,32113,63.8,-3.0
+407,3,LD,Liberal Democrat,Jack Davies,7710,15.3,5.7
+407,3,LAB,Labour,Jo Graham,6595,13.1,-6.5
+407,3,GRN,Green,Nick Bubb,3888,7.7,4.8
+408,3,CON,Conservative,Robert Jenrick,34660,63.3,0.6
+408,3,LAB,Labour,James Baggaley,12844,23.5,-6.2
+408,3,LD,Liberal Democrat,David Watts,5308,9.7,4.6
+408,3,GRN,Green,Jay Henderson,1950,3.6,3.6
+409,3,CON,Conservative,Laura Farris,34431,57.4,-4.1
+409,3,LD,Liberal Democrat,Lee Dillon,18384,30.6,9.2
+409,3,LAB,Labour,James Wilder,4404,7.3,-6.8
+409,3,GRN,Green,Stephen Masters,2454,4.1,1.6
+409,3,IND,Independent,Ben Holden-Crowther,325,0.5,0.5
+410,3,LAB,Labour,Chi Onwurah,21568,57.6,-7.3
+410,3,CON,Conservative,Emily Payne,9290,24.8,0.2
+410,3,LD,Liberal Democrat,Ali Avaei,2709,7.2,2.3
+410,3,BRX,The Brexit Party,Mark Griffin,2542,6.8,6.8
+410,3,GRN,Green,Tay Pitman,1365,3.6,2.0
+411,3,LAB,Labour,Nick Brown,26049,60.1,-7.5
+411,3,CON,Conservative,Robin Gwynn,10586,24.4,3.1
+411,3,LD,Liberal Democrat,Wendy Taylor,4535,10.5,4.3
+411,3,GRN,Green,Nick Hartley,2195,5.1,3.2
+412,3,LAB,Labour,Catherine McKinnell,21354,45.4,-9.9
+412,3,CON,Conservative,Mark Lehain,15589,33.2,-0.8
+412,3,LD,Liberal Democrat,Nicholas Cott,4357,9.3,4.0
+412,3,BRX,The Brexit Party,Richard Ogden,4331,9.2,9.2
+412,3,GRN,Green,Alistair Ford,1368,2.9,1.8
+413,3,CON,Conservative,Aaron Bell,23485,52.5,4.4
+413,3,LAB,Labour,Carl Greatbatch,16039,35.9,-12.3
+413,3,LD,Liberal Democrat,Nigel Jones,2361,5.3,1.6
+413,3,BRX,The Brexit Party,Jason Cooper,1921,4.3,4.3
+413,3,GRN,Green,Carl Johnson,933,2.1,2.1
+414,3,LAB,Labour,Jessica Morden,16125,44.4,-12.1
+414,3,CON,Conservative,Mark Brown,14133,39.0,4.2
+414,3,BRX,The Brexit Party,Julie Price,2454,6.8,6.8
+414,3,LD,Liberal Democrat,Mike Hamilton,2121,5.8,3.2
+414,3,PC,Plaid Cymru,Cameron Wixcey,872,2.4,0.0
+414,3,GRN,Green,Peter Varley,577,1.6,1.6
+415,3,LAB,Labour,Ruth Jones,18977,43.7,-8.6
+415,3,CON,Conservative,Matthew Evans,18075,41.6,2.3
+415,3,LD,Liberal Democrat,Ryan Jones,2565,5.9,3.7
+415,3,BRX,The Brexit Party,Cameron Edwards,1727,4.0,4.0
+415,3,PC,Plaid Cymru,Jonathan Clark,1187,2.7,0.3
+415,3,GRN,Green,Amelia Womack,902,2.1,0.9
+416,3,SF,Sinn Féin,Mickey Brady,20287,40.0,-8.0
+416,3,DUP,Democratic Unionist Party,William Irwin,11000,21.7,-2.9
+416,3,SDLP,Social Democratic &amp; Labour Party,Pete Byrne,9449,18.6,1.7
+416,3,APNI,Alliance Party,Jackie Coade,4211,8.3,5.9
+416,3,UUP,Ulster Unionist Party,Sam Nicholson,4204,8.3,0.0
+416,3,AONT,Aontú,Martin Kelly,1628,3.2,3.2
+417,3,CON,Conservative,Anne Marie Morris,29190,55.5,0.1
+417,3,LD,Liberal Democrat,Martin Wrigley,11689,22.2,1.7
+417,3,LAB,Labour,James Osben,9329,17.8,-4.5
+417,3,GRN,Green,Megan Debenham,1508,2.9,1.1
+417,3,IND,Independent,David Halpin,840,1.6,1.6
+418,3,CON,Conservative,George Freeman,35051,62.4,3.4
+418,3,LAB,Labour,Adrian Heald,12457,22.2,-7.9
+418,3,LD,Liberal Democrat,Steffan Aquarone,7739,13.8,8.7
+418,3,IND,Independent,P J O&#39;Gorman,939,1.7,1.7
+419,3,CON,Conservative,Duncan Baker,29792,58.6,16.9
+419,3,LD,Liberal Democrat,Karen Ward,15397,30.3,-18.1
+419,3,LAB,Labour,Emma Corlett,3895,7.7,-2.3
+419,3,BRX,The Brexit Party,Harry Gwynne,1739,3.4,3.4
+420,3,CON,Conservative,James Wild,30627,65.7,5.5
+420,3,LAB,Labour,Jo Rust,10705,23.0,-9.0
+420,3,LD,Liberal Democrat,Rob Colwell,3625,7.8,4.9
+420,3,GRN,Green,Andrew De Whalley,1645,3.5,1.8
+421,3,CON,Conservative,Richard Bacon,36258,58.0,-0.2
+421,3,LAB,Labour,Beth Jones,14983,24.0,-7.0
+421,3,LD,Liberal Democrat,Christopher Brown,8744,14.0,5.7
+421,3,GRN,Green,Ben Price,2499,4.0,1.5
+422,3,CON,Conservative,Liz Truss,35507,69.0,6.2
+422,3,LAB,Labour,Emily Blake,9312,18.1,-9.7
+422,3,LD,Liberal Democrat,Josie Ratcliffe,4166,8.1,3.6
+422,3,GRN,Green,Pallavi Devulapalli,1645,3.2,3.2
+422,3,MRLP,Monster Raving Loony Party,Earl Of Outwell,836,1.6,1.6
+423,3,LAB,Labour,Yvette Cooper,18297,37.9,-21.6
+423,3,CON,Conservative,Andrew Lee,17021,35.3,5.2
+423,3,BRX,The Brexit Party,Deneice Florence-Jukes,8032,16.6,16.6
+423,3,LD,Liberal Democrat,Tom Gordon,3147,6.5,5.1
+423,3,YRKS,The Yorkshire Party,Laura Walker,1762,3.7,0.7
+424,3,DUP,Democratic Unionist Party,Ian Paisley,20860,47.4,-11.5
+424,3,UUP,Ulster Unionist Party,Robin Swann,8139,18.5,11.3
+424,3,APNI,Alliance Party,Patricia O&#39;Lynn,6231,14.1,8.5
+424,3,SF,Sinn Féin,Cara McShane,5632,12.8,-3.5
+424,3,SDLP,Social Democratic &amp; Labour Party,Margaret McKillop,2943,6.7,1.4
+424,3,IND,Independent,Stephen Palmer,246,0.6,0.6
+425,3,APNI,Alliance Party,Stephen Farry,18358,45.2,35.9
+425,3,DUP,Democratic Unionist Party,Alex Easton,15390,37.9,-0.3
+425,3,UUP,Ulster Unionist Party,Alan Chambers,4936,12.1,12.1
+425,3,CON,Conservative,Matthew Robinson,1959,4.8,2.4
+426,3,CON,Conservative,Michael Ellis,21031,53.2,6.0
+426,3,LAB,Labour,Sally Keeble,15524,39.3,-6.0
+426,3,LD,Liberal Democrat,Martin Sawyer,2031,5.1,2.6
+426,3,GRN,Green,Katherine Pate,953,2.4,0.8
+427,3,CON,Conservative,Andrew Lewer,20914,51.2,4.3
+427,3,LAB,Labour,Gareth Eales,16217,39.7,-4.3
+427,3,LD,Liberal Democrat,Jill Hope,2482,6.1,2.7
+427,3,GRN,Green,Scott Mabbutt,1222,3.0,1.3
+428,3,CON,Conservative,Andrea Leadsom,41755,62.4,-0.1
+428,3,LAB,Labour,Gen Kitchen,13994,20.9,-6.4
+428,3,LD,Liberal Democrat,Chris Lofts,7891,11.8,6.2
+428,3,GRN,Green,Denise Donaldson,2634,3.9,1.8
+428,3,IND,Independent,Josh Phillips,463,0.7,0.2
+428,3,IND,Independent,Stuart McCutcheon,171,0.3,0.3
+429,3,CON,Conservative,Chloe Smith,23397,50.5,2.8
+429,3,LAB,Labour,Karen Davis,18659,40.3,-6.3
+429,3,LD,Liberal Democrat,Dave Thomas,2663,5.8,2.5
+429,3,GRN,Green,Adrian Holmes,1078,2.3,0.6
+429,3,UKIP,UKIP,David Moreland,488,1.1,1.1
+430,3,LAB,Labour,Clive Lewis,27766,53.7,-7.2
+430,3,CON,Conservative,Mike Spencer,15006,29.0,-1.6
+430,3,LD,Liberal Democrat,James Wright,4776,9.2,3.7
+430,3,GRN,Green,Catherine Rowett,2469,4.8,1.9
+430,3,BRX,The Brexit Party,Sandy Gilchrist,1656,3.2,3.2
+431,3,LAB,Labour,Nadia Whittome,25735,64.3,-7.1
+431,3,CON,Conservative,Victoria Stapleton,8342,20.9,-0.8
+431,3,LD,Liberal Democrat,Robert Swift,1954,4.9,2.3
+431,3,TIG,Independent Group for Change,Chris Leslie,1447,3.6,3.6
+431,3,BRX,The Brexit Party,Damian Smith,1343,3.4,3.4
+431,3,GRN,Green,Michelle Vacciana,1183,3.0,1.2
+432,3,LAB,Labour,Alex Norris,17337,49.1,-11.1
+432,3,CON,Conservative,Stuart Bestwick,12847,36.4,5.3
+432,3,BRX,The Brexit Party,Julian Carter,2686,7.6,7.6
+432,3,LD,Liberal Democrat,Christina Morgan-Danvers,1582,4.5,2.7
+432,3,GRN,Green,Andrew Jones,868,2.5,1.1
+433,3,LAB,Labour,Lilian Greenwood,26586,55.2,-7.1
+433,3,CON,Conservative,Marc Nykolyszyn,14018,29.1,-1.7
+433,3,LD,Liberal Democrat,Barry Holliday,3935,8.2,4.9
+433,3,BRX,The Brexit Party,John Lawson,2012,4.2,4.2
+433,3,GRN,Green,Cath Sutherland,1583,3.3,2.0
+434,3,CON,Conservative,Marcus Jones,27390,60.6,9.0
+434,3,LAB,Labour,Zoe Mayou,14246,31.5,-9.8
+434,3,LD,Liberal Democrat,Richard Brighton-Knight,1862,4.1,2.1
+434,3,GRN,Green,Keith Kondakor,1692,3.7,2.1
+435,3,SNP,Scottish National Party,John Nicolson,26882,46.5,11.2
+435,3,CON,Conservative,Luke Graham,22384,38.7,-2.8
+435,3,LAB,Labour,Lorna Robertson,4961,8.6,-11.4
+435,3,LD,Liberal Democrat,Iliyan Stefanov,3204,5.5,2.3
+435,3,UKIP,UKIP,Stuart Martin,382,0.7,0.7
+436,3,LAB,Labour,Chris Elmore,17602,49.7,-12.7
+436,3,CON,Conservative,Sadie Vidal,9797,27.7,2.5
+436,3,BRX,The Brexit Party,Christine Roach,2991,8.5,8.5
+436,3,PC,Plaid Cymru,Luke Fletcher,2919,8.2,0.7
+436,3,LD,Liberal Democrat,Anita Davies,1460,4.1,2.5
+436,3,GRN,Green,Tom Muller,621,1.8,1.8
+437,3,CON,Conservative,James Brokenshire,29786,64.5,3.1
+437,3,LAB,Labour,David Tingle,10834,23.5,-5.8
+437,3,LD,Liberal Democrat,Simone Reynolds,3822,8.3,5.0
+437,3,GRN,Green,Matt Browne,1477,3.2,1.5
+437,3,CPA,Christian Peoples Alliance,Carol Valinejad,226,0.5,0.3
+438,3,LAB,Labour,Debbie Abrahams,20088,43.5,-11.0
+438,3,CON,Conservative,Tom Lord,18589,40.3,3.2
+438,3,BRX,The Brexit Party,Paul Brierley,2980,6.5,6.5
+438,3,LD,Liberal Democrat,Sam Al-Hamdani,2423,5.2,1.7
+438,3,POS,Proud of Oldham &amp; Saddleworth,Paul Errock,1073,2.3,2.3
+438,3,GRN,Green,Wendy Olsen,778,1.7,1.7
+438,3,IND,Independent,Amoy Lindo,233,0.5,0.5
+439,3,LAB,Labour,Jim McMahon,24579,55.3,-9.9
+439,3,CON,Conservative,Kirsty Finlayson,13452,30.3,2.7
+439,3,BRX,The Brexit Party,Helen Formby,3316,7.5,7.5
+439,3,LD,Liberal Democrat,Garth Harkness,1484,3.3,1.3
+439,3,GRN,Green,Dan Jerrome,681,1.5,0.6
+439,3,POS,Proud of Oldham &amp; Saddleworth,Debbie Cole,533,1.2,1.2
+439,3,UKIP,UKIP,Anthony Prince,389,0.9,-3.3
+440,3,LD,Liberal Democrat,Alistair Carmichael,10381,44.8,-3.8
+440,3,SNP,Scottish National Party,Robert Leslie,7874,34.0,5.0
+440,3,CON,Conservative,Jennifer Fairbairn,2287,9.9,1.2
+440,3,LAB,Labour,Coilla Drake,1550,6.7,-4.8
+440,3,BRX,The Brexit Party,Robert Smith,900,3.9,3.9
+440,3,IND,Independent,David Barnard,168,0.7,0.7
+441,3,CON,Conservative,Gareth Bacon,30882,63.4,0.4
+441,3,LAB,Labour,Simon Jeal,8504,17.5,-6.9
+441,3,LD,Liberal Democrat,Allan Tweddle,7552,15.5,8.9
+441,3,GRN,Green,Karen Wheller,1783,3.7,1.6
+442,3,LAB,Labour,Anneliese Dodds,28135,57.0,-8.2
+442,3,CON,Conservative,Louise Staite,10303,20.9,-1.1
+442,3,LD,Liberal Democrat,Alistair Fernie,6884,13.9,4.8
+442,3,GRN,Green,David Williams,2392,4.8,1.5
+442,3,BRX,The Brexit Party,Roger Carter,1146,2.3,2.3
+442,3,IND,Independent,David Henwood,238,0.5,0.5
+442,3,IND,Independent,Chaka Artwell,143,0.3,0.3
+442,3,IND,Independent,Phil Taylor,118,0.2,0.2
+443,3,LD,Liberal Democrat,Layla Moran,31340,53.3,9.5
+443,3,CON,Conservative,James Fredrickson,22397,38.1,-4.3
+443,3,LAB,Labour,Rosie Sourbut,4258,7.2,-5.4
+443,3,BRX,The Brexit Party,Allison Wild,829,1.4,1.4
+444,3,SNP,Scottish National Party,Gavin Newlands,23353,47.0,9.6
+444,3,LAB,Labour,Alison Taylor,11451,23.0,-8.8
+444,3,CON,Conservative,Julie Pirone,11217,22.6,-5.0
+444,3,LD,Liberal Democrat,Ross Stalker,3661,7.4,4.2
+445,3,SNP,Scottish National Party,Mhairi Black,21637,50.2,9.6
+445,3,LAB,Labour,Moira Ramage,10958,25.4,-9.1
+445,3,CON,Conservative,Mark Dougan,7571,17.6,-1.9
+445,3,LD,Liberal Democrat,Jack Clark,2918,6.8,3.6
+446,3,CON,Conservative,Andrew Stephenson,24076,54.2,5.1
+446,3,LAB,Labour,Azhar Ali,17890,40.2,-5.9
+446,3,LD,Liberal Democrat,Gordon Lishman,1548,3.5,1.4
+446,3,GRN,Green,Clare Hales,678,1.5,0.4
+446,3,IND,Independent,John Richardson,268,0.6,0.6
+447,3,CON,Conservative,Miriam Cates,23688,47.8,4.7
+447,3,LAB,Labour,Francyne Johnson,16478,33.3,-12.5
+447,3,LD,Liberal Democrat,Hannah Kitching,5054,10.2,6.1
+447,3,BRX,The Brexit Party,John Booker,4300,8.7,8.7
+448,3,CON,Conservative,Neil Hudson,28875,60.4,0.0
+448,3,LAB,Labour,Sarah Williams,10356,21.7,-4.5
+448,3,LD,Liberal Democrat,Matt Severn,5364,11.2,3.4
+448,3,GRN,Green,Ali Ross,2159,4.5,2.3
+448,3,CF,CumbriaFirst,Jonathan Davies,1070,2.2,2.2
+449,3,SNP,Scottish National Party,Pete Wishart,27362,50.6,8.3
+449,3,CON,Conservative,Angus Forbes,19812,36.6,-5.6
+449,3,LD,Liberal Democrat,Peter Barrett,3780,7.0,2.0
+449,3,LAB,Labour,Angela Bretherton,2471,4.6,-5.8
+449,3,BRX,The Brexit Party,Stuart Powell,651,1.2,1.2
+450,3,CON,Conservative,Paul Bristow,22334,46.7,-0.1
+450,3,LAB,Labour,Lisa Forbes,19754,41.3,-6.7
+450,3,LD,Liberal Democrat,Beki Sellick,2334,4.9,1.5
+450,3,BRX,The Brexit Party,Mike Greene,2127,4.4,4.4
+450,3,GRN,Green,Joseph Wells,728,1.5,-0.3
+450,3,IND,Independent,Luke Ferguson,260,0.5,0.5
+450,3,CPA,Christian Peoples Alliance,Tom Rogers,151,0.3,0.3
+450,3,MRLP,Monster Raving Loony Party,The Very Raving Mr P,113,0.2,0.2
+451,3,CON,Conservative,Johnny Mercer,26831,60.7,8.8
+451,3,LAB,Labour,Charlotte Holloway,13934,31.5,-9.3
+451,3,LD,Liberal Democrat,Sarah Martin,2301,5.2,3.2
+451,3,GRN,Green,Ewan Melling Flavell,1173,2.7,1.5
+452,3,LAB,Labour,Luke Pollard,25461,47.9,-5.4
+452,3,CON,Conservative,Rebecca Smith,20704,38.9,-1.1
+452,3,BRX,The Brexit Party,Ann Widdecombe,2909,5.5,5.5
+452,3,LD,Liberal Democrat,Graham Reed,2545,4.8,2.4
+452,3,GRN,Green,James Ellwood,1557,2.9,1.7
+453,3,LAB,Labour,Alex Davies-Jones,17381,44.5,-10.9
+453,3,CON,Conservative,Sam Trask,11494,29.4,2.7
+453,3,PC,Plaid Cymru,Fflur Elin,4990,12.8,2.5
+453,3,BRX,The Brexit Party,Steve Bayliss,2917,7.5,7.5
+453,3,IND,Independent,Mike Powell,1792,4.6,4.6
+453,3,IND,Independent,Sue Prior,337,0.9,0.9
+453,3,IND,Independent,Jonathan Bishop,149,0.4,0.4
+454,3,CON,Conservative,Robert Syms,29599,58.7,0.7
+454,3,LAB,Labour,Sue Aitkenhead,10483,20.8,-8.7
+454,3,LD,Liberal Democrat,Victoria Collins,7819,15.5,6.6
+454,3,GRN,Green,Barry Harding-Rathbone,1702,3.4,0.8
+454,3,IND,Independent,David Young,848,1.7,1.7
+455,3,LAB,Labour,Apsana Begum,38660,63.1,-4.2
+455,3,CON,Conservative,Sheun Oke,9756,15.9,-4.2
+455,3,LD,Liberal Democrat,Andrew Cregan,8832,14.4,7.7
+455,3,GRN,Green,Neil Jameson,2159,3.5,1.8
+455,3,BRX,The Brexit Party,Catherine Cui,1493,2.4,2.4
+455,3,IND,Independent,Andy Erlam,376,0.6,0.6
+456,3,CON,Conservative,Penny Mordaunt,28172,61.4,6.6
+456,3,LAB,Labour,Amanda Martin,12392,27.0,-6.7
+456,3,LD,Liberal Democrat,Antonia Harrison,3419,7.4,1.9
+456,3,GRN,Green,Lloyd Day,1304,2.8,1.2
+456,3,IND,Independent,George Madgwick,623,1.4,1.4
+457,3,LAB,Labour,Stephen Morgan,23068,48.6,7.6
+457,3,CON,Conservative,Donna Jones,17705,37.3,-0.2
+457,3,LD,Liberal Democrat,Gerald Vernon-Jackson,5418,11.4,-5.9
+457,3,BRX,The Brexit Party,John Kennedy,994,2.1,2.1
+457,3,JACP,Justice &amp; Anti-Corruption Party [The],Steven George,240,0.5,0.5
+458,3,CON,Conservative,Stephen Crabb,21381,50.4,7.0
+458,3,LAB,Labour,Philippa Thompson,16319,38.5,-4.2
+458,3,PC,Plaid Cymru,Cris Tomos,2776,6.5,0.1
+458,3,LD,Liberal Democrat,Tom Hughes,1943,4.6,2.0
+459,3,LAB,Labour,Mark Hendrick,20870,61.8,-6.2
+459,3,CON,Conservative,Michele Scott,8724,25.8,2.0
+459,3,BRX,The Brexit Party,Rob Sherratt,1799,5.3,5.3
+459,3,LD,Liberal Democrat,Neil Darby,1737,5.1,1.8
+459,3,GRN,Green,Michael Welton,660,2.0,1.0
+460,3,CON,Conservative,Stuart Andrew,26453,48.8,1.4
+460,3,LAB,Labour,Jane Aitchison,22936,42.3,-4.4
+460,3,LD,Liberal Democrat,Ian Dowling,3088,5.7,2.4
+460,3,GRN,Green,Quinn Daley,894,1.6,1.6
+460,3,YRKS,The Yorkshire Party,Bob Buxton,844,1.6,-0.6
+461,3,LAB,Labour,Fleur Anderson,22780,45.1,4.4
+461,3,CON,Conservative,Will Sweet,18006,35.7,-8.4
+461,3,LD,Liberal Democrat,Sue Wixley,8548,16.9,5.3
+461,3,GRN,Green,Fergal McEntee,1133,2.2,-0.1
+462,3,CON,Conservative,Mark Francois,39864,72.6,5.9
+462,3,LAB,Labour,David Flack,8864,16.1,-8.2
+462,3,LD,Liberal Democrat,Ron Tindall,4171,7.6,4.8
+462,3,GRN,Green,Paul Thorogood,2002,3.6,1.7
+463,3,LAB,Labour,Matt Rodda,27102,48.5,-0.6
+463,3,CON,Conservative,Craig Morley,21178,37.9,-4.4
+463,3,LD,Liberal Democrat,Imogen Shepherd-DuBey,5035,9.0,2.9
+463,3,GRN,Green,David McElroy,1549,2.8,0.8
+463,3,BRX,The Brexit Party,Mitchell Feierstein,852,1.5,1.5
+463,3,CPA,Christian Peoples Alliance,Yemi Awolola,202,0.4,0.4
+464,3,CON,Conservative,Alok Sharma,24393,48.4,-0.5
+464,3,LAB,Labour,Rachel Eden,20276,40.2,-3.1
+464,3,LD,Liberal Democrat,Meri O&#39;Connell,4460,8.9,3.0
+464,3,GRN,Green,Jamie Whitham,1263,2.5,0.6
+465,3,CON,Conservative,Jacob Young,18811,46.1,12.8
+465,3,LAB,Labour,Anna Turley,15284,37.4,-18.1
+465,3,BRX,The Brexit Party,Jacqui Cummins,2915,7.1,7.1
+465,3,LD,Liberal Democrat,Karen King,2018,4.9,-1.8
+465,3,IND,Independent,Frankie Wales,1323,3.2,3.2
+465,3,GRN,Green,Rowan McLaughlin,491,1.2,1.2
+466,3,CON,Conservative,Rachel Maclean,27907,63.3,11.0
+466,3,LAB,Labour,Rebecca Jenkins,11871,26.9,-9.1
+466,3,LD,Liberal Democrat,Bruce Horton,2905,6.6,4.0
+466,3,GRN,Green,Claire Davies,1384,3.1,2.3
+467,3,CON,Conservative,Crispin Blunt,28665,53.9,-3.5
+467,3,LAB,Labour,Susan Gregory,10355,19.5,-5.2
+467,3,LD,Liberal Democrat,John Vincent,10320,19.4,8.5
+467,3,GRN,Green,Jonathan Essex,3169,6.0,1.8
+467,3,UKIP,UKIP,Julia Searle,647,1.2,-1.6
+468,3,SNP,Scottish National Party,Kirsten Oswald,24877,44.9,13.7
+468,3,CON,Conservative,Paul Masterton,19451,35.1,-4.9
+468,3,LAB,Labour,Carolann Davidson,6855,12.4,-14.3
+468,3,LD,Liberal Democrat,Andrew McGlynn,4174,7.5,5.5
+469,3,LAB,Labour,Chris Bryant,16115,54.4,-9.7
+469,3,CON,Conservative,Hannah Jarvis,4675,15.8,5.7
+469,3,PC,Plaid Cymru,Branwen Cennard,4069,13.7,-8.6
+469,3,BRX,The Brexit Party,John Watkins,3733,12.6,12.6
+469,3,LD,Liberal Democrat,Rodney Berman,612,2.1,1.2
+469,3,GRN,Green,Shaun Thomas,438,1.5,1.5
+470,3,CON,Conservative,Nigel Evans,33346,60.3,2.5
+470,3,LAB,Labour,Giles Bridge,14907,27.0,-6.9
+470,3,LD,Liberal Democrat,Chantelle Seddon,4776,8.6,2.8
+470,3,GRN,Green,Paul Yates,1704,3.1,0.7
+470,3,IND,Independent,Tony Johnson,551,1.0,1.0
+471,3,CON,Conservative,Rishi Sunak,36693,63.6,-0.4
+471,3,LAB,Labour,Thom Kirkwood,9483,16.4,-7.0
+471,3,LD,Liberal Democrat,Philip Knowles,6989,12.1,6.2
+471,3,GRN,Green,John Yorke,2500,4.3,1.3
+471,3,YRKS,The Yorkshire Party,Laurence Waterhouse,1077,1.9,-1.8
+471,3,IND,Independent,Nick Jardine,961,1.7,1.7
+472,3,LD,Liberal Democrat,Sarah Olney,34559,53.1,8.0
+472,3,CON,Conservative,Zac Goldsmith,26793,41.2,-4.0
+472,3,LAB,Labour,Sandra Keen,3407,5.2,-3.9
+472,3,IND,Independent,Caroline Shah,247,0.4,0.4
+472,3,IND,Independent,John Usher,61,0.1,0.1
+473,3,LAB,Labour,Tony Lloyd,24475,51.6,-6.4
+473,3,CON,Conservative,Atifa Shah,14807,31.2,2.8
+473,3,BRX,The Brexit Party,Chris Green,3867,8.2,8.2
+473,3,LD,Liberal Democrat,Andy Kelly,3312,7.0,-1.1
+473,3,GRN,Green,Sarah Croke,986,2.1,2.1
+474,3,CON,Conservative,Kelly Tolhurst,31151,60.0,5.6
+474,3,LAB,Labour,Teresa Murray,14079,27.1,-8.9
+474,3,LD,Liberal Democrat,Graham Colley,3717,7.2,4.9
+474,3,GRN,Green,Sonia Hyner,1312,2.5,1.1
+474,3,UKIP,UKIP,Roy Freshwater,1080,2.1,-3.3
+474,3,IND,Independent,Chris Spalding,587,1.1,1.1
+475,3,CON,Conservative,James Duddridge,27063,58.7,10.0
+475,3,LAB,Labour,Ashley Dalton,14777,32.0,-4.9
+475,3,LD,Liberal Democrat,Keith Miller,2822,6.1,3.4
+475,3,IND,Independent,Navin Kumar,1107,2.4,2.4
+475,3,PFP,Psychedelic Future Party,Jason Pilley,367,0.8,0.8
+476,3,CON,Conservative,Andrew Rosindell,30494,64.6,5.2
+476,3,LAB,Labour,Angelina Leatherbarrow,12601,26.7,-5.1
+476,3,LD,Liberal Democrat,Ian Sanderson,2708,5.7,3.3
+476,3,GRN,Green,David Hughes,1428,3.0,1.4
+477,3,CON,Conservative,Caroline Nokes,27862,54.2,-3.0
+477,3,LD,Liberal Democrat,Craig Fletcher,16990,33.1,11.9
+477,3,LAB,Labour,Claire Ransom,5898,11.5,-7.7
+477,3,UKIP,UKIP,Geoff Bentley,640,1.2,1.2
+478,3,SNP,Scottish National Party,Ian Blackford,19263,48.3,8.1
+478,3,LD,Liberal Democrat,Craig Harrow,9820,24.6,3.7
+478,3,CON,Conservative,Gavin Berkenheger,6900,17.3,-7.6
+478,3,LAB,Labour,John Erskine,2448,6.1,-6.1
+478,3,BRX,The Brexit Party,Kate Brownlie,710,1.8,1.8
+478,3,CHP,Christian Party,Donald Boyd,460,1.2,1.2
+478,3,SFP,Scottish Family Party,Richard Lucas,268,0.7,0.7
+479,3,CON,Conservative,Jake Berry,27570,56.5,5.6
+479,3,LAB,Labour,Alyson Barnes,18048,37.0,-7.5
+479,3,LD,Liberal Democrat,Paul Valentine,2011,4.1,1.0
+479,3,GRN,Green,Sarah Hall,1193,2.4,0.8
+480,3,CON,Conservative,Alexander Stafford,21970,45.1,4.8
+480,3,LAB,Labour,Sophie Wilson,15652,32.1,-16.0
+480,3,BRX,The Brexit Party,Allen Cowles,6264,12.9,12.9
+480,3,LD,Liberal Democrat,Colin Taylor,2553,5.2,2.9
+480,3,GRN,Green,Emily West,1219,2.5,0.7
+480,3,IND,Independent,Nigel Short,1040,2.1,2.1
+481,3,LAB,Labour,Sarah Champion,14736,41.3,-15.1
+481,3,CON,Conservative,Gerri Hickton,11615,32.6,6.2
+481,3,BRX,The Brexit Party,Paul Hague,6125,17.2,17.2
+481,3,LD,Liberal Democrat,Adam Carter,2090,5.9,1.2
+481,3,YRKS,The Yorkshire Party,Dennis Bannan,1085,3.0,-0.7
+482,3,CON,Conservative,Mark Pawsey,29255,57.6,3.3
+482,3,LAB,Labour,Debbie Bannigan,15808,31.1,-7.2
+482,3,LD,Liberal Democrat,Rana Das-Gupta,4207,8.3,2.7
+482,3,GRN,Green,Becca Stevenson,1544,3.0,1.2
+483,3,CON,Conservative,David Simmonds,29391,55.6,-1.7
+483,3,LAB,Labour,Peymana Assad,12997,24.6,-6.5
+483,3,LD,Liberal Democrat,Jonathan Banks,7986,15.1,8.0
+483,3,GRN,Green,Sarah Green,1646,3.1,0.7
+483,3,ANWP,Animal Welfare Party,Femy Amin,325,0.6,0.6
+483,3,IND,Independent,Tracy Blackwell,295,0.6,0.6
+483,3,IND,Independent,Julian Wilson,264,0.5,0.5
+484,3,CON,Conservative,Ben Spencer,29262,54.9,-6.0
+484,3,LAB,Labour,Robert King,10992,20.6,-5.3
+484,3,LD,Liberal Democrat,Rob O&#39;Carroll,9236,17.3,10.0
+484,3,GRN,Green,Benjamin Smith,1876,3.5,0.9
+484,3,IND,Independent,Stewart Mackay,777,1.5,1.5
+484,3,IND,Independent,Lorna Rowland,670,1.3,1.3
+484,3,UKIP,UKIP,Nicholas Wood,476,0.9,-2.4
+485,3,CON,Conservative,Ruth Edwards,28765,47.5,-4.3
+485,3,LAB,Labour,Cheryl Pidgeon,21122,34.9,-3.2
+485,3,LD,Liberal Democrat,Jason Billin,9600,15.9,11.1
+485,3,UKIP,UKIP,Matthew Faithfull,591,1.0,-1.6
+485,3,IND,Independent,John Kirby,427,0.7,0.7
+486,3,SNP,Scottish National Party,Margaret Ferrier,23775,44.2,7.2
+486,3,LAB,Labour,Ged Killen,18545,34.5,-3.1
+486,3,CON,Conservative,Lynne Nailon,8054,15.0,-4.6
+486,3,LD,Liberal Democrat,Mark McGeever,2791,5.2,0.9
+486,3,UKIP,UKIP,Janice Mackay,629,1.2,0.3
+487,3,CON,Conservative,Alicia Kearns,36507,62.6,-0.2
+487,3,LAB,Labour,Andy Thomas,9583,16.4,-6.3
+487,3,LD,Liberal Democrat,Carol Weaver,7970,13.7,5.5
+487,3,GRN,Green,Alastair McQuillan,2875,4.9,1.9
+487,3,UKIP,UKIP,Marietta King,917,1.6,-1.7
+487,3,IND,Independent,Anthony Watchorn,458,0.8,0.8
+488,3,CON,Conservative,Kemi Badenoch,39714,63.0,1.2
+488,3,LD,Liberal Democrat,Mike Hibbs,12120,19.2,5.2
+488,3,LAB,Labour,Thomas Van De Bilt,8305,13.2,-7.6
+488,3,GRN,Green,Coby Wing,2947,4.7,4.7
+489,3,LAB,Labour,Rebecca Long-Bailey,28755,56.8,-8.7
+489,3,CON,Conservative,Attika Choudhary,12428,24.5,-0.7
+489,3,BRX,The Brexit Party,Matt Mickler,4290,8.5,8.5
+489,3,LD,Liberal Democrat,Jake Overend,3099,6.1,3.4
+489,3,GRN,Green,Bryan Blears,2060,4.1,2.4
+490,3,CON,Conservative,John Glen,30280,56.4,-1.7
+490,3,LD,Liberal Democrat,Victoria Charleston,10544,19.6,8.4
+490,3,LAB,Labour,Tom Corbin,9675,18.0,-7.5
+490,3,GRN,Green,Rick Page,2486,4.6,2.5
+490,3,IND,Independent,King Arthur Pendragon,745,1.4,1.4
+491,3,CON,Conservative,Robert Goodwill,27593,55.5,7.1
+491,3,LAB,Labour,Hugo Fearnley,17323,34.8,-6.7
+491,3,LD,Liberal Democrat,Robert Lockwood,3038,6.1,3.4
+491,3,YRKS,The Yorkshire Party,Lee Derrick,1770,3.6,2.8
+492,3,CON,Conservative,Holly Mumby-Croft,20306,53.8,10.3
+492,3,LAB,Labour,Nic Dakin,13855,36.7,-15.3
+492,3,BRX,The Brexit Party,Jerry Gorman,2044,5.4,5.4
+492,3,LD,Liberal Democrat,Ryk Downes,875,2.3,0.9
+492,3,GRN,Green,Peter Dennington,670,1.8,1.8
+493,3,CON,Conservative,Paul Howell,19609,47.2,8.4
+493,3,LAB,Labour,Phil Wilson,15096,36.3,-17.1
+493,3,BRX,The Brexit Party,David Bull,3518,8.5,8.5
+493,3,LD,Liberal Democrat,Dawn Welsh,1955,4.7,2.8
+493,3,GRN,Green,John Furness,994,2.4,0.7
+493,3,IND,Independent,Michael Joyce,394,0.9,0.9
+494,3,LAB,Labour,Bill Esterson,29254,57.5,-5.5
+494,3,CON,Conservative,Wazz Mughal,14132,27.8,-5.3
+494,3,LD,Liberal Democrat,Keith Cawdron,3386,6.7,4.0
+494,3,BRX,The Brexit Party,Paul Lomas,2425,4.8,4.8
+494,3,GRN,Green,Alison Gibbon,1261,2.5,1.2
+494,3,LIB,Liberal Party,Angela Preston,285,0.6,0.6
+494,3,REN,Renew,Carla Burns,137,0.3,0.3
+495,3,CON,Conservative,Nigel Adams,33995,60.3,1.5
+495,3,LAB,Labour,Malik Rofidi,13858,24.6,-9.6
+495,3,LD,Liberal Democrat,Katharine Macy,4842,8.6,4.5
+495,3,YRKS,The Yorkshire Party,Mike Jordan,1900,3.4,3.4
+495,3,GRN,Green,Arnold Warneken,1823,3.2,3.2
+496,3,CON,Conservative,Laura Trott,30932,60.7,-3.0
+496,3,LD,Liberal Democrat,Gareth Willis,10114,19.8,11.5
+496,3,LAB,Labour,Seamus McCauley,6946,13.6,-7.3
+496,3,GRN,Green,Paul Wharton,1974,3.9,0.6
+496,3,IND,Independent,Paulette Furse,695,1.4,1.4
+496,3,LBT,Libertarian,Sean Finch,295,0.6,0.6
+497,3,LAB,Labour,Gill Furniss,22369,56.5,-10.8
+497,3,CON,Conservative,Hannah Westropp,10095,25.5,3.9
+497,3,BRX,The Brexit Party,Johnny Johnson,3855,9.7,9.7
+497,3,LD,Liberal Democrat,Stephen Porter,1517,3.8,1.3
+497,3,GRN,Green,Christine Gilligan Kubo,1179,3.0,1.2
+497,3,UKIP,UKIP,Shane Harper,585,1.5,-4.8
+498,3,LAB,Labour,Paul Blomfield,33968,66.7,-4.2
+498,3,CON,Conservative,Janice Silvester-Hall,6695,13.1,0.2
+498,3,GRN,Green,Alison Teal,4570,9.0,0.9
+498,3,LD,Liberal Democrat,Colin Ross,3237,6.4,1.2
+498,3,BRX,The Brexit Party,Paul Ward,1969,3.9,3.9
+498,3,YRKS,The Yorkshire Party,Jack Carrington,416,0.8,0.4
+498,3,IND,Independent,Barry James,30,0.1,0.1
+498,3,SEQ,Socialist Equality,Chris Marsden,28,0.1,0.1
+499,3,LAB,Labour,Olivia Blake,19709,34.6,-3.7
+499,3,LD,Liberal Democrat,Laura Gordon,18997,33.4,-1.3
+499,3,CON,Conservative,Ian Walker,14696,25.8,2.1
+499,3,GRN,Green,Natalie Thomas,1630,2.9,1.4
+499,3,BRX,The Brexit Party,Terence McHale,1562,2.7,2.7
+499,3,UKIP,UKIP,Michael Virgo,168,0.3,-1.3
+499,3,IND,Independent,Elizabeth Aspden,123,0.2,0.2
+500,3,LAB,Labour,Louise Haigh,21475,50.3,-9.7
+500,3,CON,Conservative,Gordon Gregory,12955,30.3,1.6
+500,3,BRX,The Brexit Party,Tracy Knowles,3538,8.3,8.3
+500,3,LD,Liberal Democrat,Simon Clement-Jones,2916,6.8,2.3
+500,3,GRN,Green,Paul Turpin,1811,4.2,2.1
+501,3,LAB,Labour,Clive Betts,19359,46.1,-12.4
+501,3,CON,Conservative,Marc Bayliss,15070,35.9,4.4
+501,3,BRX,The Brexit Party,Kirk Kus,4478,10.7,10.7
+501,3,LD,Liberal Democrat,Rajin Chowdhury,2125,5.1,1.8
+501,3,YRKS,The Yorkshire Party,Alex Martin,966,2.3,2.3
+502,3,CON,Conservative,Mark Spencer,32049,60.8,9.3
+502,3,LAB,Labour,Jerry Hague,15863,30.1,-11.7
+502,3,LD,Liberal Democrat,Timothy Ball,2883,5.5,3.4
+502,3,GRN,Green,Esther Cropper,1214,2.3,1.1
+502,3,IND,Independent,Simon Rood,700,1.3,1.3
+503,3,CON,Conservative,Philip Davies,27437,50.8,-0.5
+503,3,LAB,Labour,Jo Pike,21195,39.2,-3.3
+503,3,LD,Liberal Democrat,Caroline Jones,3188,5.9,1.8
+503,3,GRN,Green,Celia Hickson,1301,2.4,2.4
+503,3,YRKS,The Yorkshire Party,Darren Longhorn,883,1.6,1.6
+504,3,CON,Conservative,Daniel Kawczynski,31021,52.5,2.6
+504,3,LAB,Labour,Julia Buckley,19804,33.5,-5.0
+504,3,LD,Liberal Democrat,Nat Green,5906,10.0,2.7
+504,3,GRN,Green,Julian Dean,1762,3.0,1.1
+504,3,IND,Independent,Hannah Locke,572,1.0,1.0
+505,3,CON,Conservative,Owen Paterson,35444,62.7,2.2
+505,3,LAB,Labour,Graeme Currie,12495,22.1,-9.0
+505,3,LD,Liberal Democrat,Helen Morgan,5643,10.0,4.7
+505,3,GRN,Green,John Adams,1790,3.2,0.1
+505,3,SHRP,Shropshire Party,Robert Jones,1141,2.0,2.0
+506,3,CON,Conservative,Gordon Henderson,34742,67.6,7.4
+506,3,LAB,Labour,Clive Johnson,10263,20.0,-10.6
+506,3,LD,Liberal Democrat,Ben Martin,3213,6.3,3.5
+506,3,IND,Independent,Monique Bonney,1257,2.4,2.4
+506,3,GRN,Green,Sam Collins,1188,2.3,1.2
+506,3,MRLP,Monster Raving Loony Party,Mad Mike Young,404,0.8,0.0
+506,3,IND,Independent,Lee McCall,327,0.6,0.1
+507,3,CON,Conservative,Julian Smith,34919,59.5,-3.2
+507,3,LAB,Labour,Brian McDaid,11225,19.1,-9.2
+507,3,LD,Liberal Democrat,Andrew Murday,8701,14.8,14.8
+507,3,GRN,Green,Andy Brown,2748,4.7,-1.7
+507,3,YRKS,The Yorkshire Party,Jack Render,1131,1.9,-0.7
+508,3,CON,Conservative,Caroline Johnson,44683,67.1,2.9
+508,3,LAB,Labour,Linda Edwards-Shea,12118,18.2,-7.6
+508,3,LD,Liberal Democrat,Oliver Craven,5355,8.0,3.9
+508,3,LNIN,Lincolnshire Independents,Marianne Overton,1999,3.0,3.0
+508,3,GRN,Green,Simon Tooke,1742,2.6,1.1
+508,3,IND,Independent,Caroline Coram,657,1.0,1.0
+509,3,LAB,Labour,Tan Dhesi,29421,57.6,-5.3
+509,3,CON,Conservative,Kanwal Toor Gill,15781,30.9,-0.7
+509,3,LD,Liberal Democrat,Aaron Chahal,3357,6.6,4.2
+509,3,BRX,The Brexit Party,Delphine Gray-Fisk,1432,2.8,2.8
+509,3,GRN,Green,Julian Edmonds,1047,2.1,2.1
+510,3,CON,Conservative,Julian Knight,32309,58.4,0.3
+510,3,LAB,Labour,Nick Stephens,11036,19.9,-1.9
+510,3,LD,Liberal Democrat,Ade Adeyemo,9977,18.0,2.3
+510,3,GRN,Green,Rosemary Sexton,2022,3.7,1.6
+511,3,CON,Conservative,Liam Fox,32801,52.9,-1.3
+511,3,LAB,Labour,Hannah Young,15265,24.6,-2.0
+511,3,LD,Liberal Democrat,Ashley Cartman,11051,17.8,8.2
+511,3,GRN,Green,Phil Neve,2938,4.7,1.5
+512,3,CON,Conservative,Jacob Rees-Mogg,28360,50.4,-3.3
+512,3,LAB,Labour,Mark Huband,13631,24.2,-10.5
+512,3,LD,Liberal Democrat,Nick Coates,12422,22.1,13.8
+512,3,GRN,Green,Fay Whitfield,1423,2.5,0.2
+512,3,IND,Independent,Shaun Hughes,472,0.8,-0.2
+513,3,CON,Conservative,David Warburton,36230,55.8,-0.9
+513,3,LD,Liberal Democrat,Adam Boyden,17017,26.2,5.4
+513,3,LAB,Labour,Sean Dromgoole,8354,12.9,-4.3
+513,3,GRN,Green,Andrea Dexter,3295,5.1,1.4
+514,3,DUP,Democratic Unionist Party,Paul Girvan,15149,35.3,-3.0
+514,3,UUP,Ulster Unionist Party,Danny Kinahan,12460,29.0,-1.8
+514,3,APNI,Alliance Party,John Blair,8190,19.1,11.6
+514,3,SF,Sinn Féin,Declan Kearney,4887,11.4,-6.7
+514,3,SDLP,Social Democratic &amp; Labour Party,Roisin Lynch,2288,5.3,-0.1
+515,3,SF,Sinn Féin,Chris Hazzard,16137,32.4,-7.5
+515,3,SDLP,Social Democratic &amp; Labour Party,Michael Savage,14517,29.2,-6.0
+515,3,DUP,Democratic Unionist Party,Glyn Hanna,7619,15.3,-2.1
+515,3,APNI,Alliance Party,Patrick Brown,6916,13.9,10.3
+515,3,UUP,Ulster Unionist Party,Jill Macauley,3307,6.6,2.7
+515,3,AONT,Aontú,Paul Brady,1266,2.5,2.5
+516,3,CON,Conservative,John Hayes,37338,75.9,6.0
+516,3,LAB,Labour,Mark Popple,6500,13.2,-7.2
+516,3,LD,Liberal Democrat,Davina Kirby,3225,6.6,3.7
+516,3,GRN,Green,Martin Blake,1613,3.3,1.5
+516,3,IND,Independent,Rick Stringer,503,1.0,0.3
+517,3,CON,Conservative,Katherine Fletcher,30028,55.8,3.0
+517,3,LAB,Labour,Kim Snape,18829,35.0,-4.3
+517,3,LD,Liberal Democrat,Jo Barton,3720,6.9,3.1
+517,3,GRN,Green,Andy Fewings,1207,2.2,1.3
+518,3,LAB,Labour,Emma Lewell-Buck,17273,45.6,-15.9
+518,3,CON,Conservative,Oni Oviri,7688,20.3,-5.6
+518,3,BRX,The Brexit Party,Glenn Thompson,6446,17.0,17.0
+518,3,IND,Independent,Geoff Thompson,3658,9.7,9.7
+518,3,LD,Liberal Democrat,William Shepherd,1514,4.0,2.3
+518,3,GRN,Green,Sarah McKeown,1303,3.4,-0.1
+519,3,CON,Conservative,Royston Smith,23952,50.5,4.0
+519,3,LAB,Labour,Simon Letts,19454,41.0,-5.5
+519,3,LD,Liberal Democrat,Liz Jarvis,2503,5.3,2.2
+519,3,GRN,Green,Osman Sen-Chadun,1040,2.2,0.6
+519,3,UKIP,UKIP,Kim Rose,472,1.0,-1.4
+520,3,LAB,Labour,Alan Whitehead,22256,49.5,-9.2
+520,3,CON,Conservative,Steven Galton,16043,35.7,1.5
+520,3,LD,Liberal Democrat,Joe Richards,3449,7.7,3.6
+520,3,BRX,The Brexit Party,Philip Crook,1591,3.5,3.5
+520,3,GRN,Green,Katherine Barbour,1433,3.2,3.2
+520,3,IND,Independent,Kev Barry,222,0.5,0.5
+521,3,CON,Conservative,David Amess,27555,59.2,4.0
+521,3,LAB,Labour,Aston Line,13096,28.1,-5.9
+521,3,LD,Liberal Democrat,Nina Stimson,5312,11.4,6.9
+521,3,IND,Independent,77 Joseph,574,1.2,1.2
+522,3,CON,Conservative,Damien Moore,22914,47.6,8.9
+522,3,LAB,Labour,Liz Savage,18767,39.0,6.4
+522,3,LD,Liberal Democrat,John Wright,6499,13.5,-12.9
+523,3,CON,Conservative,Kwasi Kwarteng,29141,58.9,1.6
+523,3,LAB,Labour,Pavitar Mann,10748,21.7,-8.8
+523,3,LD,Liberal Democrat,David Campanale,7499,15.1,9.6
+523,3,GRN,Green,Paul Jacobs,2122,4.3,2.1
+524,3,LD,Liberal Democrat,Daisy Cooper,28867,50.1,17.7
+524,3,CON,Conservative,Anne Main,22574,39.2,-3.9
+524,3,LAB,Labour,Rebecca Lury,5000,8.7,-14.4
+524,3,GRN,Green,Simon Grover,1004,1.7,0.3
+524,3,IND,Independent,Jules Sherrington,154,0.3,0.3
+525,3,CON,Conservative,Steve Double,31273,56.1,6.5
+525,3,LAB,Labour,Felicity Owen,14747,26.4,-2.5
+525,3,LD,Liberal Democrat,Tim Styles,5861,10.5,-11.0
+525,3,MK,Mebyon Kernow,Dick Cole,1660,3.0,3.0
+525,3,GRN,Green,Collin Harker,1609,2.9,2.9
+525,3,LIB,Liberal Party,Richard Byrne,626,1.1,1.1
+526,3,LAB,Labour,Conor McGinn,24870,52.3,-11.5
+526,3,CON,Conservative,Joel Charles,12661,26.6,-0.5
+526,3,BRX,The Brexit Party,Malcolm Webster,5396,11.3,11.3
+526,3,LD,Liberal Democrat,Pat Moloney,2668,5.6,3.0
+526,3,GRN,Green,David Van Der Burg,1966,4.1,1.7
+527,3,LAB,Labour,Marie Rimmer,29457,58.5,-9.3
+527,3,CON,Conservative,Richard Short,10335,20.5,-1.3
+527,3,BRX,The Brexit Party,Daniel Oxley,5353,10.6,10.6
+527,3,LD,Liberal Democrat,Brian Spencer,2886,5.7,1.8
+527,3,GRN,Green,Kai Taylor,2282,4.5,1.9
+528,3,CON,Conservative,Derek Thomas,25365,49.3,6.2
+528,3,LD,Liberal Democrat,Andrew George,21085,41.0,-1.6
+528,3,LAB,Labour,Alana Bates,3553,6.9,-7.3
+528,3,GRN,Green,Ian Flindall,964,1.9,1.9
+528,3,LIB,Liberal Party,Robert Smith,314,0.6,0.6
+528,3,CP,The Common People,John Harris,132,0.3,0.3
+529,3,CON,Conservative,Theo Clarke,29992,58.6,3.9
+529,3,LAB,Labour,Joyce Still,15615,30.5,-9.3
+529,3,LD,Liberal Democrat,Alex Wagner,3175,6.2,3.2
+529,3,GRN,Green,Emma Carter,2367,4.6,2.2
+530,3,CON,Conservative,Karen Bradley,28192,64.6,6.4
+530,3,LAB,Labour,Darren Price,11764,26.9,-6.9
+530,3,LD,Liberal Democrat,Andrew Gant,2469,5.7,2.3
+530,3,GRN,Green,Douglas Rouxel,1231,2.8,1.6
+531,3,CON,Conservative,Gavin Williamson,36520,73.0,3.3
+531,3,LAB,Labour,Adam Freeman,8270,16.5,-8.7
+531,3,LD,Liberal Democrat,Chris Fewtrell,3280,6.6,3.9
+531,3,GRN,Green,Claire McIlvenna,1935,3.9,1.6
+532,3,LAB,Labour,Jonathan Reynolds,19025,44.9,-12.3
+532,3,CON,Conservative,Tayub Amjad,16079,38.0,-0.2
+532,3,BRX,The Brexit Party,Julian Newton,3591,8.5,8.5
+532,3,LD,Liberal Democrat,Jamie Dwan,1827,4.3,2.0
+532,3,GRN,Green,Julie Wood,1411,3.3,1.0
+532,3,LIB,Liberal Party,John Edge,435,1.0,1.0
+533,3,CON,Conservative,Stephen McPartland,25328,53.1,2.8
+533,3,LAB,Labour,Jill Borcherds,16766,35.2,-8.2
+533,3,LD,Liberal Democrat,Lisa Nash,4132,8.7,4.5
+533,3,GRN,Green,Victoria Snelling,1457,3.1,0.9
+534,3,SNP,Scottish National Party,Alyn Smith,26895,51.1,14.4
+534,3,CON,Conservative,Stephen Kerr,17641,33.5,-3.5
+534,3,LAB,Labour,Mary Ross,4275,8.1,-14.0
+534,3,LD,Liberal Democrat,Fayzan Rehman,2867,5.4,2.0
+534,3,GRN,Green,Bryan Quinn,942,1.8,1.8
+535,3,LAB,Labour,Navendu Mishra,21695,52.0,-11.3
+535,3,CON,Conservative,Isy Imarni,11656,27.9,-0.5
+535,3,LD,Liberal Democrat,Wendy Meikle,5043,12.1,7.8
+535,3,BRX,The Brexit Party,Lee Montague-Trenchard,1918,4.6,4.6
+535,3,GRN,Green,Helena Mellish,1403,3.4,1.9
+536,3,LAB,Labour,Alex Cunningham,17728,43.1,-13.8
+536,3,CON,Conservative,Steven Jackson,16701,40.6,4.1
+536,3,BRX,The Brexit Party,Martin Walker,3907,9.5,9.5
+536,3,LD,Liberal Democrat,Aidan King,1631,4.0,2.5
+536,3,NE,North East Party,Mark Burdon,1189,2.9,2.9
+537,3,CON,Conservative,Matt Vickers,27764,50.7,3.8
+537,3,LAB,Labour,Paul Williams,22504,41.1,-7.4
+537,3,LD,Liberal Democrat,Brendan Devlin,2338,4.3,2.5
+537,3,BRX,The Brexit Party,John Prescott,2196,4.0,4.0
+538,3,CON,Conservative,Jo Gideon,14557,45.4,5.6
+538,3,LAB,Labour,Gareth Snell,13887,43.3,-8.2
+538,3,BRX,The Brexit Party,Tariq Mahmood,1691,5.3,5.3
+538,3,LD,Liberal Democrat,Steven Pritchard,1116,3.5,1.4
+538,3,GRN,Green,Adam Colclough,819,2.6,1.4
+539,3,CON,Conservative,Jonathan Gullis,20974,52.3,7.0
+539,3,LAB,Labour,Ruth Smeeth,14688,36.6,-14.3
+539,3,BRX,The Brexit Party,Richard Watkin,2374,5.9,5.9
+539,3,LD,Liberal Democrat,Peter Andras,1268,3.2,1.0
+539,3,GRN,Green,Alan Borgars,508,1.3,-0.4
+539,3,IND,Independent,Matt Dilworth,322,0.8,0.8
+540,3,CON,Conservative,Jack Brereton,24632,62.2,13.1
+540,3,LAB,Labour,Mark McDonald,13361,33.7,-13.7
+540,3,LD,Liberal Democrat,Rosalyn Gordon,1611,4.1,2.1
+541,3,CON,Conservative,Bill Cash,31687,63.6,0.4
+541,3,LAB,Labour,Mike Stubbs,11742,23.6,-4.7
+541,3,LD,Liberal Democrat,Alec Sandiford,4412,8.9,4.4
+541,3,GRN,Green,Tom Adamson,2002,4.0,2.6
+542,3,CON,Conservative,Suzanne Webb,27534,60.3,5.7
+542,3,LAB,Labour,Pete Lowe,13963,30.6,-7.7
+542,3,LD,Liberal Democrat,Chris Bramall,2523,5.5,3.2
+542,3,GRN,Green,Andi Mohr,1048,2.3,1.2
+542,3,IND,Independent,Aaron Hudson,621,1.4,1.4
+543,3,DUP,Democratic Unionist Party,Jim Shannon,17705,47.2,-14.8
+543,3,APNI,Alliance Party,Kellie Armstrong,10634,28.4,13.7
+543,3,UUP,Ulster Unionist Party,Philip Smith,4023,10.7,-0.7
+543,3,SDLP,Social Democratic &amp; Labour Party,Joe Boyle,1994,5.3,-0.9
+543,3,CON,Conservative,Grant Abraham,1476,3.9,2.6
+543,3,GRN,Green,Maurice Macartney,790,2.1,0.5
+543,3,SF,Sinn Féin,Ryan Carlin,555,1.5,-1.3
+543,3,UKIP,UKIP,Robert Stephenson,308,0.8,0.8
+544,3,CON,Conservative,Nadhim Zahawi,33343,60.6,-2.3
+544,3,LD,Liberal Democrat,Dominic Skinner,13371,24.3,12.4
+544,3,LAB,Labour,Felix Ling,6222,11.3,-10.6
+544,3,GRN,Green,Dave Passingham,2112,3.8,1.3
+545,3,LAB,Labour,Bell Ribeiro-Addy,30976,54.8,-13.7
+545,3,LD,Liberal Democrat,Helen Thompson,13286,23.5,17.0
+545,3,CON,Conservative,Rory O&#39;Broin,9060,16.0,-5.3
+545,3,GRN,Green,Scott Ainslie,2567,4.5,1.5
+545,3,BRX,The Brexit Party,Penelope Becker,624,1.1,1.1
+546,3,LAB,Labour,Kate Green,30195,60.3,-6.5
+546,3,CON,Conservative,Mussadak Mirza,13778,27.5,0.0
+546,3,LD,Liberal Democrat,Anna Fryer,2969,5.9,3.9
+546,3,BRX,The Brexit Party,Gary Powell,1768,3.5,3.5
+546,3,GRN,Green,Jane Leicester,1357,2.7,1.4
+547,3,CON,Conservative,Siobhan Baillie,31582,47.9,2.0
+547,3,LAB,Labour,David Drew,27742,42.1,-4.9
+547,3,GRN,Green,Molly Scott Cato,4954,7.5,5.3
+547,3,BRX,The Brexit Party,Desi Latimer,1085,1.6,1.6
+547,3,LBT,Libertarian,Glenville Gogerly,567,0.9,0.9
+548,3,CON,Conservative,Dan Poulter,35253,62.7,2.5
+548,3,LAB,Labour,Emma Bonner-Morgan,11862,21.1,-8.6
+548,3,LD,Liberal Democrat,James Sandbach,6485,11.5,7.2
+548,3,GRN,Green,Daniel Pratt,2650,4.7,1.8
+549,3,CON,Conservative,Therese Coffey,32958,56.5,-1.5
+549,3,LAB,Labour,Cameron Matthews,12425,21.3,-9.2
+549,3,LD,Liberal Democrat,Jules Ewart,8719,15.0,8.0
+549,3,GRN,Green,Rachel Smith-Lyte,2713,4.7,1.5
+549,3,IND,Independent,Tony Love,1493,2.6,2.6
+550,3,CON,Conservative,James Cartlidge,33270,62.2,1.7
+550,3,LAB,Labour,Elizabeth Hughes,10373,19.4,-8.4
+550,3,LD,Liberal Democrat,David Beavan,6702,12.5,6.7
+550,3,GRN,Green,Robert Lindsay,3144,5.9,2.7
+551,3,CON,Conservative,Matt Hancock,33842,65.8,4.6
+551,3,LAB,Labour,Claire Unwin,10648,20.7,-7.5
+551,3,LD,Liberal Democrat,Elfreda Tealby-Watson,4685,9.1,4.9
+551,3,GRN,Green,Donald Allwright,2262,4.4,2.6
+552,3,LAB,Labour,Julie Elliott,18336,42.2,-13.4
+552,3,CON,Conservative,Tom D&#39;Silva,15372,35.4,2.0
+552,3,BRX,The Brexit Party,Viral Parikh,5047,11.6,11.6
+552,3,LD,Liberal Democrat,Niall Hodson,3025,7.0,3.0
+552,3,GRN,Green,Rachel Featherstone,1212,2.8,1.2
+552,3,IND,Independent,Dale McKenzie,484,1.1,1.1
+553,3,CON,Conservative,Claire Coutinho,35624,59.7,0.0
+553,3,LD,Liberal Democrat,Alex Ehmann,11584,19.4,8.9
+553,3,LAB,Labour,Frances Rehal,8247,13.8,-5.4
+553,3,GRN,Green,Joseph Booton,2340,3.9,2.1
+553,3,IND,Independent,Helena Windsor,1374,2.3,2.3
+553,3,MRLP,Monster Raving Loony Party,Martin Hogbin,521,0.9,0.9
+554,3,CON,Conservative,Michael Gove,34358,58.6,-5.6
+554,3,LD,Liberal Democrat,Alasdair Pinkerton,16009,27.3,16.4
+554,3,LAB,Labour,Brahma Mohanty,5407,9.2,-11.8
+554,3,GRN,Green,Sharon Galliford,2252,3.8,-0.1
+554,3,UKIP,UKIP,David Roe,628,1.1,1.1
+555,3,CON,Conservative,Jeremy Hunt,32191,53.3,-2.4
+555,3,LD,Liberal Democrat,Paul Follows,23374,38.7,28.9
+555,3,LAB,Labour,Tim Corry,4775,7.9,-4.7
+556,3,CON,Conservative,Mims Davies,33455,53.3,-3.6
+556,3,LD,Liberal Democrat,Robert Eggleston,15258,24.3,11.6
+556,3,LAB,Labour,Gemma Bolton,11218,17.9,-7.1
+556,3,GRN,Green,Deanna Nicholson,2234,3.6,1.0
+556,3,MRLP,Monster Raving Loony Party,Baron Von Thunderclap,550,0.9,0.1
+556,3,ADV,Advance Together,Brett Mortensen,47,0.1,0.1
+557,3,CON,Conservative,Paul Scully,25235,50.0,-1.1
+557,3,LD,Liberal Democrat,Hina Bokhari,16884,33.4,6.8
+557,3,LAB,Labour,Bonnie Craven,7200,14.3,-6.3
+557,3,GRN,Green,Claire Jackson-Prior,1168,2.3,0.6
+558,3,CON,Conservative,Andrew Mitchell,31604,60.4,-0.6
+558,3,LAB,Labour,David Knowles,12332,23.6,-8.4
+558,3,LD,Liberal Democrat,Jenny Wilkinson,6358,12.2,7.8
+558,3,GRN,Green,Ben Auton,2031,3.9,2.1
+559,3,LAB,Labour,Carolyn Harris,17405,51.8,-11.6
+559,3,CON,Conservative,Denise Howard,9435,28.1,2.1
+559,3,BRX,The Brexit Party,Tony Willicombe,2842,8.5,8.5
+559,3,PC,Plaid Cymru,Geraint Havard,1905,5.7,0.9
+559,3,LD,Liberal Democrat,Chloe Hutchinson,1409,4.2,2.4
+559,3,GRN,Green,Chris Evans,583,1.7,0.7
+560,3,LAB,Labour,Geraint Davies,18493,51.6,-8.1
+560,3,CON,Conservative,James Price,10377,29.0,-2.4
+560,3,LD,Liberal Democrat,Michael O&#39;Carroll,2993,8.4,4.9
+560,3,PC,Plaid Cymru,Gwyn Williams,1984,5.5,1.4
+560,3,BRX,The Brexit Party,Peter Hopkins,1983,5.5,5.5
+561,3,CON,Conservative,Justin Tomlinson,32584,59.1,5.5
+561,3,LAB,Labour,Kate Linnegar,16413,29.8,-8.6
+561,3,LD,Liberal Democrat,Katie Critchlow,4408,8.0,4.4
+561,3,GRN,Green,Andy Bentley,1710,3.1,1.5
+562,3,CON,Conservative,Robert Buckland,26536,52.3,3.9
+562,3,LAB,Labour,Sarah Church,19911,39.2,-4.3
+562,3,LD,Liberal Democrat,Stan Pajak,4299,8.5,4.4
+563,3,CON,Conservative,Christopher Pincher,30542,66.3,5.3
+563,3,LAB,Labour,Christopher Bain,10908,23.7,-11.1
+563,3,LD,Liberal Democrat,Rob Wheway,2426,5.3,1.1
+563,3,GRN,Green,Andrew Tilley,935,2.0,2.0
+563,3,UKIP,UKIP,Robert Bilcliff,814,1.8,1.8
+563,3,IND,Independent,John Wright,431,0.9,0.9
+564,3,CON,Conservative,Esther McVey,28277,57.7,-0.8
+564,3,LAB,Labour,James Weinberg,10890,22.2,-6.2
+564,3,LD,Liberal Democrat,Jonathan Smith,7712,15.7,6.7
+564,3,GRN,Green,Nigel Hennerley,2088,4.3,2.2
+565,3,CON,Conservative,Rebecca Pow,34164,53.6,0.7
+565,3,LD,Liberal Democrat,Gideon Amos,22464,35.2,7.6
+565,3,LAB,Labour,Liam Canham,4715,7.4,-8.0
+565,3,IND,Independent,John Hunt,2390,3.8,3.8
+566,3,CON,Conservative,Lucy Allan,25546,59.7,10.9
+566,3,LAB,Labour,Katrina Gilman,14605,34.1,-13.0
+566,3,LD,Liberal Democrat,Shana Roberts,2674,6.2,4.1
+567,3,CON,Conservative,Laurence Robertson,35728,58.4,-1.6
+567,3,LD,Liberal Democrat,Alex Hegenbarth,13318,21.8,8.3
+567,3,LAB,Labour,Lara Chaplin,9310,15.2,-6.6
+567,3,GRN,Green,Cate Cody,2784,4.6,1.9
+568,3,CON,Conservative,Roger Gale,30066,62.4,6.2
+568,3,LAB,Labour,Coral Jones,12877,26.7,-7.3
+568,3,LD,Liberal Democrat,Angie Curwen,3439,7.1,3.9
+568,3,GRN,Green,Rob Edwards,1796,3.7,2.0
+569,3,CON,Conservative,Craig Mackinlay,27084,56.1,5.3
+569,3,LAB,Labour,Rebecca Gordon-Nesbitt,16497,34.2,-3.8
+569,3,LD,Liberal Democrat,Martyn Pennington,2727,5.7,2.6
+569,3,GRN,Green,Becky Wing,1949,4.0,2.4
+570,3,CON,Conservative,Kevin Hollinrake,35634,63.0,2.9
+570,3,LAB,Labour,David Yellen,10480,18.5,-7.5
+570,3,LD,Liberal Democrat,Dinah Keal,6774,12.0,5.1
+570,3,GRN,Green,Martin Brampton,2263,4.0,2.0
+570,3,YRKS,The Yorkshire Party,John Hall,881,1.6,1.6
+570,3,IND,Independent,Steve Mullins,245,0.4,0.4
+570,3,IND,Independent,Gordon Johnson,184,0.3,0.3
+570,3,SDP,Social Democratic Party,Michael Taylor,127,0.2,0.2
+571,3,CON,Conservative,Luke Hall,30202,57.8,2.6
+571,3,LD,Liberal Democrat,Claire Young,17833,34.1,2.7
+571,3,LAB,Labour,Rob Logan,4208,8.1,-4.0
+572,3,CON,Conservative,Jackie Doyle-Price,27795,58.6,19.1
+572,3,LAB,Labour,John Kent,16313,34.4,-4.5
+572,3,LD,Liberal Democrat,Stewart Stone,1510,3.2,1.6
+572,3,IND,Independent,James Woollard,1042,2.2,2.2
+572,3,GRN,Green,Ben Harvey,807,1.7,1.7
+573,3,CON,Conservative,Neil Parish,35893,60.2,-1.1
+573,3,LAB,Labour,Liz Pole,11654,19.5,-7.6
+573,3,LD,Liberal Democrat,John Timperley,8807,14.8,6.7
+573,3,GRN,Green,Colin Reed,2291,3.8,0.3
+573,3,UKIP,UKIP,Margaret Dennis,968,1.6,1.6
+574,3,CON,Conservative,Tom Tugendhat,35784,62.8,-0.9
+574,3,LD,Liberal Democrat,Richard Morris,8843,15.5,8.9
+574,3,LAB,Labour,Dylan Jones,8286,14.5,-7.8
+574,3,GRN,Green,April Clark,4090,7.2,3.1
+575,3,LAB,Labour,Rosena Allin-Khan,30811,52.7,-6.9
+575,3,CON,Conservative,Kerry Briscoe,16504,28.2,-4.8
+575,3,LD,Liberal Democrat,Olly Glover,8305,14.2,8.9
+575,3,GRN,Green,Glyn Goodwin,2314,4.0,2.5
+575,3,BRX,The Brexit Party,Adam Shakir,462,0.8,0.8
+575,3,SDP,Social Democratic Party,Roz Hubley,77,0.1,0.1
+576,3,CON,Conservative,Kevin Foster,29863,59.2,6.2
+576,3,LD,Liberal Democrat,Lee Howgate,12114,24.0,-1.1
+576,3,LAB,Labour,Michele Middleditch,6562,13.0,-5.2
+576,3,GRN,Green,Sam Moss,1239,2.5,1.2
+576,3,IND,Independent,James Channer,648,1.3,1.3
+577,3,LAB,Labour,Nick Thomas-Symonds,15546,41.8,-15.8
+577,3,CON,Conservative,Graham Smith,11804,31.8,0.8
+577,3,BRX,The Brexit Party,David Thomas,5742,15.4,15.4
+577,3,LD,Liberal Democrat,John Miller,1831,4.9,2.7
+577,3,PC,Plaid Cymru,Morgan Bowler-Brown,1441,3.9,-1.5
+577,3,GRN,Green,Andrew Heygate-Browne,812,2.2,2.2
+578,3,CON,Conservative,Anthony Mangnall,27751,53.2,-0.5
+578,3,LD,Liberal Democrat,Sarah Wollaston,15027,28.8,15.9
+578,3,LAB,Labour,Louise Webberley,8860,17.0,-9.9
+578,3,IND,Independent,John Kitson,544,1.0,1.0
+579,3,LAB,Labour,David Lammy,35621,76.0,-5.6
+579,3,CON,Conservative,James Newhall,5446,11.6,0.1
+579,3,LD,Liberal Democrat,Tammy Palmer,3168,6.8,3.3
+579,3,GRN,Green,Emma Chan,1873,4.0,1.4
+579,3,BRX,The Brexit Party,Abdul Turay,527,1.1,1.1
+579,3,SDP,Social Democratic Party,Andrew Bence,91,0.2,0.2
+579,3,WRP,Workers Revolutionary Party,Frank Sweeney,88,0.2,0.2
+579,3,CLGB,Communist League,Jonathan Silberman,42,0.1,0.1
+580,3,CON,Conservative,Cherilyn Mackrory,27237,46.0,1.7
+580,3,LAB,Labour,Jennifer Forbes,22676,38.3,0.7
+580,3,LD,Liberal Democrat,Ruth Gripper,7150,12.1,-2.9
+580,3,GRN,Green,Tom Scott,1714,2.9,1.4
+580,3,LIB,Liberal Party,Paul Nicholson,413,0.7,0.7
+581,3,CON,Conservative,Greg Clark,30119,55.1,-1.8
+581,3,LD,Liberal Democrat,Ben Chapelard,15474,28.3,18.4
+581,3,LAB,Labour,Antonio Weiss,8098,14.8,-11.7
+581,3,IND,Independent,Christopher Camp,488,0.9,0.9
+581,3,IND,Independent,Nigel Peacock,471,0.9,0.9
+582,3,LD,Liberal Democrat,Munira Wilson,36166,56.1,3.3
+582,3,CON,Conservative,Isobel Grant,22045,34.2,-3.8
+582,3,LAB,Labour,Ranjeev Walia,5476,8.5,-0.7
+582,3,BRX,The Brexit Party,Stuart Wells,816,1.3,1.3
+583,3,LAB,Labour,Alan Campbell,26928,48.1,-8.9
+583,3,CON,Conservative,Lewis Bartoli,22071,39.4,2.9
+583,3,LD,Liberal Democrat,John Appleby,3791,6.8,3.7
+583,3,BRX,The Brexit Party,Ed Punchard,1963,3.5,3.5
+583,3,GRN,Green,Julia Erskine,1281,2.3,1.2
+584,3,LAB,Labour,Mary Glindon,25051,49.7,-14.8
+584,3,CON,Conservative,Dean Carroll,15490,30.7,3.4
+584,3,BRX,The Brexit Party,Andrew Husband,5254,10.4,10.4
+584,3,LD,Liberal Democrat,Chris Boyle,3241,6.4,3.5
+584,3,GRN,Green,John Buttery,1393,2.8,1.5
+585,3,DUP,Democratic Unionist Party,Carla Lockhart,20501,41.0,-2.6
+585,3,SF,Sinn Féin,John O&#39;Dowd,12291,24.6,-3.4
+585,3,APNI,Alliance Party,Eóin Tennyson,6433,12.9,8.3
+585,3,UUP,Ulster Unionist Party,Doug Beattie,6197,12.4,-3.0
+585,3,SDLP,Social Democratic &amp; Labour Party,Dolores Kelly,4623,9.2,0.7
+586,3,CON,Conservative,Boris Johnson,25351,52.6,1.8
+586,3,LAB,Labour,Ali Milani,18141,37.6,-2.4
+586,3,LD,Liberal Democrat,Joanne Humphreys,3026,6.3,2.3
+586,3,GRN,Green,Mark Keir,1090,2.3,0.4
+586,3,UKIP,UKIP,Geoffrey Courtenay,283,0.6,-2.8
+586,3,MRLP,Monster Raving Loony Party,Lord Buckethead,125,0.3,0.3
+586,3,IND,Independent,Count Binface,69,0.1,0.1
+586,3,IND,Independent,Alfie Utting,44,0.1,0.1
+586,3,IND,Independent,Yace Yogenstein,23,0.0,0.0
+586,3,IND,Independent,Norma Burke,22,0.0,0.0
+586,3,IND,Independent,Bobby Elmo Smith,8,0.0,0.0
+586,3,IND,Independent,William Tobin,5,0.0,0.0
+587,3,CON,Conservative,James Davies,17270,46.4,2.3
+587,3,LAB,Labour,Chris Ruane,15443,41.5,-8.7
+587,3,PC,Plaid Cymru,Glenn Swingler,1552,4.2,0.2
+587,3,BRX,The Brexit Party,Peter Dain,1477,4.0,4.0
+587,3,LD,Liberal Democrat,Gavin Scott,1471,4.0,2.2
+588,3,CON,Conservative,Alun Cairns,27305,49.8,2.3
+588,3,LAB,Labour,Belinda Loveluck-Edwards,23743,43.3,-0.1
+588,3,GRN,Green,Anthony Slaughter,3251,5.9,5.2
+588,3,GWLD,Gwlad Gwlad,Laurence Williams,508,0.9,0.9
+589,3,LAB,Labour,Florence Eshalomi,31615,56.1,-1.2
+589,3,LD,Liberal Democrat,Sarah Lewis,12003,21.3,0.7
+589,3,CON,Conservative,Sarah Bool,9422,16.7,-1.9
+589,3,GRN,Green,Jacqueline Bond,2516,4.5,2.4
+589,3,BRX,The Brexit Party,Andrew McGuinness,641,1.1,1.1
+589,3,IND,Independent,Salah Faissal,136,0.2,0.2
+590,3,CON,Conservative,Imran Ahmad-Khan,21283,47.3,2.3
+590,3,LAB,Labour,Mary Creagh,17925,39.8,-9.9
+590,3,BRX,The Brexit Party,Peter Wiltshire,2725,6.1,6.1
+590,3,LD,Liberal Democrat,Jamie Needle,1772,3.9,1.9
+590,3,YRKS,The Yorkshire Party,Ryan Kett,868,1.9,-0.6
+590,3,IND,Independent,Stephen Whyte,454,1.0,1.0
+591,3,LAB,Labour,Angela Eagle,29901,64.3,-7.1
+591,3,CON,Conservative,James Baker,11579,24.9,1.7
+591,3,BRX,The Brexit Party,Martin York,2037,4.4,4.4
+591,3,LD,Liberal Democrat,Vicky Downie,1843,4.0,2.4
+591,3,GRN,Green,Lily Clough,1132,2.4,1.1
+592,3,CON,Conservative,Eddie Hughes,23334,63.8,14.2
+592,3,LAB,Labour,Gill Ogilvie,11369,31.1,-11.7
+592,3,LD,Liberal Democrat,Jennifer Gray,1236,3.4,1.8
+592,3,GRN,Green,Mark Wilson,617,1.7,1.7
+593,3,LAB,Labour,Valerie Vaz,20872,49.1,-8.2
+593,3,CON,Conservative,Gurjit Bains,17416,41.0,3.8
+593,3,BRX,The Brexit Party,Gary Hughes,1660,3.9,3.9
+593,3,LD,Liberal Democrat,Paul Harris,1602,3.8,2.4
+593,3,GRN,Green,John Macefield,634,1.5,1.5
+593,3,IND,Independent,Akheil Mehboob,288,0.7,0.7
+594,3,LAB,Labour,Stella Creasy,36784,76.1,-4.5
+594,3,CON,Conservative,Shade Adoh,5922,12.3,-1.8
+594,3,LD,Liberal Democrat,Meera Chadha,2874,5.9,3.1
+594,3,GRN,Green,Andrew Johns,1733,3.6,1.1
+594,3,BRX,The Brexit Party,Paul Campbell,768,1.6,1.6
+594,3,CPA,Christian Peoples Alliance,Deborah Longe,254,0.5,0.5
+595,3,LAB,Labour,Ian Lavery,17124,42.3,-15.1
+595,3,CON,Conservative,Jack Gebhard,16310,40.3,7.5
+595,3,BRX,The Brexit Party,Eden Webley,3141,7.8,7.8
+595,3,LD,Liberal Democrat,Stephen Psallidas,2539,6.3,1.5
+595,3,GRN,Green,Steve Leyland,1217,3.0,1.3
+595,3,CPA,Christian Peoples Alliance,Michael Flynn,178,0.4,0.4
+596,3,CON,Conservative,David Johnston,34085,50.7,-3.4
+596,3,LD,Liberal Democrat,Richard Benwell,21432,31.9,17.4
+596,3,LAB,Labour,Jonny Roberts,10181,15.2,-11.7
+596,3,IND,Independent,Mark Gray,1475,2.2,2.2
+597,3,LAB,Labour,John Spellar,21901,58.8,-8.4
+597,3,CON,Conservative,Chandra Kanneganti,10390,27.9,1.7
+597,3,BRX,The Brexit Party,Michael Cooper,2469,6.6,6.6
+597,3,LD,Liberal Democrat,Bryan Manley-Green,1588,4.3,2.3
+597,3,GRN,Green,Kathryn Downs,891,2.4,1.0
+598,3,LAB,Labour,Charlotte Nichols,20611,44.2,-12.2
+598,3,CON,Conservative,Wendy Maisey,19102,40.9,4.3
+598,3,LD,Liberal Democrat,David Crowther,3071,6.6,4.1
+598,3,BRX,The Brexit Party,Elizabeth Babade,2626,5.6,5.6
+598,3,GRN,Green,Lyndsay McAteer,1257,2.7,1.4
+599,3,CON,Conservative,Andy Carter,28187,45.5,1.3
+599,3,LAB,Labour,Faisal Rashid,26177,42.3,-6.1
+599,3,LD,Liberal Democrat,Ryan Bate,5732,9.3,3.9
+599,3,BRX,The Brexit Party,Clare Aspinall,1635,2.6,2.6
+599,3,SDP,Social Democratic Party,Kevin Hickson,168,0.3,0.3
+600,3,LAB,Labour,Matt Western,23718,43.8,-2.9
+600,3,CON,Conservative,Jack Rankin,22929,42.3,-2.1
+600,3,LD,Liberal Democrat,Louis Adam,4995,9.2,4.0
+600,3,GRN,Green,Jonathan Chilvers,1536,2.8,0.6
+600,3,BRX,The Brexit Party,Tim Griffiths,807,1.5,1.5
+600,3,IND,Independent,Bob Dhillon,153,0.3,0.3
+600,3,SDP,Social Democratic Party,Xander Bennett,67,0.1,0.1
+601,3,CON,Conservative,Craig Tracey,30249,65.9,8.9
+601,3,LAB,Labour,Claire Breeze,12293,26.8,-12.1
+601,3,LD,Liberal Democrat,Richard Whelan,2069,4.5,2.3
+601,3,GRN,Green,James Platt,1303,2.8,0.8
+602,3,LAB,Labour,Sharon Hodgson,15941,42.5,-18.2
+602,3,CON,Conservative,Valerie Allen,12218,32.6,3.7
+602,3,BRX,The Brexit Party,Howard Brown,5439,14.5,14.5
+602,3,LD,Liberal Democrat,Carlton West,2071,5.5,3.2
+602,3,GRN,Green,Michal Chantkowski,1005,2.7,1.4
+602,3,UKIP,UKIP,Keith Jenkins,839,2.2,-4.6
+603,3,CON,Conservative,Dean Russell,26421,45.5,-0.1
+603,3,LAB,Labour,Chris Ostrowski,21988,37.9,-4.2
+603,3,LD,Liberal Democrat,Ian Stotesbury,9323,16.1,7.0
+603,3,SDP,Social Democratic Party,Michael McGetrick,333,0.6,0.6
+604,3,CON,Conservative,Peter Aldous,31778,62.2,7.8
+604,3,LAB,Labour,Sonia Barker,13776,26.9,-9.9
+604,3,GRN,Green,Elfrede Brambley-Crawshaw,2727,5.3,2.8
+604,3,LD,Liberal Democrat,Helen Korfanty,2603,5.1,3.2
+604,3,CPA,Christian Peoples Alliance,Dave Brennan,245,0.5,0.5
+605,3,CON,Conservative,Nus Ghani,37043,60.8,-0.4
+605,3,LD,Liberal Democrat,Chris Bowers,11388,18.7,8.3
+605,3,LAB,Labour,Angie Smith,9377,15.4,-6.8
+605,3,GRN,Green,Georgia Taylor,3099,5.1,1.8
+606,3,LAB,Labour,Mike Amesbury,22772,44.9,-6.6
+606,3,CON,Conservative,Adam Wordsworth,22210,43.8,0.1
+606,3,LD,Liberal Democrat,Daniela Parker,3300,6.5,3.3
+606,3,BRX,The Brexit Party,Nicholas Goulding,1380,2.7,2.7
+606,3,GRN,Green,Paul Bowers,1051,2.1,0.5
+607,3,CON,Conservative,Peter Bone,32277,62.2,4.7
+607,3,LAB,Labour,Andrea Watts,13737,26.5,-7.6
+607,3,LD,Liberal Democrat,Suzanna Austin,4078,7.9,4.5
+607,3,GRN,Green,Marion Turner-Hawes,1821,3.5,1.7
+608,3,CON,Conservative,James Heappey,33336,54.1,4.0
+608,3,LD,Liberal Democrat,Tessa Munt,23345,37.9,0.3
+608,3,LAB,Labour,Kama McKenzie,4304,7.0,-4.7
+608,3,IND,Independent,Dave Dobbs,373,0.6,0.6
+608,3,MTHR,Motherworld Party,Susie Quatermass,270,0.4,0.4
+609,3,CON,Conservative,Grant Shapps,27394,52.6,1.6
+609,3,LAB,Labour,Rosie Newbigging,16439,31.6,-5.2
+609,3,LD,Liberal Democrat,Paul Zukowskyj,6602,12.7,5.3
+609,3,GRN,Green,Oliver Sayers,1618,3.1,1.5
+610,3,LAB,Labour,John Healey,16742,40.3,-24.7
+610,3,CON,Conservative,Emily Barley,14577,35.1,3.8
+610,3,BRX,The Brexit Party,Stephen Cavell,7019,16.9,16.9
+610,3,LD,Liberal Democrat,Janice Middleton,1705,4.1,0.3
+610,3,YRKS,The Yorkshire Party,Lucy Brown,1201,2.9,2.9
+610,3,SDP,Social Democratic Party,David Bettney,313,0.8,0.8
+611,3,CON,Conservative,Nicola Richards,16804,46.7,8.5
+611,3,LAB,Labour,Ibrahim Dogus,15211,42.3,-15.7
+611,3,BRX,The Brexit Party,Christian Lucas,1475,4.1,4.1
+611,3,LD,Liberal Democrat,Andy Graham,1313,3.6,2.1
+611,3,GRN,Green,Mark Redding,627,1.7,0.4
+611,3,IND,Independent,George Galloway,489,1.4,1.4
+611,3,YESH,Yeshua,Colin Rankine,56,0.2,0.2
+612,3,CON,Conservative,Shaun Bailey,17419,50.5,10.9
+612,3,LAB,Labour,James Cunningham,13620,39.5,-12.5
+612,3,BRX,The Brexit Party,Franco D&#39;Aulerio,1841,5.3,5.3
+612,3,LD,Liberal Democrat,Flo Clucas,915,2.7,1.7
+612,3,GRN,Green,Keir Williams,664,1.9,1.0
+613,3,LAB,Labour,Lyn Brown,42181,70.1,-6.7
+613,3,CON,Conservative,Sara Kumar,9793,16.3,0.1
+613,3,LD,Liberal Democrat,Eimear O&#39;Casey,4161,6.9,3.9
+613,3,GRN,Green,Danny Keeling,1780,3.0,1.4
+613,3,BRX,The Brexit Party,Emma Stockdale,1679,2.8,2.8
+613,3,CPA,Christian Peoples Alliance,Paul Jobson,463,0.8,0.2
+613,3,CMU,Communities United,Humera Kamran,143,0.2,0.2
+614,3,SF,Sinn Féin,Órfhlaith Begley,16544,40.2,-10.6
+614,3,DUP,Democratic Unionist Party,Thomas Buchanan,9066,22.0,-4.9
+614,3,SDLP,Social Democratic &amp; Labour Party,Daniel McCrossan,7330,17.8,4.8
+614,3,APNI,Alliance Party,Stephen Donnelly,3979,9.7,7.4
+614,3,UUP,Ulster Unionist Party,Andy McKane,2774,6.7,1.6
+614,3,AONT,Aontú,James Hope,972,2.4,2.4
+614,3,GRN,Green,Susan Glass,521,1.3,0.3
+615,3,LAB,Labour,Karen Buck,23240,54.2,-5.7
+615,3,CON,Conservative,Jamie Macfarlane,12481,29.1,-4.2
+615,3,LD,Liberal Democrat,George Lee,5593,13.0,7.8
+615,3,GRN,Green,Holly Robinson,1064,2.5,1.1
+615,3,BRX,The Brexit Party,Cyrus Parvin,418,1.0,1.0
+615,3,CPA,Christian Peoples Alliance,Gabriela Fajardo Palacios,115,0.3,0.3
+616,3,LD,Liberal Democrat,Tim Farron,25795,48.9,3.1
+616,3,CON,Conservative,James Airey,23861,45.3,0.9
+616,3,LAB,Labour,Phillip Black,2293,4.4,-4.9
+616,3,BRX,The Brexit Party,Steven Bolton,763,1.4,1.4
+617,3,CON,Conservative,John Penrose,31983,57.5,4.4
+617,3,LAB,Labour,Tim Taylor,14862,26.7,-6.0
+617,3,LD,Liberal Democrat,Patrick Keating,6935,12.5,3.3
+617,3,GRN,Green,Suneil Basu,1834,3.3,1.7
+618,3,LAB,Labour,Lisa Nandy,21042,46.7,-15.5
+618,3,CON,Conservative,Ashley Williams,14314,31.8,3.3
+618,3,BRX,The Brexit Party,William Malloy,5959,13.2,13.2
+618,3,LD,Liberal Democrat,Stuart Thomas,2428,5.4,3.5
+618,3,GRN,Green,Peter Jacobs,1299,2.9,1.3
+619,3,CON,Conservative,James Gray,32373,59.1,-1.2
+619,3,LD,Liberal Democrat,Brian Mathew,14747,26.9,9.2
+619,3,LAB,Labour,Jon Fisher,5699,10.4,-7.1
+619,3,GRN,Green,Bonnie Jackson,1939,3.5,1.4
+620,3,CON,Conservative,Andrew Murrison,33038,60.2,0.2
+620,3,LAB,Labour,Emily Pomroy-Smith,11408,20.8,-5.7
+620,3,LD,Liberal Democrat,Ellen Nicholson,8015,14.6,4.8
+620,3,GRN,Green,Julie Phillips,2434,4.4,1.8
+621,3,CON,Conservative,Stephen Hammond,20373,38.4,-8.1
+621,3,LD,Liberal Democrat,Paul Kohler,19745,37.2,22.7
+621,3,LAB,Labour,Jackie Schneider,12543,23.7,-11.9
+621,3,IND,Independent,Graham Hadley,366,0.7,0.7
+622,3,CON,Conservative,Steve Brine,28430,48.3,-3.7
+622,3,LD,Liberal Democrat,Paula Ferguson,27445,46.6,12.1
+622,3,LAB,Labour,George Baker,2723,4.6,-5.9
+622,3,JACP,Justice &amp; Anti-Corruption Party [The],Teresa Skelton,292,0.5,0.2
+623,3,CON,Conservative,Adam Afriyie,31501,58.6,-5.8
+623,3,LD,Liberal Democrat,Julian Tisi,11422,21.3,11.2
+623,3,LAB,Labour,Peter Shearman,8147,15.2,-7.7
+623,3,GRN,Green,Fintan McKeown,1796,3.3,0.7
+623,3,IND,Independent,David Buckley,508,0.9,0.9
+623,3,IND,Independent,Wisdom Da Costa,376,0.7,0.7
+624,3,LAB,Labour,Alison McGovern,22284,51.2,-6.1
+624,3,CON,Conservative,Stewart Gardiner,16179,37.2,-1.7
+624,3,LD,Liberal Democrat,Christopher Carubia,2917,6.7,3.8
+624,3,BRX,The Brexit Party,Martin Waring,1219,2.8,2.8
+624,3,GRN,Green,Harry Gorman,948,2.2,1.2
+625,3,LAB,Labour,Margaret Greenwood,20695,48.2,-6.1
+625,3,CON,Conservative,Laura Evans,17692,41.2,-0.9
+625,3,LD,Liberal Democrat,Andy Corkhill,2706,6.3,3.7
+625,3,GRN,Green,John Coyne,965,2.2,1.3
+625,3,BRX,The Brexit Party,John Kelly,860,2.0,2.0
+626,3,CON,Conservative,Priti Patel,32876,66.6,2.3
+626,3,LAB,Labour,Martin Edobor,8794,17.8,-8.6
+626,3,LD,Liberal Democrat,Sam North,4584,9.3,3.8
+626,3,GRN,Green,James Abbott,3090,6.3,2.5
+627,3,CON,Conservative,Robert Courts,33856,55.2,-0.3
+627,3,LD,Liberal Democrat,Charlotte Hoagland,18679,30.5,10.0
+627,3,LAB,Labour,Rosa Bolger,8770,14.3,-6.4
+628,3,CON,Conservative,Jonathan Lord,26396,48.9,-5.2
+628,3,LD,Liberal Democrat,Will Forster,16629,30.8,13.3
+628,3,LAB,Labour,Gerry Mitchell,8827,16.4,-7.5
+628,3,GRN,Green,Ella Walding,1485,2.8,0.8
+628,3,UKIP,UKIP,Troy De Leon,600,1.1,-1.0
+629,3,CON,Conservative,John Redwood,30734,49.6,-7.1
+629,3,LD,Liberal Democrat,Phillip Lee,23351,37.7,21.7
+629,3,LAB,Labour,Annette Medhurst,6450,10.4,-14.7
+629,3,GRN,Green,Kizzi Johannessen,1382,2.2,-0.1
+629,3,ADV,Advance Together,Annabel Mullin,80,0.1,0.1
+630,3,CON,Conservative,Jane Stevenson,17722,51.7,11.4
+630,3,LAB,Labour,Emma Reynolds,13642,39.8,-13.0
+630,3,BRX,The Brexit Party,Vishal Khatri,1354,3.9,3.9
+630,3,LD,Liberal Democrat,Richard Maxwell,960,2.8,1.2
+630,3,GRN,Green,Andrea Cantrill,603,1.8,0.4
+631,3,LAB,Labour,Pat McFadden,15522,46.4,-11.8
+631,3,CON,Conservative,Ahmed Ejaz,14287,42.7,8.0
+631,3,BRX,The Brexit Party,Raj Chaggar,2094,6.3,6.3
+631,3,LD,Liberal Democrat,Ruth Coleman-Taylor,1019,3.0,1.8
+631,3,GRN,Green,Kathryn Gilbert,521,1.6,0.4
+632,3,CON,Conservative,Stuart Anderson,19864,48.3,4.1
+632,3,LAB,Labour,Eleanor Smith,18203,44.3,-5.1
+632,3,LD,Liberal Democrat,Bart Ricketts,2041,5.0,3.1
+632,3,BRX,The Brexit Party,Leo Grandison,1028,2.5,2.5
+633,3,CON,Conservative,Robin Walker,25856,50.8,2.7
+633,3,LAB,Labour,Lynn Denham,19098,37.5,-5.7
+633,3,LD,Liberal Democrat,Stephen Kearney,3666,7.2,3.8
+633,3,GRN,Green,Louis Stephen,1694,3.3,1.0
+633,3,IND,Independent,Martin Potter,584,1.1,1.1
+634,3,CON,Conservative,Nigel Huddleston,37426,66.7,1.4
+634,3,LAB,Labour,Helen Russell,9408,16.8,-6.2
+634,3,LD,Liberal Democrat,Margaret Rowley,6474,11.5,5.3
+634,3,GRN,Green,Sue Howarth,2177,3.9,1.4
+634,3,MRLP,Monster Raving Loony Party,Barmy Brockman,638,1.1,1.1
+635,3,CON,Conservative,Harriett Baldwin,34909,60.7,-0.8
+635,3,LD,Liberal Democrat,Beverley Nielsen,10410,18.1,8.7
+635,3,LAB,Labour,Samantha Charles,9496,16.5,-7.2
+635,3,GRN,Green,Martin Allen,2715,4.7,1.9
+636,3,CON,Conservative,Mark Jenkinson,20488,49.3,7.5
+636,3,LAB,Labour,Sue Hayman,16312,39.2,-11.9
+636,3,BRX,The Brexit Party,David Walker,1749,4.2,4.2
+636,3,LD,Liberal Democrat,Neil Hughes,1525,3.7,0.9
+636,3,IND,Independent,Nicky Cockburn,842,2.0,2.0
+636,3,GRN,Green,Jill Perry,596,1.4,1.4
+636,3,IND,Independent,Roy Ivinson,87,0.2,0.2
+637,3,LAB,Labour,Barbara Keeley,20446,45.7,-11.3
+637,3,CON,Conservative,Arnie Saunders,17227,38.5,-0.2
+637,3,BRX,The Brexit Party,Seamus Martin,3224,7.2,7.2
+637,3,LD,Liberal Democrat,Joe Johnson-Tod,2510,5.6,3.2
+637,3,GRN,Green,Daniel Towers,1300,2.9,1.1
+638,3,CON,Conservative,Tim Loughton,27107,51.0,2.1
+638,3,LAB,Labour,Lavinia O&#39;Connor,19633,37.0,-2.3
+638,3,LD,Liberal Democrat,Ashley Ridley,4127,7.8,3.0
+638,3,GRN,Green,Leslie Groves Williams,2006,3.8,1.4
+638,3,IND,Independent,Sophie Cook,255,0.5,0.5
+639,3,CON,Conservative,Peter Bottomley,30475,55.8,0.4
+639,3,LAB,Labour,Beccy Cooper,15652,28.6,-4.6
+639,3,LD,Liberal Democrat,Jamie Bennett,6024,11.0,5.6
+639,3,GRN,Green,Jo Paul,2008,3.7,0.7
+639,3,IND,Independent,David Aherne,489,0.9,0.9
+640,3,CON,Conservative,Mark Pritchard,31029,63.5,8.0
+640,3,LAB,Labour,Dylan Harrison,12303,25.2,-11.0
+640,3,LD,Liberal Democrat,Thomas Janke,4067,8.3,5.6
+640,3,GRN,Green,Tim Dawes,1491,3.0,1.4
+641,3,CON,Conservative,Sarah Atherton,15199,45.3,1.7
+641,3,LAB,Labour,Mary Wimbury,13068,39.0,-9.9
+641,3,PC,Plaid Cymru,Carrie Harper,2151,6.4,1.4
+641,3,LD,Liberal Democrat,Tim Sly,1447,4.3,1.9
+641,3,BRX,The Brexit Party,Ian Berkeley-Hurst,1222,3.6,3.6
+641,3,GRN,Green,Duncan Rees,445,1.3,1.3
+642,3,CON,Conservative,Steve Baker,24766,45.2,-4.8
+642,3,LAB,Labour,Khalil Ahmed,20552,37.5,-0.2
+642,3,LD,Liberal Democrat,Toni Brodelle,6543,11.9,4.2
+642,3,GRN,Green,Peter Sims,1454,2.7,0.4
+642,3,WY,Wycombe Independents,Julia Wassell,926,1.7,1.7
+642,3,UKIP,UKIP,Vijay Srao,324,0.6,-1.7
+642,3,IND,Independent,Edmund Gemmell,191,0.3,0.3
+643,3,CON,Conservative,Ben Wallace,31589,59.7,1.4
+643,3,LAB,Labour,Joanne Ainscough,14808,28.0,-7.0
+643,3,LD,Liberal Democrat,John Potter,4463,8.4,3.6
+643,3,GRN,Green,Ruth Norbury,1729,3.3,1.4
+643,3,IND,Independent,David Ragozzino,335,0.6,0.6
+644,3,CON,Conservative,Mark Garnier,32960,65.2,6.8
+644,3,LAB,Labour,Robin Lunn,11547,22.8,-9.5
+644,3,LD,Liberal Democrat,Shazu Miah,4081,8.1,4.3
+644,3,GRN,Green,John Davis,1973,3.9,1.9
+645,3,LAB,Labour,Mike Kane,23855,53.3,-8.9
+645,3,CON,Conservative,Peter Harrop,13459,30.1,0.4
+645,3,LD,Liberal Democrat,Simon Lepori,3111,7.0,3.7
+645,3,BRX,The Brexit Party,Julie Fousert,2717,6.1,6.1
+645,3,GRN,Green,Rob Nunney,1559,3.5,2.2
+645,3,CLGB,Communist League,Caroline Bellamy,58,0.1,0.1
+646,3,CON,Conservative,Marcus Fysh,34588,58.4,3.9
+646,3,LD,Liberal Democrat,Mick Clark,18407,31.1,1.4
+646,3,LAB,Labour,Terry Ledlie,3761,6.3,-6.1
+646,3,GRN,Green,Diane Wood,1629,2.7,1.0
+646,3,IND,Independent,Tony Capozzoli,689,1.2,1.2
+646,3,TCRP,The Constitution and Reform Party,Tom Fox,186,0.3,0.3
+647,3,CON,Conservative,Virginia Crosbie,12959,35.5,7.7
+647,3,LAB,Labour,Mary Roberts,10991,30.1,-11.8
+647,3,PC,Plaid Cymru,Aled ap Dafydd,10418,28.5,1.1
+647,3,BRX,The Brexit Party,Helen Jenner,2184,6.0,6.0
+648,3,LAB,Labour,Rachael Maskell,27312,55.2,-10.0
+648,3,CON,Conservative,Fabia Tate,13767,27.8,-2.4
+648,3,LD,Liberal Democrat,James Blanchard,4149,8.4,3.7
+648,3,GRN,Green,Tom Franklin,2107,4.3,4.3
+648,3,BRX,The Brexit Party,Nicholas Szkiler,1479,3.0,3.0
+648,3,YRKS,The Yorkshire Party,Andrew Snedden,557,1.1,1.1
+648,3,SDP,Social Democratic Party,Andrew Dunn,134,0.3,0.3
+649,3,CON,Conservative,Julian Sturdy,27324,49.4,-1.8
+649,3,LAB,Labour,Anna Perrett,17339,31.3,-5.4
+649,3,LD,Liberal Democrat,Keith Aspden,9992,18.1,7.8
+649,3,IND,Independent,Scott Marmion,692,1.3,1.3
+650,3,CON,Conservative,Greg Knight,33988,64.4,6.1
+650,3,LAB,Labour,Catherine Minnis,11201,21.2,-9.2
+650,3,LD,Liberal Democrat,Dale Needham,4219,8.0,4.0
+650,3,YRKS,The Yorkshire Party,Tim Norman,1686,3.2,1.3
+650,3,GRN,Green,Mike Jackson,1675,3.2,1.4
